@@ -1,0 +1,67 @@
+services:
+  neo4j:
+    image: neo4j:5-community
+    ports: ["7474:7474", "7687:7687"]
+    environment:
+      NEO4J_AUTH: neo4j/mitorag_local
+      NEO4J_PLUGINS: '["apoc"]'
+    volumes:
+      - neo4j_data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p mitorag_local 'RETURN 1' || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+
+  ollama:
+    image: ollama/ollama:latest
+    ports: ["11434:11434"]
+    volumes:
+      - ollama_models:/root/.ollama
+    environment:
+      OLLAMA_NUM_PARALLEL: 2
+      OLLAMA_MAX_LOADED_MODELS: 2
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    ports: ["8000:8000"]
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      ollama:
+        condition: service_healthy
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./data/papers:/app/data/papers
+      - ./data/cache:/app/data/cache
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:8000/healthz', timeout=2)\"",
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+volumes:
+  neo4j_data:
+  ollama_models:

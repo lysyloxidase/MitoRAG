@@ -1,0 +1,26 @@
+[project]
+name = "mitorag-cli"
+version = "0.1.0"
+description = "Command-line interface for MitoRAG."
+requires-python = ">=3.9"
+dependencies = ["mitorag-ingestion"]
+
+[project.scripts]
+mitorag = "mitorag_cli.main:main"
+
+[project.optional-dependencies]
+dev = [
+  "pyright>=1.1.400",
+  "pytest>=8.0.0",
+  "ruff>=0.8.0",
+]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mitorag_cli"]

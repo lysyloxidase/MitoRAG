@@ -1,0 +1,29 @@
+[project]
+name = "mitorag-api"
+version = "0.1.0"
+description = "FastAPI gateway for MitoRAG."
+requires-python = ">=3.9"
+dependencies = [
+  "fastapi>=0.115.0",
+  "mitorag-ingestion",
+  "python-multipart>=0.0.9",
+  "uvicorn[standard]>=0.30.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "httpx>=0.27.0",
+  "pyright>=1.1.400",
+  "pytest>=8.0.0",
+  "ruff>=0.8.0",
+]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mitorag_api"]
