@@ -3,7 +3,22 @@ name = "mitorag-agents"
 version = "0.1.0"
 description = "LangGraph 12-agent orchestration package boundary."
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+  "mitorag-kg",
+  "mitorag-retrieval",
+  "pydantic>=2.7.0",
+]
+
+[project.optional-dependencies]
+langgraph = [
+  "langchain-ollama>=0.2.0",
+  "langgraph>=0.2.0",
+]
+dev = [
+  "pyright>=1.1.400",
+  "pytest>=8.0.0",
+  "ruff>=0.8.0",
+]
 
 [build-system]
 requires = ["hatchling"]

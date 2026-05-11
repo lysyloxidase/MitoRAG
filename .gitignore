@@ -11,6 +11,7 @@ build/
 *.egg-info/
 node_modules/
 data/chroma/
+data/*.db
 data/papers/*.pdf
 data/cache/*
 !data/cache/.gitkeep
@@ -18,4 +19,3 @@ data/seeds/**/*.gz
 data/seeds/**/*.zip
 neo4j_data/
 ollama_models/
-

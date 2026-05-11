@@ -1,8 +1,9 @@
 # MitoRAG
 
 MitoRAG is a local-first mitochondrial research assistant scaffold. Phase 1
-established PDF ingestion, Phase 2 added hybrid retrieval, and Phase 3 adds a
-Neo4j mitochondrial knowledge graph with curated offline seed loaders.
+established PDF ingestion, Phase 2 added hybrid retrieval, Phase 3 added a
+Neo4j mitochondrial knowledge graph, and Phase 4 adds the 12-agent orchestration
+layer.
 
 ## Quickstart
 
@@ -11,7 +12,7 @@ cp .env.example .env
 python -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
-python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "packages/knowledge_graph[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
+python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "packages/knowledge_graph[dev]" -e "packages/agents[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
 ruff check .
 pyright
 pytest
@@ -49,6 +50,12 @@ print(graph.count_nodes("Gene"), graph.run_scalar(MATRIX_LOCALIZATION_COUNT))
 PY
 ```
 
+Smoke-test the Phase 4 agent graph:
+
+```bash
+python scripts/agents_smoke.py "How many subunits does Complex I have?"
+```
+
 Production retrieval models are optional because they are large. Install and
 load them explicitly when you want the real PubMedBERT/BGE path:
 
@@ -56,6 +63,13 @@ load them explicitly when you want the real PubMedBERT/BGE path:
 python -m pip install -e "packages/retrieval[models]"
 MITORAG_LOAD_RERANKER_MODEL=1 python scripts/retrieval_smoke.py --load-reranker
 ollama pull nomic-embed-text
+```
+
+Production agent orchestration uses optional LangGraph/LangChain Ollama
+dependencies:
+
+```bash
+python -m pip install -e "packages/agents[langgraph]"
 ```
 
 Drop PDFs into `data/papers/` to ingest them through the watcher or POST them to
