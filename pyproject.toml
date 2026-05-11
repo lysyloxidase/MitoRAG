@@ -1,6 +1,6 @@
 [project]
 name = "mitorag"
-version = "0.1.0"
+version = "1.0.0"
 description = "Local mitochondrial RAG monorepo with ingestion, retrieval, KG, agents, API, and UI packages."
 requires-python = ">=3.9"
 
@@ -21,6 +21,8 @@ testpaths = [
   "packages/knowledge_graph/tests",
   "packages/agents/tests",
   "packages/internet/tests",
+  "apps/api/tests",
+  "apps/cli/tests",
 ]
 
 [tool.ruff]

@@ -1,9 +1,13 @@
 [project]
 name = "mitorag-cli"
-version = "0.1.0"
+version = "1.0.0"
 description = "Command-line interface for MitoRAG."
 requires-python = ">=3.9"
-dependencies = ["mitorag-ingestion"]
+dependencies = [
+  "mitorag-agents",
+  "mitorag-ingestion",
+  "mitorag-kg",
+]
 
 [project.scripts]
 mitorag = "mitorag_cli.main:main"

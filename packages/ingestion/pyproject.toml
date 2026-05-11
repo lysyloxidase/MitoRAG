@@ -1,6 +1,6 @@
 [project]
 name = "mitorag-ingestion"
-version = "0.1.0"
+version = "1.0.0"
 description = "Scientific PDF parsing, metadata extraction, chunking, and watcher pipeline for MitoRAG."
 requires-python = ">=3.9"
 dependencies = [

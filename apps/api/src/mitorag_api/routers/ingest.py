@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 from pathlib import Path
+from typing import List
 
 from fastapi import APIRouter, File, HTTPException, UploadFile
 from pydantic import BaseModel
@@ -19,6 +20,12 @@ class IngestResponse(BaseModel):
     title: str
     chunk_count: int
     saved_to: str
+
+
+class PaperSummary(BaseModel):
+    filename: str
+    size_bytes: int
+    status: str = "available"
 
 
 @router.post("/upload", response_model=IngestResponse)
@@ -38,3 +45,13 @@ async def upload_paper(file: Annotated[UploadFile, File(...)]) -> IngestResponse
         chunk_count=result.chunk_count,
         saved_to=str(target),
     )
+
+
+@router.get("/papers", response_model=List[PaperSummary])
+def list_papers() -> List[PaperSummary]:
+    papers_dir = Path(os.environ.get("PAPERS_DIR", "./data/papers"))
+    papers_dir.mkdir(parents=True, exist_ok=True)
+    return [
+        PaperSummary(filename=path.name, size_bytes=path.stat().st_size)
+        for path in sorted(papers_dir.glob("*.pdf"))
+    ]

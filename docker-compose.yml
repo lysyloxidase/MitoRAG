@@ -53,6 +53,15 @@ services:
       timeout: 5s
       retries: 12
 
+  ui:
+    build: ./packages/ui
+    ports: ["3000:3000"]
+    depends_on:
+      api:
+        condition: service_healthy
+    environment:
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
+
   redis:
     image: redis:7-alpine
     ports: ["6379:6379"]

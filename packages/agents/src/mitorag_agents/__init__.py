@@ -26,4 +26,4 @@ __all__ = [
     "build_mitorag_graph",
 ]
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"

@@ -1,6 +1,6 @@
 [project]
 name = "mitorag-kg"
-version = "0.1.0"
+version = "1.0.0"
 description = "Neo4j mitochondrial knowledge graph package boundary."
 requires-python = ">=3.9"
 dependencies = [

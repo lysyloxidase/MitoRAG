@@ -1,15 +1,134 @@
 # MitoRAG
 
-MitoRAG is a local-first mitochondrial research assistant scaffold. Phase 1
-established PDF ingestion, Phase 2 added hybrid retrieval, Phase 3 added a
-Neo4j mitochondrial knowledge graph, Phase 4 added the 12-agent orchestration
-layer, Phase 5 added scientific web search clients, and Phase 6 adds automatic
-paper-derived KG construction.
+Ask any question about mitochondria. Get cited, KG-grounded answers.
 
-## Quickstart
+MitoRAG is a local-first mitochondrial research assistant with PDF ingestion,
+hybrid retrieval, a Neo4j knowledge graph, 12-agent orchestration, scientific
+web search, Auto-KG construction, and a 3D web explorer.
+
+## Quick Start
 
 ```bash
 cp .env.example .env
+docker compose up --build
+open http://localhost:3000
+mitorag ask "How does Complex I contribute to ROS generation?"
+```
+
+Drop PDFs into `data/papers/` or use the Paper Library upload zone. The watcher
+parses papers, chunks evidence, indexes retrieval stores, extracts triples, and
+updates the KG with provenance.
+
+## Architecture
+
+```mermaid
+flowchart LR
+  Q[User query] --> R[Router]
+  R --> P[Planner]
+  P --> L[Local RAG]
+  P --> W[Web RAG]
+  P --> K[KG Cypher]
+  L --> E[Entity Linker]
+  W --> E
+  K --> E
+  E --> RR[RRF + BGE Reranker]
+  RR --> S1[Mitophysiology Specialist]
+  RR --> S2[Disease/Therapeutics Specialist]
+  S1 --> V[Verifier / CoVe]
+  S2 --> V
+  V --> S[Synthesizer]
+  S --> C[Citation Auditor]
+  C --> A[Cited answer]
+```
+
+## Web UI
+
+- Chat page: streaming answer, clickable `[PMID:xxxxx]` and `[doi:...]`
+  citations, contradiction badges, and a collapsible 12-agent latency trace.
+- 3D KG Explorer: force-directed molecular graph with node colors by type,
+  search/center, filters, level selector, edge evidence, and red controversy
+  highlighting.
+- Paper Library: ingested paper list, drag-and-drop PDF upload, per-paper
+  entities/triples/status, and local corpus search.
+- Dashboard: KG statistics, agent latency, recent queries, performance targets,
+  and ingestion log.
+
+## 10 KG Levels
+
+1. Whole mitochondrion: OMM, IMM, IMS, matrix, localization edges.
+2. OXPHOS / ETC: Complex I-V, CoQ10, cytochrome c, electron/proton flow.
+3. TCA cycle: citrate synthase through malate dehydrogenase.
+4. Fatty acid beta-oxidation: CPT1/CPT2 to acetyl-CoA.
+5. Dynamics: MFN1/2, OPA1, DRP1/FIS1/MFF, PINK1/Parkin, PGC-1alpha/TFAM.
+6. Import: TOM, TIM23, TIM22, SAM, MIA40/Erv1, MCU.
+7. Apoptosis: BCL-2 family, MOMP, cytochrome c, caspase-9, mPTP controversy.
+8. Diseases: MELAS, LHON, Leigh, MERRF, NARP with variants and genes.
+9. Signaling: UPRmt, ROS, NF-kB/HIF-1alpha/Nrf2, FGF21, GDF15, ISR.
+10. Therapeutics: Idebenone, CoQ10, MitoQ, Elamipretide, Urolithin A, NMN, NR.
+
+## Supported APIs
+
+- PubMed E-utilities
+- Semantic Scholar Academic Graph
+- Europe PMC
+- bioRxiv/medRxiv
+- PubTator3 annotations
+- CrossRef/Unpaywall-ready package boundaries
+
+## CLI
+
+```bash
+mitorag ask "How does Complex I contribute to ROS generation?"
+mitorag ask "What drugs target mitophagy?" --deep
+mitorag ingest ./new_papers/
+mitorag kg stats
+mitorag kg query "MATCH (g:Gene)-[:CAUSES]->(d:Disease) RETURN g,d LIMIT 10"
+mitorag kg level 2
+mitorag search "PINK1 Parkin mitophagy"
+mitorag contradictions
+```
+
+## Performance Targets
+
+- Query to answer: 30-120s on 32GB / 12-core CPU.
+- PDF ingestion: under 30s per paper.
+- KG query: under 1s for simple Cypher.
+- Hybrid retrieval: under 2s over 10K chunks.
+- Fan-out internet search: under 5s with parallel async clients.
+
+## Model Requirements
+
+32GB RAM is recommended. 16GB works with the fallback reasoning model.
+
+| Component | 32GB profile |
+| --- | ---: |
+| qwen2.5:14b Q4_K_M | ~9 GB |
+| llama3.2:3b Q4_K_M | ~2 GB |
+| Ollama overhead | ~2 GB |
+| Neo4j | ~4 GB |
+| ChromaDB | ~2 GB |
+| Python + API | ~4 GB |
+| OS | ~8 GB |
+| Total | ~31 GB |
+
+For 16GB machines, set:
+
+```env
+MODEL_REASONING=qwen2.5:7b-instruct-q4_K_M
+```
+
+Expect roughly a 10% reasoning quality drop, but the stack fits without swap.
+
+## Screenshot Gallery
+
+- Chat: cited response with agent trace and contradiction badge.
+- KG Explorer: 3D OXPHOS subgraph centered on Complex I-V.
+- Paper Library: drag-and-drop PDF ingestion and Auto-KG status.
+- Dashboard: KG stats above agent latency and ingestion log.
+
+## Development
+
+```bash
 python -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
@@ -19,82 +138,20 @@ pyright
 pytest
 ```
 
-Start infrastructure:
+Frontend:
 
 ```bash
-docker compose up --build
+cd packages/ui
+npm install
+npm run dev
 ```
 
-Pull and smoke-test the configured reasoning model when you are ready for the
-multi-GB download:
+Smoke tests:
 
 ```bash
 python scripts/ollama_smoke.py
-```
-
-Run a local retrieval latency smoke test:
-
-```bash
 python scripts/retrieval_smoke.py
-```
-
-Smoke-test the Phase 3 seed graph in memory:
-
-```bash
-python - <<'PY'
-from mitorag_kg import InMemoryKG, load_all_seeds
-from mitorag_kg.graph_queries import MATRIX_LOCALIZATION_COUNT
-
-graph = InMemoryKG()
-load_all_seeds(graph)
-print(graph.count_nodes("Gene"), graph.run_scalar(MATRIX_LOCALIZATION_COUNT))
-PY
-```
-
-Smoke-test the Phase 4 agent graph:
-
-```bash
 python scripts/agents_smoke.py "How many subunits does Complex I have?"
-```
-
-Smoke-test Phase 5 scientific web search:
-
-```bash
 python scripts/web_search_smoke.py "Complex I cryo-EM"
-MITORAG_ENABLE_LIVE_WEB=1 python scripts/agents_smoke.py "Find recent papers on PINK1 mitophagy"
-```
-
-Smoke-test Phase 6 auto-KG construction:
-
-```bash
 python scripts/auto_kg_smoke.py
 ```
-
-Production retrieval models are optional because they are large. Install and
-load them explicitly when you want the real PubMedBERT/BGE path:
-
-```bash
-python -m pip install -e "packages/retrieval[models]"
-MITORAG_LOAD_RERANKER_MODEL=1 python scripts/retrieval_smoke.py --load-reranker
-ollama pull nomic-embed-text
-```
-
-Production agent orchestration uses optional LangGraph/LangChain Ollama
-dependencies:
-
-```bash
-python -m pip install -e "packages/agents[langgraph]"
-```
-
-Drop PDFs into `data/papers/` to ingest them through the watcher or POST them to
-`/ingest/upload` once the API is running.
-
-## Phase Map
-
-- Phase 1: monorepo, Ollama model setup, PDF parsing/chunking/watcher
-- Phase 2: hybrid retrieval with PubMedBERT, Nomic, BM25, RRF, and reranking
-- Phase 3: Neo4j mitochondrial knowledge graph and ontology seeds
-- Phase 4: 12-agent LangGraph orchestration
-- Phase 5: scientific web search integrations
-- Phase 6: automatic KG construction from papers
-- Phase 7: web frontend

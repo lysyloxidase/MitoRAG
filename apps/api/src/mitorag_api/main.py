@@ -8,7 +8,7 @@ from mitorag_api.routers import health, ingest, kg, query
 
 
 def create_app() -> FastAPI:
-    app = FastAPI(title="MitoRAG API", version="0.1.0")
+    app = FastAPI(title="MitoRAG API", version="1.0.0")
     app.include_router(health.router)
     app.include_router(query.router, prefix="/query", tags=["query"])
     app.include_router(ingest.router, prefix="/ingest", tags=["ingest"])
@@ -17,4 +17,3 @@ def create_app() -> FastAPI:
 
 
 app = create_app()
-

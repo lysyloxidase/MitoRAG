@@ -4,12 +4,17 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.coverage
 .ruff_cache/
 .pyright/
 dist/
 build/
 *.egg-info/
 node_modules/
+.next/
+*.tsbuildinfo
+playwright-report/
+test-results/
 data/chroma/
 data/*.db
 data/papers/*.pdf
