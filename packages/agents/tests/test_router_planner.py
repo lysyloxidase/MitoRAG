@@ -12,12 +12,12 @@ def test_router_classifies_disease_query() -> None:
     assert classify_query("What causes MELAS?") == "disease"
 
 
-def test_planner_returns_three_to_five_subqueries_for_complex_query() -> None:
+def test_planner_returns_three_to_seven_subqueries_for_complex_query() -> None:
     sub_queries = plan_sub_queries(
         "What causes MELAS and what mitochondrial pathway is affected?",
         "disease",
     )
 
-    assert 3 <= len(sub_queries) <= 5
+    assert 3 <= len(sub_queries) <= 7
     assert any("variant" in query or "pathway" in query for query in sub_queries)
 

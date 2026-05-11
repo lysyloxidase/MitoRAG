@@ -48,6 +48,7 @@ def test_synthesizer_outputs_at_least_three_inline_pmid_citations() -> None:
     evidence = [evidence_from_ranked(chunk) for chunk in chunks]
     state = MitoRAGState(
         query="How many subunits does Complex I have?",
+        local_chunks=chunks,
         evidence=evidence,
         verified=True,
     )

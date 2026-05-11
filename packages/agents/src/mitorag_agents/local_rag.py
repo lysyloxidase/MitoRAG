@@ -189,6 +189,63 @@ def _citation_for(paper_id: str) -> str:
 
 
 def local_fixture_chunks(query: str) -> List[RankedChunk]:
-    """Kept for legacy callers/tests; intentionally empty so it cannot pollute state."""
+    """Deterministic fixture chunks used by unit tests only.
+
+    Production code path (``local_rag_node``) does *not* call this function;
+    it scans the real PDF library instead. These fixtures intentionally cover
+    Complex I, MELAS, and the mPTP controversy so verifier/synthesizer tests
+    have predictable evidence to assert against.
+    """
     del query
-    return []
+    return [
+        ranked_chunk(
+            "local-complex-i",
+            "Complex I contains 45 subunits, including seven mtDNA-encoded ND subunits.",
+            "PMID:33174596",
+            "Results > Complex I",
+            0.97,
+            1,
+            "local_rag",
+            "[PMID:33174596]",
+        ),
+        ranked_chunk(
+            "local-melas",
+            "The m.3243A>G variant in MT-TL1 is a canonical cause of MELAS syndrome.",
+            "PMID:25613900",
+            "Disease > MELAS",
+            0.92,
+            2,
+            "local_rag",
+            "[PMID:25613900]",
+        ),
+        ranked_chunk(
+            "local-mptp-atp",
+            "One disputed model proposes the mPTP is formed by ATP synthase dimers.",
+            "PMID:37336870",
+            "Discussion > mPTP",
+            0.88,
+            3,
+            "local_rag",
+            "[PMID:37336870]",
+        ),
+        ranked_chunk(
+            "local-mptp-ant",
+            "Contradictory synthase-null evidence supports non-ATP-synthase mPTP opening.",
+            "PMID:37607939",
+            "Discussion > mPTP",
+            0.87,
+            4,
+            "local_rag",
+            "[PMID:37607939]",
+        ),
+        ranked_chunk(
+            "local-methods",
+            "Mitochondrial isolation uses differential centrifugation and purity controls.",
+            "PMID:30000001",
+            "Methods > Isolation",
+            0.74,
+            5,
+            "local_rag",
+            "[PMID:30000001]",
+        ),
+    ]

@@ -7,12 +7,11 @@ Builds a substantial, citation-grounded answer from the actual evidence pool
 from __future__ import annotations
 
 import re
-from typing import Iterable, List, Optional, Tuple
+from typing import Iterable, List, Optional, Tuple, cast
 
 from mitorag_agents.state import MitoRAGState, StateUpdate
 from mitorag_agents.utils import extract_citations, timed_node
 from mitorag_retrieval.models import RankedChunk
-
 
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9])")
 TOPIC_HINTS = [
@@ -32,7 +31,7 @@ TOPIC_HINTS = [
     ("ros", "mitochondrial reactive oxygen species"),
     ("apoptosis", "intrinsic apoptotic pathway"),
     ("tca", "TCA (Krebs) cycle"),
-    ("fatty acid", "fatty-acid β-oxidation"),
+    ("fatty acid", "fatty-acid beta-oxidation"),
 ]
 
 # Textbook intros for fundamental questions where literature alone is insufficient.
@@ -41,29 +40,29 @@ FUNDAMENTALS: dict[str, str] = {
         "Mitochondria are double-membrane organelles found in nearly all eukaryotic cells, "
         "containing their own circular genome (mtDNA, ~16.5 kb in humans encoding 13 OXPHOS "
         "subunits, 22 tRNAs and 2 rRNAs). They generate most cellular ATP through oxidative "
-        "phosphorylation (OXPHOS) coupling the electron transport chain (Complexes I–IV plus "
+        "phosphorylation (OXPHOS) coupling the electron transport chain (Complexes I-IV plus "
         "Complex V/ATP synthase) with substrate oxidation from the TCA cycle and fatty-acid "
-        "β-oxidation. Beyond bioenergetics they regulate calcium homeostasis, apoptosis "
-        "(intrinsic pathway via cytochrome c release), iron–sulfur cluster biogenesis, "
+        "beta-oxidation. Beyond bioenergetics they regulate calcium homeostasis, apoptosis "
+        "(intrinsic pathway via cytochrome c release), iron-sulfur cluster biogenesis, "
         "heme synthesis, ROS signaling and innate immunity. Mitochondria are inherited "
-        "maternally and follow the endosymbiotic theory of α-proteobacterial origin."
+        "maternally and follow the endosymbiotic theory of alpha-proteobacterial origin."
     ),
     "what are mitochondria": "REUSE:what is mitochondria",
-    "co to są mitochondria": "REUSE:what is mitochondria",
+    "co to sa mitochondria": "REUSE:what is mitochondria",
     "co to jest mitochondrium": "REUSE:what is mitochondria",
     "what is oxphos": (
         "Oxidative phosphorylation (OXPHOS) is the inner-mitochondrial-membrane process that "
-        "couples electron transport through Complexes I–IV with proton pumping into the "
+        "couples electron transport through Complexes I-IV with proton pumping into the "
         "intermembrane space, generating an electrochemical gradient that drives ATP synthesis "
-        "by Complex V (F1F0-ATP synthase). NADH and FADH2 from the TCA cycle and β-oxidation "
+        "by Complex V (F1F0-ATP synthase). NADH and FADH2 from the TCA cycle and beta-oxidation "
         "donate electrons; molecular oxygen is the terminal acceptor reduced to water at "
-        "Complex IV. OXPHOS produces ~30–32 ATP per glucose and is the dominant source of "
+        "Complex IV. OXPHOS produces ~30-32 ATP per glucose and is the dominant source of "
         "cellular reactive oxygen species at Complex I and Complex III."
     ),
     "what is the electron transport chain": "REUSE:what is oxphos",
     "what is etc": "REUSE:what is oxphos",
     "what is mtdna": (
-        "Mitochondrial DNA (mtDNA) is a circular ~16.5 kb genome present in 100–10,000 copies "
+        "Mitochondrial DNA (mtDNA) is a circular ~16.5 kb genome present in 100-10,000 copies "
         "per cell, encoding 13 protein subunits of OXPHOS Complexes I, III, IV and V, plus 22 "
         "tRNAs and 2 rRNAs required for intramitochondrial translation. It lacks introns, has "
         "minimal repair capacity, and is inherited maternally. Pathogenic mtDNA variants cause "
@@ -157,12 +156,12 @@ def _provenance_banner(has_local: bool, sufficient_local: bool, primary_count: i
         )
     if has_local:
         return (
-            f"**Source: local PDFs + web fallback.** {primary_count} local passages found — "
+            f"**Source: local PDFs + web fallback.** {primary_count} local passages found - "
             "dispatched web-search agents (PubMed, Semantic Scholar, Europe PMC, bioRxiv) "
             "to fill gaps."
         )
     return (
-        "**Source: scientific web search.** No matching local PDFs — dispatched agents "
+        "**Source: scientific web search.** No matching local PDFs - dispatched agents "
         "to PubMed, Semantic Scholar, Europe PMC and bioRxiv for the most recent literature."
     )
 
@@ -251,19 +250,29 @@ def _collect_evidence(chunks: Iterable[RankedChunk], limit: int) -> List[Tuple[s
     seen_keys: set[str] = set()
     for chunk in chunks:
         doc = chunk.document
-        meta = getattr(doc, "metadata", {}) or {}
-        citation = (
-            (meta.get("citation") if isinstance(meta, dict) else None)
-            or _citation_for(doc.paper_id)
-            or ""
+        meta_raw: object = getattr(doc, "metadata", None)
+        meta: dict[str, object] = {}
+        if isinstance(meta_raw, dict):
+            raw_dict = cast(dict[object, object], meta_raw)
+            for k, v in raw_dict.items():
+                meta[str(k)] = v
+
+        meta_citation = meta.get("citation")
+        meta_title = meta.get("title")
+        citation: str = (
+            meta_citation if isinstance(meta_citation, str) and meta_citation
+            else (_citation_for(doc.paper_id) or "")
         )
-        title = (meta.get("title") if isinstance(meta, dict) else None) or _shorten(doc.text, 80)
+        title: str = (
+            meta_title if isinstance(meta_title, str) and meta_title
+            else _shorten(doc.text, 80)
+        )
         snippet = _shorten(doc.text, 320)
         key = citation or title
         if not key or key in seen_keys:
             continue
         seen_keys.add(key)
-        items.append((citation or "", title or "", snippet))
+        items.append((citation, title, snippet))
         if len(items) >= limit:
             break
     return items
@@ -310,7 +319,7 @@ def _intro_paragraph(
         f"**Answering: {query.rstrip('?').strip()}**\n\n"
         f"Current peer-reviewed literature on {topic} establishes the following. "
     )
-    sentences = []
+    sentences: list[str] = []
     for cit, _title, snippet in leads:
         sent = _first_sentence(snippet)
         if not sent:
@@ -322,10 +331,17 @@ def _intro_paragraph(
     return head + body
 
 
+_MECHANISM_KEYWORDS = (
+    "mechanism", "pathway", "complex", "subunit", "kinase", "signaling",
+)
+_CLINICAL_KEYWORDS = (
+    "patient", "clinical", "trial", "cohort", "disease",
+    "treatment", "therapy", "drug",
+)
+
+
 def _mechanism_paragraph(web: List[Tuple[str, str, str]], topic: str) -> str:
-    candidates = [w for w in web if any(
-        k in w[2].lower() for k in ("mechanism", "pathway", "complex", "subunit", "kinase", "signaling")
-    )]
+    candidates = [w for w in web if any(k in w[2].lower() for k in _MECHANISM_KEYWORDS)]
     if not candidates:
         return ""
     bullets: List[str] = []
@@ -338,14 +354,11 @@ def _mechanism_paragraph(web: List[Tuple[str, str, str]], topic: str) -> str:
         bullets.append(f"- {sent}.")
     if not bullets:
         return ""
-    return f"**Mechanistic context — {topic}.**\n" + "\n".join(bullets)
+    return f"**Mechanistic context - {topic}.**\n" + "\n".join(bullets)
 
 
 def _clinical_paragraph(web: List[Tuple[str, str, str]], query: str) -> str:
-    relevant = [w for w in web if any(
-        k in w[2].lower()
-        for k in ("patient", "clinical", "trial", "cohort", "disease", "treatment", "therapy", "drug")
-    )]
+    relevant = [w for w in web if any(k in w[2].lower() for k in _CLINICAL_KEYWORDS)]
     if not relevant:
         return ""
     bullets: List[str] = []

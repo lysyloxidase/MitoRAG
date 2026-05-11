@@ -142,14 +142,16 @@ def _chunk_to_source(chunk: object, *, bucket: str) -> Optional[SourcePaper]:
 
 def _unpack_chunk(chunk: object) -> tuple[Mapping[str, Any], float]:
     if isinstance(chunk, Mapping):
-        document = chunk.get("document")
-        if isinstance(document, Mapping):
-            return cast(Mapping[str, Any], document), _float(chunk.get("score"))
-        return cast(Mapping[str, Any], chunk), _float(chunk.get("score"))
+        chunk_map = cast(Mapping[str, Any], chunk)
+        document_obj = chunk_map.get("document")
+        score_value = _float(chunk_map.get("score"))
+        if isinstance(document_obj, Mapping):
+            return cast(Mapping[str, Any], document_obj), score_value
+        return chunk_map, score_value
     if hasattr(chunk, "document"):
         document_attr = getattr(chunk, "document")
         if hasattr(document_attr, "model_dump"):
-            document = document_attr.model_dump()
+            document: Mapping[str, Any] = document_attr.model_dump()
         else:
             document = dict(getattr(document_attr, "__dict__", {}))
         score = _float(getattr(chunk, "score", 0.0))
