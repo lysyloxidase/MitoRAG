@@ -19,7 +19,7 @@ jobs:
       - name: Install backend packages
         run: |
           python -m pip install -U pip
-          python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
+          python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "packages/knowledge_graph[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
 
       - name: Ruff
         run: ruff check .
