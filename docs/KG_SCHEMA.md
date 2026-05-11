@@ -19,7 +19,7 @@ Core labels:
 - `Drug`, keyed by `name`
 - `Phenotype`, keyed by `hpo_id`
 - `SubMitoCompartment`, keyed by `name`
-- `Paper`, `Claim`, and `Hypothesis`
+- `Paper`, `Claim`, `Contradiction`, and `Hypothesis`
 
 ## Seeds
 
@@ -38,6 +38,20 @@ The loaders support a real Neo4j driver through `Neo4jGraphWriter`, and tests us
 - ChEBI: core metabolites including NAD+, NADH, ATP, ADP, succinate, and citrate.
 - Therapeutics: 10 drug nodes with target edges.
 - Hypotheses: disputed mPTP hypotheses linked by `CONTRADICTS`.
+- Auto-KG: paper-derived triples are merged with `paper_doi`, `paper_pmid`,
+  `evidence`, `confidence`, `extraction_method`, and `evidence_count`
+  relationship provenance.
+
+## Auto-KG
+
+Phase 6 adds `AutoKGConstructor`, which turns parsed paper text into graph
+triples through deterministic local NER/linking/extraction rules that mirror
+the production PubTator/SciSpaCy/LLM pipeline. The constructor validates
+predicates against the Biolink-style whitelist, rejects unresolved entities and
+low-confidence triples, increments `evidence_count` when multiple papers support
+the same `(subject, predicate, object)`, and creates `Contradiction` plus
+disputed `Hypothesis` nodes when an extracted relation opposes a high-confidence
+existing relation.
 
 ## Query Example
 
@@ -47,5 +61,6 @@ MATCH (g:Gene)-[:ENCODED_BY]-(p:Protein)-[:LOCALIZES_TO]->
 RETURN count(p)
 ```
 
-The offline seed returns `525` for this query. Phase 6 will add paper-derived
-claims and provenance down to chunk ID.
+The offline seed returns `525` for this query. Paper-derived claims add
+relationship-level provenance suitable for citation auditing and contradiction
+surfacing.

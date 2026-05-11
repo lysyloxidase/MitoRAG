@@ -37,3 +37,13 @@ The `WebRAGAgent` fans out across the four search APIs, deduplicates papers by
 DOI/PMID, hydrates PubMed abstracts, annotates PMIDs through PubTator3, embeds
 abstracts with the Phase 2 embedding backend, and converts them into ranked
 web chunks for RRF fusion with local retrieval evidence.
+
+## Auto-KG Construction
+
+Phase 6 closes the loop between ingestion and the KG. `AutoKGConstructor` can
+consume parsed paper text or a Phase 1 `IngestionResult`, extract normalized
+entities, produce structured triples, validate them against the schema, and
+merge accepted triples with provenance. Repeated support increments
+`evidence_count`; opposing high-confidence relations create explicit
+`Contradiction` and disputed `Hypothesis` nodes instead of silently overwriting
+the KG.

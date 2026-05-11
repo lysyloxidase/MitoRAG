@@ -6,7 +6,7 @@ from mitorag_agents.local_rag import local_fixture_chunks
 from mitorag_agents.state import MitoRAGState
 from mitorag_agents.synthesizer import synthesizer_node
 from mitorag_agents.utils import evidence_from_ranked, merge_updates
-from mitorag_agents.verifier import verifier_node
+from mitorag_agents.verifier import ContradictionDetector, RelationAssertion, verifier_node
 
 
 def test_kg_cypher_generates_valid_cypher_and_result() -> None:
@@ -30,6 +30,17 @@ def test_verifier_detects_mptp_contradiction() -> None:
     assert verified.verified
     assert verified.contradictions
     assert "mPTP" in verified.contradictions[0].claim
+
+
+def test_contradiction_detector_detects_opposing_relations() -> None:
+    detector = ContradictionDetector()
+    candidate = RelationAssertion("PINK1", "inhibits", "PRKN", "new-paper", 0.9)
+    existing = [RelationAssertion("PINK1", "activates", "PRKN", "seed-kg", 0.95)]
+
+    contradictions = detector.detect_relation_conflicts(candidate, existing)
+
+    assert contradictions
+    assert "opposing" in contradictions[0].claim
 
 
 def test_synthesizer_outputs_at_least_three_inline_pmid_citations() -> None:
@@ -58,4 +69,3 @@ def test_citation_auditor_catches_fabricated_pmid_and_triggers_retry() -> None:
     assert not audited.citations_valid
     assert audited.invalid_citations == ["[PMID:99999999]"]
     assert audited.citation_retry_count == 1
-

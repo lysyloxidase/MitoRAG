@@ -3,7 +3,8 @@
 MitoRAG is a local-first mitochondrial research assistant scaffold. Phase 1
 established PDF ingestion, Phase 2 added hybrid retrieval, Phase 3 added a
 Neo4j mitochondrial knowledge graph, Phase 4 added the 12-agent orchestration
-layer, and Phase 5 adds scientific web search clients.
+layer, Phase 5 added scientific web search clients, and Phase 6 adds automatic
+paper-derived KG construction.
 
 ## Quickstart
 
@@ -61,6 +62,12 @@ Smoke-test Phase 5 scientific web search:
 ```bash
 python scripts/web_search_smoke.py "Complex I cryo-EM"
 MITORAG_ENABLE_LIVE_WEB=1 python scripts/agents_smoke.py "Find recent papers on PINK1 mitophagy"
+```
+
+Smoke-test Phase 6 auto-KG construction:
+
+```bash
+python scripts/auto_kg_smoke.py
 ```
 
 Production retrieval models are optional because they are large. Install and

@@ -67,6 +67,17 @@ NODE_TYPES: Dict[str, Mapping[str, object]] = {
     "Claim": {
         "properties": ["text", "confidence", "extraction_method"],
     },
+    "Contradiction": {
+        "properties": [
+            "id",
+            "subject_id",
+            "object_id",
+            "new_predicate",
+            "existing_predicate",
+            "evidence",
+            "paper_doi",
+        ],
+    },
     "Hypothesis": {
         "properties": ["name", "description", "status"],
     },
@@ -110,6 +121,7 @@ UNIQUE_CONSTRAINTS = {
     "SubMitoCompartment": "name",
     "Paper": "pmid",
     "Claim": "text",
+    "Contradiction": "id",
     "Hypothesis": "name",
 }
 

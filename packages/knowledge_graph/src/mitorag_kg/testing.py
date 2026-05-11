@@ -130,6 +130,29 @@ class InMemoryKG:
             for rel in self.relationships
         )
 
+    def find_relationship(
+        self,
+        start_label: str,
+        start_key: str,
+        start_value: object,
+        relationship_type: str,
+        end_label: str,
+        end_key: str,
+        end_value: object,
+    ) -> Optional[MemoryRelationship]:
+        start = self.get_node(start_label, start_key, start_value)
+        end = self.get_node(end_label, end_key, end_value)
+        if start is None or end is None:
+            return None
+        for rel in self.relationships:
+            if (
+                rel.start_id == start.id
+                and rel.relationship_type == relationship_type
+                and rel.end_id == end.id
+            ):
+                return rel
+        return None
+
     def count_localized_proteins(self, compartment_name: str) -> int:
         compartment = self.get_node("SubMitoCompartment", "name", compartment_name)
         if compartment is None:
@@ -174,4 +197,3 @@ class InMemoryKG:
 
 def _hashable(value: object) -> str:
     return str(value)
-
