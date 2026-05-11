@@ -1,9 +1,40 @@
+"use client";
+
 import { Activity, Database, FileText, Network, Timer } from "lucide-react";
-import type { ReactNode } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 
 import { AGENT_TRACE, DASHBOARD_STATS, INGESTION_LOG, RECENT_QUERIES } from "@/lib/mock-data";
 
+const API_BASE = process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8000";
+
 export default function DashboardPage() {
+  const [paperCount, setPaperCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    async function load() {
+      try {
+        const res = await fetch(`${API_BASE}/ingest/papers`);
+        if (!res.ok) return;
+        const data = await res.json();
+        if (!cancelled && Array.isArray(data)) setPaperCount(data.length);
+      } catch {
+        // leave as null — fall back to mock
+      }
+    }
+    void load();
+    const interval = window.setInterval(load, 8000);
+    return () => {
+      cancelled = true;
+      window.clearInterval(interval);
+    };
+  }, []);
+
+  const liveStats = {
+    ...DASHBOARD_STATS,
+    papers: paperCount ?? DASHBOARD_STATS.papers,
+  };
+
   return (
     <main className="min-h-[calc(100vh-3.5rem)] p-5">
       <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
@@ -17,10 +48,14 @@ export default function DashboardPage() {
       </div>
 
       <section className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
-        <Stat icon={<Database size={18} />} label="KG nodes" value={DASHBOARD_STATS.nodes} />
-        <Stat icon={<Network size={18} />} label="KG edges" value={DASHBOARD_STATS.edges} />
-        <Stat icon={<FileText size={18} />} label="papers" value={DASHBOARD_STATS.papers} />
-        <Stat icon={<Activity size={18} />} label="auto triples" value={DASHBOARD_STATS.triples} />
+        <Stat icon={<Database size={18} />} label="KG nodes" value={liveStats.nodes} />
+        <Stat icon={<Network size={18} />} label="KG edges" value={liveStats.edges} />
+        <Stat
+          icon={<FileText size={18} />}
+          label={paperCount === null ? "papers (mock)" : "papers (live)"}
+          value={liveStats.papers}
+        />
+        <Stat icon={<Activity size={18} />} label="auto triples" value={liveStats.triples} />
       </section>
 
       <section className="mt-5 grid gap-5 xl:grid-cols-[1.2fr_0.8fr]">
@@ -47,10 +82,10 @@ export default function DashboardPage() {
         <div className="rounded border border-line bg-[#111b24] p-5">
           <h2 className="mb-4 font-semibold">Performance targets</h2>
           <div className="grid gap-3">
-            <Target label="Hybrid retrieval" value={`${DASHBOARD_STATS.retrievalMs} ms`} target="<2s" />
-            <Target label="Internet fan-out" value={`${DASHBOARD_STATS.webSearchMs} ms`} target="<5s" />
-            <Target label="Full answer" value={`${DASHBOARD_STATS.querySeconds}s`} target="30-120s" />
-            <Target label="PDF ingestion" value={`${DASHBOARD_STATS.ingestionSeconds}s`} target="<30s" />
+            <Target label="Hybrid retrieval" value={`${liveStats.retrievalMs} ms`} target="<2s" />
+            <Target label="Internet fan-out" value={`${liveStats.webSearchMs} ms`} target="<5s" />
+            <Target label="Full answer" value={`${liveStats.querySeconds}s`} target="30-120s" />
+            <Target label="PDF ingestion" value={`${liveStats.ingestionSeconds}s`} target="<30s" />
           </div>
         </div>
       </section>

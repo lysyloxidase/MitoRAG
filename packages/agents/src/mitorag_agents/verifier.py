@@ -38,8 +38,26 @@ class ContradictionDetector:
         "MitoCarta 3.0 completeness: 1,136 curated genes vs broader candidate sets",
     ]
 
-    def detect_evidence_contradictions(self, evidence: List[Evidence]) -> List[Contradiction]:
-        """Detect contradictions directly from retrieved evidence text."""
+    mptp_query_terms: ClassVar[Sequence[str]] = (
+        "mptp", "permeability transition", "permeability-transition pore",
+        "transition pore", "pt pore", "atp synthase pore",
+    )
+
+    def detect_evidence_contradictions(
+        self,
+        evidence: List[Evidence],
+        query: str = "",
+    ) -> List[Contradiction]:
+        """Detect contradictions directly from retrieved evidence text.
+
+        Only surfaces the mPTP composition controversy if the user's query is
+        actually about mPTP / permeability transition — otherwise the badge
+        becomes noise on unrelated questions.
+        """
+
+        q = query.lower()
+        if not any(term in q for term in self.mptp_query_terms):
+            return []
 
         atp_ids = [
             item.id
@@ -104,7 +122,7 @@ def verifier_node(state: MitoRAGState) -> StateUpdate:
 
     with timed_node(state, "verifier") as update:
         claims = extract_claims(state.evidence)
-        contradictions = detect_contradictions(state.evidence)
+        contradictions = detect_contradictions(state.evidence, state.query)
         update["claims"] = claims
         update["contradictions"] = contradictions
         update["verified"] = True
@@ -127,5 +145,5 @@ def extract_claims(evidence: List[Evidence]) -> List[Claim]:
     return claims
 
 
-def detect_contradictions(evidence: List[Evidence]) -> List[Contradiction]:
-    return ContradictionDetector().detect_evidence_contradictions(evidence)
+def detect_contradictions(evidence: List[Evidence], query: str = "") -> List[Contradiction]:
+    return ContradictionDetector().detect_evidence_contradictions(evidence, query)

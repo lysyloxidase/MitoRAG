@@ -26,7 +26,7 @@ class EuropePMCClient:
         self.cache = cache
         self.rate_limiter = rate_limiter or AsyncRateLimiter(3.0)
 
-    async def search(self, query: str, max_results: int = 20) -> List[EuropePMCResult]:
+    async def search(self, query: str, max_results: int = 25) -> List[EuropePMCResult]:
         params = {
             "query": f"({query}) AND mitochondri*",
             "format": "json",

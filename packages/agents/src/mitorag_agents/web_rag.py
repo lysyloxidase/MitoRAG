@@ -82,7 +82,7 @@ class WebRAGAgent:
             return_exceptions=True,
         )
         merged = self._deduplicate(_flatten_results(responses))
-        abstracts = await self._fetch_abstracts(merged[:20])
+        abstracts = await self._fetch_abstracts(merged[:30])
         annotations = await self._annotate_pmids(_pmids(abstracts))
         return self._embed_chunks(query, abstracts, annotations)
 

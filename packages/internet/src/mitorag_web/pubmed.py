@@ -33,7 +33,7 @@ class PubMedClient:
         self.cache = cache
         self.rate_limiter = rate_limiter or pubmed_rate_limiter(api_key)
 
-    async def search(self, query: str, max_results: int = 20) -> List[PubMedResult]:
+    async def search(self, query: str, max_results: int = 30) -> List[PubMedResult]:
         """Search PubMed. Auto-appends mitochondrial domain filter."""
 
         mito_query = f"({query}) AND mitochondri*"

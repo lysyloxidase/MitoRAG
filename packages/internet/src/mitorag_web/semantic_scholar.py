@@ -37,7 +37,7 @@ class SemanticScholarClient:
     async def search(
         self,
         query: str,
-        max_results: int = 20,
+        max_results: int = 25,
         year_range: Optional[Tuple[int, int]] = None,
     ) -> List[S2Paper]:
         params: dict[str, object] = {
