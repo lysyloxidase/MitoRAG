@@ -5,6 +5,16 @@ description = "Scientific web API clients for MitoRAG Phase 5."
 requires-python = ">=3.9"
 dependencies = []
 
+[project.optional-dependencies]
+cache = [
+  "redis>=5.0.0",
+]
+dev = [
+  "pyright>=1.1.400",
+  "pytest>=8.0.0",
+  "ruff>=0.8.0",
+]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"

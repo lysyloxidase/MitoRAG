@@ -2,8 +2,8 @@
 
 MitoRAG is a local-first mitochondrial research assistant scaffold. Phase 1
 established PDF ingestion, Phase 2 added hybrid retrieval, Phase 3 added a
-Neo4j mitochondrial knowledge graph, and Phase 4 adds the 12-agent orchestration
-layer.
+Neo4j mitochondrial knowledge graph, Phase 4 added the 12-agent orchestration
+layer, and Phase 5 adds scientific web search clients.
 
 ## Quickstart
 
@@ -12,7 +12,7 @@ cp .env.example .env
 python -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
-python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "packages/knowledge_graph[dev]" -e "packages/agents[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
+python -m pip install -e "packages/ingestion[dev]" -e "packages/retrieval[dev]" -e "packages/knowledge_graph[dev]" -e "packages/internet[dev]" -e "packages/agents[dev]" -e "apps/api[dev]" -e "apps/cli[dev]"
 ruff check .
 pyright
 pytest
@@ -54,6 +54,13 @@ Smoke-test the Phase 4 agent graph:
 
 ```bash
 python scripts/agents_smoke.py "How many subunits does Complex I have?"
+```
+
+Smoke-test Phase 5 scientific web search:
+
+```bash
+python scripts/web_search_smoke.py "Complex I cryo-EM"
+MITORAG_ENABLE_LIVE_WEB=1 python scripts/agents_smoke.py "Find recent papers on PINK1 mitophagy"
 ```
 
 Production retrieval models are optional because they are large. Install and

@@ -6,6 +6,7 @@ requires-python = ">=3.9"
 dependencies = [
   "mitorag-kg",
   "mitorag-retrieval",
+  "mitorag-web",
   "pydantic>=2.7.0",
 ]
 

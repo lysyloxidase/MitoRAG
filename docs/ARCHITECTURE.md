@@ -24,3 +24,16 @@ packages and app entrypoints.
 The ingestion package is deliberately useful by itself: it returns structured
 paper and chunk models that later phases can embed, index, and link into Neo4j.
 
+## Scientific Web Search
+
+Phase 5 adds no-key clients for PubMed E-utilities, Semantic Scholar, Europe
+PMC, bioRxiv/medRxiv, and PubTator3. Each client accepts an injectable async
+transport and cache so tests stay offline while production can use the standard
+urllib transport plus Redis-backed TTL caching. PubMed queries are automatically
+constrained with `AND mitochondri*` and pass `tool=MitoRAG` plus a configurable
+NCBI email.
+
+The `WebRAGAgent` fans out across the four search APIs, deduplicates papers by
+DOI/PMID, hydrates PubMed abstracts, annotates PMIDs through PubTator3, embeds
+abstracts with the Phase 2 embedding backend, and converts them into ranked
+web chunks for RRF fusion with local retrieval evidence.
