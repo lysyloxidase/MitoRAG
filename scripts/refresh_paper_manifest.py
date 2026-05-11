@@ -31,7 +31,7 @@ def fetch_results() -> List[Dict[str, Any]]:
     }
     url = f"{EPMC_URL}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "MitoRAG-daily/1.0"})
-    with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as resp:  # noqa: S310
+    with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as resp:
         payload = json.loads(resp.read())
     return payload.get("resultList", {}).get("result", [])
 
@@ -52,7 +52,7 @@ def normalize(item: Dict[str, Any]) -> Dict[str, Any]:
 def main() -> int:
     try:
         results = fetch_results()
-    except Exception as exc:  # noqa: BLE001
+    except Exception as exc:
         print(f"Failed to fetch Europe PMC results: {exc}", file=sys.stderr)
         return 1
 
