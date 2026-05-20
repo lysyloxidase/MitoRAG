@@ -3,86 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "41953052",
-      "pmcid": "PMC13054574",
-      "doi": "10.1016/j.mmr.2026.100014",
-      "title": "Pathophysiology-guided biomarkers and therapeutics for precision trauma medicine in polytrauma with musculoskeletal injuries",
-      "year": "2026",
-      "journal": "Mil Med Res",
-      "first_author": "Thanapaul RJRS",
-      "source": "MED"
-    },
-    {
-      "pmid": "41953053",
-      "pmcid": "PMC13054579",
-      "doi": "10.1016/j.mmr.2026.100006",
-      "title": "3D bioprinting of tissues and organs for systemic diseases and localized injuries",
-      "year": "2026",
-      "journal": "Mil Med Res",
-      "first_author": "Ng WL",
-      "source": "MED"
-    },
-    {
-      "pmid": "41956548",
-      "pmcid": "PMC13078236",
-      "doi": "10.1080/21645515.2026.2654318",
-      "title": "Second primary cancers following hematologic malignancies: Epidemiology, pathobiology and clinical management",
-      "year": "2026",
-      "journal": "Hum Vaccin Immunother",
-      "first_author": "Pan Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "41958067",
-      "pmcid": "PMC13072688",
-      "doi": "10.1080/0886022x.2026.2652826",
-      "title": "Emerging roles of ATP citrate lyase in kidney diseases: from pathogenic driver to therapeutic target",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Wei M",
-      "source": "MED"
-    },
-    {
-      "pmid": "41958068",
-      "pmcid": "PMC13072703",
-      "doi": "10.1080/0886022x.2026.2652103",
-      "title": "Resveratrol inhibits renal ischemia and reperfusion injury in diabetes via reducing oxidative stress, inflammation, and apoptosis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Gong D",
-      "source": "MED"
-    },
-    {
-      "pmid": "41960638",
-      "pmcid": "PMC13072693",
-      "doi": "10.1080/13510002.2026.2657075",
-      "title": "Sirtuin 5-mediated desuccinylation of PRDX6 inhibits ferroptosis and alleviates sepsis-associated acute kidney injury",
-      "year": "2026",
-      "journal": "Redox Rep",
-      "first_author": "Lin W",
-      "source": "MED"
-    },
-    {
-      "pmid": "41963781",
-      "pmcid": "PMC13078207",
-      "doi": "10.1080/19490976.2026.2651930",
-      "title": "Microbiota as a modulator of drug response: targeting microbial-drug crosstalk in cancer therapy",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Zhao T",
-      "source": "MED"
-    },
-    {
-      "pmid": "41964110",
-      "pmcid": "PMC13078244",
-      "doi": "10.1080/19490976.2026.2657625",
-      "title": "Dietary conjugated linoleic acid enhances resistance to &lt;i&gt;Salmonella&lt;/i&gt; infection by promoting PPARγ-mediated metabolic reprogramming and effector function in CD8⁺ T cells",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Deng L",
-      "source": "MED"
-    },
-    {
       "pmid": "41964111",
       "pmcid": "PMC13072707",
       "doi": "10.1080/13510002.2026.2654906",
@@ -463,6 +383,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42015346",
+      "pmcid": "PMC13108366",
+      "doi": "10.1080/19490976.2026.2644677",
+      "title": "Gut microbiome and metabolic health: mechanisms and precision interventions",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Li Z",
+      "source": "MED"
+    },
+    {
       "pmid": "42015590",
       "pmcid": "PMC13103990",
       "doi": "10.1080/0886022x.2026.2649658",
@@ -483,6 +413,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42018452",
+      "pmcid": "PMC13108354",
+      "doi": "10.1080/21505594.2026.2654300",
+      "title": "Cordycepin suppresses growth and virulence of &lt;i&gt;Magnaporthe oryzae&lt;/i&gt; via mitochondrial function and carbonic anhydrase-associated nitrogen metabolism",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Dang Y",
+      "source": "MED"
+    },
+    {
       "pmid": "42020341",
       "pmcid": "PMC13103992",
       "doi": "10.1080/0886022x.2026.2647082",
@@ -493,6 +433,36 @@
       "source": "MED"
     },
     {
+      "pmid": "42021054",
+      "pmcid": "PMC13108361",
+      "doi": "10.1080/19490976.2026.2649448",
+      "title": "From gut dysbiosis to eubiosis: understanding microbiome recovery as an ecological process",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Kennedy MS",
+      "source": "MED"
+    },
+    {
+      "pmid": "42021124",
+      "pmcid": "PMC13108359",
+      "doi": "10.1080/19490976.2026.2661854",
+      "title": "Glucagon-like peptide-1: a critical link between gut microbiota dysbiosis and degenerative musculoskeletal diseases",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Yang W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42021603",
+      "pmcid": "PMC13108364",
+      "doi": "10.1080/19490976.2026.2661411",
+      "title": "IL-10-STAT3 axis preserves epithelial mitochondrial homeostasis during bacterial challenge",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Navaneetha Krishnan S",
+      "source": "MED"
+    },
+    {
       "pmid": "42022005",
       "pmcid": "PMC13098353",
       "doi": "10.1016/j.synbio.2026.03.016",
@@ -500,6 +470,36 @@
       "year": "2026",
       "journal": "Synth Syst Biotechnol",
       "first_author": "Sun T",
+      "source": "MED"
+    },
+    {
+      "pmid": "42023591",
+      "pmcid": "PMC13108357",
+      "doi": "10.1080/19490976.2026.2662556",
+      "title": "Gut microbiota reshapes host energy metabolism to modulate depressive behaviors",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Lei P",
+      "source": "MED"
+    },
+    {
+      "pmid": "42025593",
+      "pmcid": "PMC13107989",
+      "doi": "10.1080/22221751.2026.2651469",
+      "title": "Detection of a &lt;i&gt;Merbecovirus&lt;/i&gt; with potential ACE2 usage in France",
+      "year": "2026",
+      "journal": "Emerg Microbes Infect",
+      "first_author": "Rieu O",
+      "source": "MED"
+    },
+    {
+      "pmid": "42027782",
+      "pmcid": "PMC13101712",
+      "doi": "10.1016/j.pscia.2026.100122",
+      "title": "Repurposing radiopharmaceutical carriers for targeted drug delivery and theranostics: A translational framework",
+      "year": "2026",
+      "journal": "Pharm Sci Adv",
+      "first_author": "Shahiwala AF.",
       "source": "MED"
     }
   ]
