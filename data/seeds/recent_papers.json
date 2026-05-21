@@ -3,156 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "41964111",
-      "pmcid": "PMC13072707",
-      "doi": "10.1080/13510002.2026.2654906",
-      "title": "Oxidative stress in neurodegeneration: from a simple insult to a dynamic regulator",
-      "year": "2026",
-      "journal": "Redox Rep",
-      "first_author": "Zhang L",
-      "source": "MED"
-    },
-    {
-      "pmid": "41964366",
-      "pmcid": "PMC13078196",
-      "doi": "10.1080/20565623.2026.2654776",
-      "title": "Evaluation of a multi-component dietary supplement combined with probiotic and omega-3 in individuals with self-reported symptoms of brain fog: an 8-week exploratory study",
-      "year": "2026",
-      "journal": "Future Sci OA",
-      "first_author": "Al-Ghananeem AM",
-      "source": "MED"
-    },
-    {
-      "pmid": "41964367",
-      "pmcid": "PMC13078216",
-      "doi": "10.1080/20565623.2026.2654777",
-      "title": "The potential of plant-derived exosome-like nanovesicles from &lt;i&gt;Centella asiatica&lt;/i&gt; leaves (CA-PDENs) for anti-inflammation and prevention of UVB-induced photoaging",
-      "year": "2026",
-      "journal": "Future Sci OA",
-      "first_author": "Barlian A",
-      "source": "MED"
-    },
-    {
-      "pmid": "41964562",
-      "pmcid": "PMC13078217",
-      "doi": "10.1080/19490976.2026.2656346",
-      "title": "Unveiling the impact of colonic pH and pH-sensing receptors in blood pressure regulation",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Dinakis E",
-      "source": "MED"
-    },
-    {
-      "pmid": "41964565",
-      "pmcid": "PMC13078193",
-      "doi": "10.1080/19490976.2026.2655149",
-      "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Valentine YA",
-      "source": "MED"
-    },
-    {
-      "pmid": "41967926",
-      "pmcid": "PMC13072673",
-      "doi": "10.1080/0886022x.2026.2641847",
-      "title": "Bergamottin pretreatment attenuates cisplatin-induced acute kidney injury in mice by inhibiting BACE-1-mediated ferroptosis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Yang XP",
-      "source": "MED"
-    },
-    {
-      "pmid": "41968665",
-      "pmcid": "PMC13078233",
-      "doi": "10.1080/19336934.2026.2650576",
-      "title": "Sulphur-containing amino acids promote the expression of &lt;i&gt;CG33474&lt;/i&gt; and its neighbouring genes through the transsulphuration pathway",
-      "year": "2026",
-      "journal": "Fly (Austin)",
-      "first_author": "Xu L",
-      "source": "MED"
-    },
-    {
-      "pmid": "41972847",
-      "pmcid": "PMC13078211",
-      "doi": "10.1080/15592294.2026.2653959",
-      "title": "The role of R-loops-mediated epigenetic regulation in genome stability maintenance and disease pathogenesis: a systematic review",
-      "year": "2026",
-      "journal": "Epigenetics",
-      "first_author": "Jiang ZH",
-      "source": "MED"
-    },
-    {
-      "pmid": "41972947",
-      "pmcid": "PMC13078656",
-      "doi": "10.1080/07853890.2026.2654911",
-      "title": "Plasma proteome profiling identifies XPNPEP3 as a novel biomarker associated with metabolic dysfunction-associated steatotic liver disease in patients with type 2 diabetes mellitus",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Ji H",
-      "source": "MED"
-    },
-    {
-      "pmid": "41973649",
-      "pmcid": "PMC13078241",
-      "doi": "10.1080/21623945.2026.2651605",
-      "title": "The role and mechanism of UPRmt in adipocytes",
-      "year": "2026",
-      "journal": "Adipocyte",
-      "first_author": "Liu H",
-      "source": "MED"
-    },
-    {
-      "pmid": "41973793",
-      "pmcid": "PMC13078650",
-      "doi": "10.1080/13880209.2026.2654904",
-      "title": "Majoon Ushba alleviated IL-17A sensitized keratinocyte ferroptosis via JAK-2-STAT-3 signaling axis and reversed imiquimod induced psoriasiform inflammation",
-      "year": "2026",
-      "journal": "Pharm Biol",
-      "first_author": "Rithvik A",
-      "source": "MED"
-    },
-    {
-      "pmid": "41975274",
-      "pmcid": "PMC13078198",
-      "doi": "10.1080/19490976.2026.2655793",
-      "title": "Compositional and functional differences of gut microbiome and metabolome inform pathogenesis of cholestatic liver disease",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Nikolaidis M",
-      "source": "MED"
-    },
-    {
-      "pmid": "41978356",
-      "pmcid": "PMC13078204",
-      "doi": "10.1080/21645698.2026.2655482",
-      "title": "Analysis of the sorghum &lt;i&gt;RBOH&lt;/i&gt; gene family and molecular mechanism of its member &lt;i&gt;SbRBOHG i&lt;/i&gt;n response to aluminum stress",
-      "year": "2026",
-      "journal": "GM Crops Food",
-      "first_author": "Zhang F",
-      "source": "MED"
-    },
-    {
-      "pmid": "41978484",
-      "pmcid": "PMC13081344",
-      "doi": "10.1080/0886022x.2026.2653928",
-      "title": "Molecular mechanism of Yishen Qingzhuo oral liquid in treating chronic renal failure &lt;i&gt;via&lt;/i&gt; the Nrf2/HO-1-mediated ferroptosis pathway",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Zhao A",
-      "source": "MED"
-    },
-    {
-      "pmid": "41978541",
-      "pmcid": "PMC13081332",
-      "doi": "10.1080/0886022x.2026.2650606",
-      "title": "Accelerometer-derived \"Weekend Warrior\" physical activity and all-cause and cardiovascular mortality across CKM stages 0-3",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Guo X",
-      "source": "MED"
-    },
-    {
       "pmid": "41979168",
       "pmcid": "PMC13081750",
       "doi": "10.1080/2162402x.2026.2656053",
@@ -333,6 +183,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42003422",
+      "pmcid": "PMC13128028",
+      "doi": "10.1080/15476286.2026.2662721",
+      "title": "Integrating bulk and single-cell transcriptomic data to construct a risk model for histidine metabolism-related epithelial cell features in lung adenocarcinoma, predicting prognosis and immune landscape",
+      "year": "2026",
+      "journal": "RNA Biol",
+      "first_author": "Mao C",
+      "source": "MED"
+    },
+    {
       "pmid": "42003749",
       "pmcid": "PMC13097783",
       "doi": "10.1080/20565623.2026.2658207",
@@ -493,6 +353,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42026762",
+      "pmcid": "PMC13114135",
+      "doi": "10.1080/19490976.2026.2662638",
+      "title": "Microbial metabolite Enterobactin impairs mitochondrial respiration and alleviates colitis",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Kushwaha V",
+      "source": "MED"
+    },
+    {
       "pmid": "42027782",
       "pmcid": "PMC13101712",
       "doi": "10.1016/j.pscia.2026.100122",
@@ -500,6 +370,136 @@
       "year": "2026",
       "journal": "Pharm Sci Adv",
       "first_author": "Shahiwala AF.",
+      "source": "MED"
+    },
+    {
+      "pmid": "42033241",
+      "pmcid": "PMC13114118",
+      "doi": "10.1080/19490976.2026.2662082",
+      "title": "An oral-gut microbial metabolite links &lt;i&gt;Fusobacterium nucleatum&lt;/i&gt; to aggravated myocardial ischemia-reperfusion injury",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Li Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42035365",
+      "pmcid": "PMC13112872",
+      "doi": "10.1080/19585969.2026.2658530",
+      "title": "Therapeutic effects of 40 Hz light stimulation on clinical and pathological features of Alzheimer's disease",
+      "year": "2026",
+      "journal": "Dialogues Clin Neurosci",
+      "first_author": "Chou PS",
+      "source": "MED"
+    },
+    {
+      "pmid": "42035472",
+      "pmcid": "PMC13114115",
+      "doi": "10.1080/21505594.2026.2662767",
+      "title": "3C suppresses PINK1-mediated mitophagy and contributes to coxsackievirus B3 replication",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Liu T",
+      "source": "MED"
+    },
+    {
+      "pmid": "42041104",
+      "pmcid": "PMC13123068",
+      "doi": "10.1080/20450923.2026.2659967",
+      "title": "RTA‑408 induces p38‑dependent apoptosis and suppresses cell viability in hepatocellular carcinoma cells",
+      "year": "2026",
+      "journal": "Hepat Oncol",
+      "first_author": "Chen WC",
+      "source": "MED"
+    },
+    {
+      "pmid": "42044978",
+      "pmcid": "PMC13123073",
+      "doi": "10.1080/0886022x.2026.2653414",
+      "title": "Necroptosis and the RIPK1-RIPK3-MLKL pathway in chronic kidney disease: mechanisms, crosstalk, and therapeutic opportunities",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Lu J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42046285",
+      "pmcid": "PMC13126944",
+      "doi": "10.1080/15502783.2026.2664664",
+      "title": "Bifidobacterium longum BB536 is associated with improvements in gastrointestinal symptoms and odor-related metabolites in microbiota-defined subgroups of male athletes consuming a high-protein diet: exploratory randomized double‑blind placebo‑controlled trial",
+      "year": "2026",
+      "journal": "J Int Soc Sports Nutr",
+      "first_author": "Miyamoto S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42046408",
+      "pmcid": "PMC13126952",
+      "doi": "10.1080/07853890.2026.2654248",
+      "title": "Diabetic cerebral microvascular disorder: from key pathologies to targeted interventions",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Zhang Q",
+      "source": "MED"
+    },
+    {
+      "pmid": "42046494",
+      "pmcid": "PMC13126939",
+      "doi": "10.1080/07853890.2026.2663105",
+      "title": "Repeated low-level red-light therapy for improving asthenopic symptoms and accommodation in presbyopia",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Song F",
+      "source": "MED"
+    },
+    {
+      "pmid": "42048162",
+      "pmcid": "PMC13126950",
+      "doi": "10.1080/13880209.2026.2659421",
+      "title": "A screening strategy for identifying the developmental and reproductive toxicity potential of botanicals",
+      "year": "2026",
+      "journal": "Pharm Biol",
+      "first_author": "Mahony C",
+      "source": "MED"
+    },
+    {
+      "pmid": "42048609",
+      "pmcid": "PMC13128025",
+      "doi": "10.1080/15592294.2026.2660022",
+      "title": "&lt;i&gt;NOS1&lt;/i&gt; hypermethylation may participate in the colorectal cancer development and be associated with its prognosis",
+      "year": "2026",
+      "journal": "Epigenetics",
+      "first_author": "Zhang Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42050372",
+      "pmcid": "PMC13126951",
+      "doi": "10.1080/13510002.2026.2664955",
+      "title": "EGCG-loaded nanoparticles attenuate post-SAH white matter injury by targeting HO-1/S100A10 to suppress oxidative stress-induced reactive astrocytes",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Lang D",
+      "source": "MED"
+    },
+    {
+      "pmid": "42056720",
+      "pmcid": "PMC13130236",
+      "doi": "10.1080/0886022x.2026.2657657",
+      "title": "In-hospital electronic monitoring system approaches to epidemiologic investigation and predictive modeling of contrast-induced acute kidney injury",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Zheng X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42056734",
+      "pmcid": "PMC13130239",
+      "doi": "10.1080/0886022x.2026.2662094",
+      "title": "Serum metabolic profiling analysis of Gitelman syndrome using untargeted metabolomics",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Han J",
       "source": "MED"
     }
   ]
