@@ -3,16 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "41992828",
-      "pmcid": "PMC13094236",
-      "doi": "10.1080/07853890.2026.2654291",
-      "title": "Integrated radiopathomics nomogram for predicting angiogenic microvascular patterns in NSCLC: a dual-center validation study",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Wang R",
-      "source": "MED"
-    },
-    {
       "pmid": "41993707",
       "pmcid": "PMC13080478",
       "doi": "10.1016/j.pscia.2026.100111",
@@ -400,6 +390,16 @@
       "year": "2026",
       "journal": "Ren Fail",
       "first_author": "Han J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42057440",
+      "pmcid": "PMC13134742",
+      "doi": "10.1080/0886022x.2026.2657666",
+      "title": "β-Thujaplicin Mobilizes Renal Tubular Iron to Alleviate Diabetic Kidney Disease",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Yang F",
       "source": "MED"
     },
     {
