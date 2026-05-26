@@ -3,26 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "41993707",
-      "pmcid": "PMC13080478",
-      "doi": "10.1016/j.pscia.2026.100111",
-      "title": "NAD&lt;sup&gt;+&lt;/sup&gt; precursor supplementation reverses CD36-mediated lipid accumulation and ferroptosis to restore antitumor function of NK cells in DLBCL",
-      "year": "2026",
-      "journal": "Pharm Sci Adv",
-      "first_author": "Shi L",
-      "source": "MED"
-    },
-    {
-      "pmid": "41995040",
-      "pmcid": "PMC13094213",
-      "doi": "10.1080/21505594.2026.2658909",
-      "title": "Synergetic attenuated inflammatory response and increased apoptosis confer high pathogenicity of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Liu L",
-      "source": "MED"
-    },
-    {
       "pmid": "41995675",
       "pmcid": "PMC13094262",
       "doi": "10.1080/21645515.2026.2657074",
@@ -433,6 +413,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42135932",
+      "pmcid": "PMC13192126",
+      "doi": "10.1080/21505594.2026.2675087",
+      "title": "Single-cell spatial immune landscape of ASFV-infected porcine lung microenvironment",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Guo H",
+      "source": "MED"
+    },
+    {
       "pmid": "42135973",
       "pmcid": "PMC13182180",
       "doi": "10.1080/0886022x.2026.2667130",
@@ -500,6 +490,16 @@
       "year": "2026",
       "journal": "Nucleus",
       "first_author": "Deriglazov DA",
+      "source": "MED"
+    },
+    {
+      "pmid": "42159294",
+      "pmcid": "PMC13192090",
+      "doi": "10.1080/13510002.2026.2674473",
+      "title": "Protective effects of &lt;i&gt;Angelica dahurica&lt;/i&gt; polysaccharide on oxidative stress and liver injury induced by ovariectomized/D-galactose in rats",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "He XQ",
       "source": "MED"
     }
   ]
