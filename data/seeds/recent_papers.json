@@ -3,46 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "41995675",
-      "pmcid": "PMC13094262",
-      "doi": "10.1080/21645515.2026.2657074",
-      "title": "Oncolytic virus therapy for hepatocellular carcinoma: A bibliometric analysis of research landscapes, hotspots, and clinical transformation trends from 2000 to mid-2025",
-      "year": "2026",
-      "journal": "Hum Vaccin Immunother",
-      "first_author": "Yu F",
-      "source": "MED"
-    },
-    {
-      "pmid": "41995694",
-      "pmcid": "PMC13094256",
-      "doi": "10.1080/13880209.2026.2655481",
-      "title": "&lt;i&gt;Bombax ceiba&lt;/i&gt; flower extract enhances antioxidant defense and wound healing effects in human keratinocytes and fibroblasts",
-      "year": "2026",
-      "journal": "Pharm Biol",
-      "first_author": "Paradee N",
-      "source": "MED"
-    },
-    {
-      "pmid": "41999297",
-      "pmcid": "PMC13094292",
-      "doi": "10.1080/07853890.2026.2660386",
-      "title": "GLP-1 receptor agonists in stroke prevention: a narrative review on emerging therapeutic frontiers",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Chikatimalla R",
-      "source": "MED"
-    },
-    {
-      "pmid": "41999313",
-      "pmcid": "PMC13094212",
-      "doi": "10.1080/20565623.2026.2657525",
-      "title": "Potential pathogenesis of &lt;i&gt;Helicobacter pylori&lt;/i&gt; strains from Cameroon: seroprevalence of 10 proteins involved in the pathogenesis of &lt;i&gt;Helicobacter pylori&lt;/i&gt;-related gastro-duodenal diseases, measured using a new multiplex immunoassay among &lt;i&gt;Helicobacter pylori&lt;/i&gt; IgM-positive dyspeptic patients",
-      "year": "2026",
-      "journal": "Future Sci OA",
-      "first_author": "Fouomene Kenne VA",
-      "source": "MED"
-    },
-    {
       "pmid": "42003321",
       "pmcid": "PMC13097182",
       "doi": "10.1080/07853890.2026.2654251",
@@ -493,6 +453,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42157597",
+      "pmcid": "PMC13195704",
+      "doi": "10.1080/0886022x.2026.2646411",
+      "title": "Machine learning-based risk prediction model for postoperative acute kidney injury in surgical patients with chronic kidney disease (CKD): development, validation, and SHAP-based explainability",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Wu M",
+      "source": "MED"
+    },
+    {
       "pmid": "42159294",
       "pmcid": "PMC13192090",
       "doi": "10.1080/13510002.2026.2674473",
@@ -500,6 +470,36 @@
       "year": "2026",
       "journal": "Redox Rep",
       "first_author": "He XQ",
+      "source": "MED"
+    },
+    {
+      "pmid": "42161877",
+      "pmcid": "PMC13195712",
+      "doi": "10.1080/0886022x.2026.2672189",
+      "title": "Serum fibrinogen-like protein 2 is associated with diabetic nephropathy severity and modulates high glucose-induced tubular dysfunction via Akt-FoxO1 signaling",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Lu XG",
+      "source": "MED"
+    },
+    {
+      "pmid": "42161895",
+      "pmcid": "PMC13195708",
+      "doi": "10.1080/0886022x.2026.2671466",
+      "title": "Metabolic memory in the kidney: how lactate and lactylation drive the path from acute injury to chronic disease",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Zhang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42165632",
+      "pmcid": "PMC13195707",
+      "doi": "10.1080/13880209.2026.2668138",
+      "title": "Sauchinone attenuates UVB-induced photoaging by suppressing oxidative stress and ferroptosis through activation of the Keap1-Nrf2 pathway in dermal fibroblasts",
+      "year": "2026",
+      "journal": "Pharm Biol",
+      "first_author": "Zhang X",
       "source": "MED"
     }
   ]
