@@ -3,66 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42003321",
-      "pmcid": "PMC13097182",
-      "doi": "10.1080/07853890.2026.2654251",
-      "title": "Comparative evaluation of oxidative stress biomarkers F2-isoprostanes and 8-OHdG in Parkinson's disease and Type 2 Diabetes Mellitus: a systematic review and meta-analysis of human studies",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Msigwa SS",
-      "source": "MED"
-    },
-    {
-      "pmid": "42003422",
-      "pmcid": "PMC13128028",
-      "doi": "10.1080/15476286.2026.2662721",
-      "title": "Integrating bulk and single-cell transcriptomic data to construct a risk model for histidine metabolism-related epithelial cell features in lung adenocarcinoma, predicting prognosis and immune landscape",
-      "year": "2026",
-      "journal": "RNA Biol",
-      "first_author": "Mao C",
-      "source": "MED"
-    },
-    {
-      "pmid": "42003749",
-      "pmcid": "PMC13097783",
-      "doi": "10.1080/20565623.2026.2658207",
-      "title": "The regulatory significance of chondrocyte hypertrophy in maintaining chondrocyte homeostasis, regeneration and repair",
-      "year": "2026",
-      "journal": "Future Sci OA",
-      "first_author": "Li J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42006853",
-      "pmcid": "PMC13090977",
-      "doi": "10.1016/j.synbio.2026.03.015",
-      "title": "Breeding of a higher producer enables identification of a negative transcription factor controlling the biosynthesis of xiamenmycin in &lt;i&gt;Streptomyces xiamenensis&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "He WY",
-      "source": "MED"
-    },
-    {
-      "pmid": "42006856",
-      "pmcid": "PMC13091366",
-      "doi": "10.1016/j.synbio.2026.03.017",
-      "title": "Synergistic engineering of monoterpenoid synthase and metabolic pathways to enhance α-terpineol production in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Wang S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42007489",
-      "pmcid": "PMC13097183",
-      "doi": "10.1080/07853890.2026.2657638",
-      "title": "Role of the WNT signalling pathway in physiological and pathological blood-brain barrier",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Yang F",
-      "source": "MED"
-    },
-    {
       "pmid": "42010788",
       "pmcid": "PMC13102037",
       "doi": "10.1080/2162402x.2026.2660418",
@@ -500,6 +440,66 @@
       "year": "2026",
       "journal": "Pharm Biol",
       "first_author": "Zhang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178167",
+      "pmcid": "PMC13202663",
+      "doi": "10.1080/0886022x.2026.2663248",
+      "title": "Potential circadian rhythm-related pathogenic genes in diabetic nephropathy: a multi-omics Mendelian randomization study",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Mao Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178725",
+      "pmcid": "PMC13203056",
+      "doi": "10.1080/19490976.2026.2675089",
+      "title": "Soil-derived microbiota induces T regulatory cells and protect against mouse colitis, metabolic disease, and sepsis",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Szurek EA",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178794",
+      "pmcid": "PMC13202646",
+      "doi": "10.1080/0886022x.2026.2677252",
+      "title": "The mediating effect role of methylmalonic acid on the association between oxidative balance score and diabetic kidney disease: a cross-sectional study from NHANES 2011-2014",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Yang H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178799",
+      "pmcid": "PMC13202638",
+      "doi": "10.1080/0886022x.2026.2668270",
+      "title": "Unveiling the role of air pollution in diabetic kidney disease: an integrated study combining network toxicology, machine learning, and Mendelian randomization",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Kang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178825",
+      "pmcid": "PMC13202647",
+      "doi": "10.1080/0886022x.2026.2673608",
+      "title": "Nanotechnology-mediated podocyte injury repair: mechanistic exploration and therapeutic prospects",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Zhu H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42178977",
+      "pmcid": "PMC13203071",
+      "doi": "10.1080/21505594.2026.2677315",
+      "title": "Chikungunya virus nsP2: Insights into viral replication, pathogenesis, and therapeutic targeting",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Xu S",
       "source": "MED"
     }
   ]
