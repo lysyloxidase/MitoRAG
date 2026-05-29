@@ -3,26 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42010788",
-      "pmcid": "PMC13102037",
-      "doi": "10.1080/2162402x.2026.2660418",
-      "title": "Spatial transcriptomics unveils immune cellular ecosystems associated with patient survival in diffuse large B-cell lymphoma",
-      "year": "2026",
-      "journal": "Oncoimmunology",
-      "first_author": "Diaz-Herrero A",
-      "source": "MED"
-    },
-    {
-      "pmid": "42015346",
-      "pmcid": "PMC13108366",
-      "doi": "10.1080/19490976.2026.2644677",
-      "title": "Gut microbiome and metabolic health: mechanisms and precision interventions",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Li Z",
-      "source": "MED"
-    },
-    {
       "pmid": "42015590",
       "pmcid": "PMC13103990",
       "doi": "10.1080/0886022x.2026.2649658",
@@ -30,16 +10,6 @@
       "year": "2026",
       "journal": "Ren Fail",
       "first_author": "Chen L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42015601",
-      "pmcid": "PMC13103982",
-      "doi": "10.1080/0886022x.2026.2650262",
-      "title": "Explainable machine learning using urinary metabolomics to predict pediatric sepsis-associated acute kidney injury: a two-center prospective observational study",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Qian Y",
       "source": "MED"
     },
     {
@@ -140,6 +110,16 @@
       "year": "2026",
       "journal": "Pharm Sci Adv",
       "first_author": "Shahiwala AF.",
+      "source": "MED"
+    },
+    {
+      "pmid": "42028916",
+      "pmcid": "PMC13162553",
+      "doi": "10.1080/22221751.2026.2665007",
+      "title": "Treatment with low-dose bicistronic immunotherapy mitigates parasite persistence and improves serological and cardiac outcomes in adult mice infected with &lt;i&gt;Trypanosoma cruzi&lt;/i&gt;: comparative analysis with benznidazole",
+      "year": "2026",
+      "journal": "Emerg Microbes Infect",
+      "first_author": "Choudhuri S",
       "source": "MED"
     },
     {
@@ -500,6 +480,26 @@
       "year": "2026",
       "journal": "Virulence",
       "first_author": "Xu S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42179048",
+      "pmcid": "PMC13202676",
+      "doi": "10.1080/14756366.2026.2673744",
+      "title": "Design and Pictet-Spengler enabled synthesis of carboxamide-substituted imidazo[1,2-&lt;i&gt;a&lt;/i&gt;]quinoxalines as dual EGFR and tubulin targeting anticancer agents",
+      "year": "2026",
+      "journal": "J Enzyme Inhib Med Chem",
+      "first_author": "Chatterjee J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42182966",
+      "pmcid": "PMC13194176",
+      "doi": "10.1016/j.synbio.2026.04.014",
+      "title": "The RNAi machinery regulates lovastatin biosynthesis via microRNA-like RNAs in industrial &lt;i&gt;Aspergillus terreus&lt;/i&gt;",
+      "year": "2026",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Gu M",
       "source": "MED"
     }
   ]
