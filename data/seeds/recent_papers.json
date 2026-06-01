@@ -3,36 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42015590",
-      "pmcid": "PMC13103990",
-      "doi": "10.1080/0886022x.2026.2649658",
-      "title": "Decoding the renal-cochlear axis: explainable machine learning and phenotype clustering reveal high-risk hearing loss subtypes in CKD",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Chen L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42018452",
-      "pmcid": "PMC13108354",
-      "doi": "10.1080/21505594.2026.2654300",
-      "title": "Cordycepin suppresses growth and virulence of &lt;i&gt;Magnaporthe oryzae&lt;/i&gt; via mitochondrial function and carbonic anhydrase-associated nitrogen metabolism",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Dang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42020341",
-      "pmcid": "PMC13103992",
-      "doi": "10.1080/0886022x.2026.2647082",
-      "title": "Factors influencing patency after percutaneous transluminal angioplasty for autogenous arteriovenous fistulae: a systematic review and meta-analysis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Zhan Y",
-      "source": "MED"
-    },
-    {
       "pmid": "42021054",
       "pmcid": "PMC13108361",
       "doi": "10.1080/19490976.2026.2649448",
@@ -420,6 +390,36 @@
       "year": "2026",
       "journal": "Pharm Biol",
       "first_author": "Zhang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42169673",
+      "pmcid": "PMC13202700",
+      "doi": "10.1080/14756366.2026.2662446",
+      "title": "Mechanisms of traditional Chinese medicine in enhancing the efficacy and reducing the toxicity of immune checkpoint inhibitors &lt;i&gt;via&lt;/i&gt; regulation of the tumor microenvironment and gut microbiota",
+      "year": "2026",
+      "journal": "J Enzyme Inhib Med Chem",
+      "first_author": "Pan J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42171628",
+      "pmcid": "PMC13203027",
+      "doi": "10.1080/21505594.2026.2677346",
+      "title": "FGF8-mediated TRIM16 regulation promotes K48-linked ubiquitination and degradation of RIG-I to facilitate Influenza a virus immune evasion",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Wei R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42171633",
+      "pmcid": "PMC13203023",
+      "doi": "10.1080/19490976.2026.2675093",
+      "title": "The gut-bone axis: microbial metabolism and nutritional interventions for bone health",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Rodriguez-Bryant A",
       "source": "MED"
     },
     {
