@@ -3,56 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42021054",
-      "pmcid": "PMC13108361",
-      "doi": "10.1080/19490976.2026.2649448",
-      "title": "From gut dysbiosis to eubiosis: understanding microbiome recovery as an ecological process",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Kennedy MS",
-      "source": "MED"
-    },
-    {
-      "pmid": "42021124",
-      "pmcid": "PMC13108359",
-      "doi": "10.1080/19490976.2026.2661854",
-      "title": "Glucagon-like peptide-1: a critical link between gut microbiota dysbiosis and degenerative musculoskeletal diseases",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Yang W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42021603",
-      "pmcid": "PMC13108364",
-      "doi": "10.1080/19490976.2026.2661411",
-      "title": "IL-10-STAT3 axis preserves epithelial mitochondrial homeostasis during bacterial challenge",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Navaneetha Krishnan S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42022005",
-      "pmcid": "PMC13098353",
-      "doi": "10.1016/j.synbio.2026.03.016",
-      "title": "Discovery of functional compounds from dimorphic edible &lt;i&gt;Ophiocordyceps sinensis&lt;/i&gt; fungus in host haemolymph",
-      "year": "2026",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Sun T",
-      "source": "MED"
-    },
-    {
-      "pmid": "42023591",
-      "pmcid": "PMC13108357",
-      "doi": "10.1080/19490976.2026.2662556",
-      "title": "Gut microbiota reshapes host energy metabolism to modulate depressive behaviors",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Lei P",
-      "source": "MED"
-    },
-    {
       "pmid": "42025593",
       "pmcid": "PMC13107989",
       "doi": "10.1080/22221751.2026.2651469",
@@ -203,6 +153,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42053093",
+      "pmcid": "PMC13134405",
+      "doi": "10.1080/20565623.2026.2663167",
+      "title": "Mapping ophthalmic research on glycosylation and glycation: a PRISMA-compliant bibliometric and co‑citation analysis",
+      "year": "2026",
+      "journal": "Future Sci OA",
+      "first_author": "Li H",
+      "source": "MED"
+    },
+    {
       "pmid": "42056720",
       "pmcid": "PMC13130236",
       "doi": "10.1080/0886022x.2026.2657657",
@@ -230,6 +190,36 @@
       "year": "2026",
       "journal": "Ren Fail",
       "first_author": "Yang F",
+      "source": "MED"
+    },
+    {
+      "pmid": "42087053",
+      "pmcid": "PMC13148089",
+      "doi": "10.1080/0886022x.2026.2667684",
+      "title": "The mechanism and therapeutic prospect of HIF-1 α/BNIP3 pathway in regulating mitophagy in tubulointerstitial fibrosis",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Wang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42116576",
+      "pmcid": "PMC13169444",
+      "doi": "10.1080/10717544.2026.2671485",
+      "title": "Liposome-mediated delivery of a ruthenium-based metallodrug to overcome cisplatin resistance in osteosarcoma",
+      "year": "2026",
+      "journal": "Drug Deliv",
+      "first_author": "Murillo D",
+      "source": "MED"
+    },
+    {
+      "pmid": "42118848",
+      "pmcid": "PMC13170386",
+      "doi": "10.1080/15592294.2026.2670909",
+      "title": "A relative methylation ordering biomarker of lactylation-related genes predicts prognosis and therapeutic response in cutaneous melanoma",
+      "year": "2026",
+      "journal": "Epigenetics",
+      "first_author": "Ruan J",
       "source": "MED"
     },
     {
@@ -340,6 +330,16 @@
       "year": "2026",
       "journal": "Nucleus",
       "first_author": "Deriglazov DA",
+      "source": "MED"
+    },
+    {
+      "pmid": "42153180",
+      "pmcid": "PMC13180301",
+      "doi": "10.5812/ijpr-164903",
+      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation",
+      "year": "2027",
+      "journal": "Iran J Pharm Res",
+      "first_author": "Berenjian K",
       "source": "MED"
     },
     {
