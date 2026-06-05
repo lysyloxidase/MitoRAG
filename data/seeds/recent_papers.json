@@ -3,146 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42118688",
-      "pmcid": "PMC13169455",
-      "doi": "10.1080/13880209.2026.2668132",
-      "title": "Wubie Fanchun Formula-inducible metabolites in primary ovarian insufficiency model mice that facilitate ovarian renovation",
-      "year": "2026",
-      "journal": "Pharm Biol",
-      "first_author": "Chen Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42118848",
-      "pmcid": "PMC13170386",
-      "doi": "10.1080/15592294.2026.2670909",
-      "title": "A relative methylation ordering biomarker of lactylation-related genes predicts prognosis and therapeutic response in cutaneous melanoma",
-      "year": "2026",
-      "journal": "Epigenetics",
-      "first_author": "Ruan J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42125880",
-      "pmcid": "PMC13174006",
-      "doi": "10.1080/21623945.2026.2658408",
-      "title": "Wt1 facilitates visceral beige fat formation to combat abdominal obesity",
-      "year": "2026",
-      "journal": "Adipocyte",
-      "first_author": "He LF",
-      "source": "MED"
-    },
-    {
-      "pmid": "42126179",
-      "pmcid": "PMC13174010",
-      "doi": "10.1080/15592324.2026.2672221",
-      "title": "Metabolic reprogramming in plant defense: linking signaling networks to metabolomics-driven insights",
-      "year": "2026",
-      "journal": "Plant Signal Behav",
-      "first_author": "Khan S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42127018",
-      "pmcid": "PMC13192128",
-      "doi": "10.1080/21505594.2026.2673646",
-      "title": "RecC&lt;sup&gt;935H&lt;/sup&gt; is associated with divergent evolutions of clonal group 258 &lt;i&gt;Klebsiella pneumoniae&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Hu D",
-      "source": "MED"
-    },
-    {
-      "pmid": "42128495",
-      "pmcid": "PMC13173577",
-      "doi": "10.1080/0886022x.2026.2665883",
-      "title": "Sex-specific association between metabolic score for insulin resistance and mortality in incident peritoneal dialysis patients",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Tang R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42130294",
-      "pmcid": "PMC13178037",
-      "doi": "10.1080/07853890.2026.2654939",
-      "title": "LncRNA H19 as a key regulator in biliary atresia: insights into pathogenesis and potential therapeutic targets",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Zhao Q",
-      "source": "MED"
-    },
-    {
-      "pmid": "42133449",
-      "pmcid": "PMC13178184",
-      "doi": "10.1080/19490976.2026.2673888",
-      "title": "Parental microbiome programming of early-life neurodevelopment: multi-niche contributions through the microbiome-gut-brain axis",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Skrabulyte-Barbulescu J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42133662",
-      "pmcid": "PMC13179003",
-      "doi": "10.1080/21505594.2026.2673655",
-      "title": "Integrated transcriptomic, molecular docking, and mendelian randomization analysis reveal a microbial-propionate-JUN pathway in renal ischemia-reperfusion injury",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Li J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42133791",
-      "pmcid": "PMC13178179",
-      "doi": "10.1080/15476286.2026.2670829",
-      "title": "Bevacizumab induces apoptosis in glioblastoma cells by upregulating miR-4695-5p to inhibit PKMYT1",
-      "year": "2026",
-      "journal": "RNA Biol",
-      "first_author": "Shen Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42135621",
-      "pmcid": "PMC13178040",
-      "doi": "10.1080/0886022x.2026.2670806",
-      "title": "Targeting LRH-1 alleviates diabetes-induced lipotoxicity in podocytes: role of PLIN5-mediated lipid droplet turnover",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Guan Q",
-      "source": "MED"
-    },
-    {
-      "pmid": "42135894",
-      "pmcid": "PMC13182182",
-      "doi": "10.1080/0886022x.2026.2667561",
-      "title": "A review of the sirtuins family: pivotal regulators and emerging therapeutic targets in renal fibrosis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Deng Q",
-      "source": "MED"
-    },
-    {
-      "pmid": "42135921",
-      "pmcid": "PMC13182973",
-      "doi": "10.1080/15384047.2026.2670792",
-      "title": "Impact of leucine-rich diet on placenta's proteomic and metabolomic profiles of pregnant tumor-bearing rats",
-      "year": "2026",
-      "journal": "Cancer Biol Ther",
-      "first_author": "Dos Santos IF",
-      "source": "MED"
-    },
-    {
-      "pmid": "42135927",
-      "pmcid": "PMC13182962",
-      "doi": "10.1080/19490976.2026.2671382",
-      "title": "Indole-3-carboxaldehyde from &lt;i&gt;Limosilactobacillus reuteri&lt;/i&gt; targets the DUSP1/ERK/NOX2/ROS axis to enhance the bactericidal activity of macrophages and protects against sepsis",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Li Z",
-      "source": "MED"
-    },
-    {
       "pmid": "42135932",
       "pmcid": "PMC13192126",
       "doi": "10.1080/21505594.2026.2675087",
@@ -290,6 +150,16 @@
       "year": "2026",
       "journal": "Pharm Biol",
       "first_author": "Zhang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42166451",
+      "pmcid": "PMC13224767",
+      "doi": "10.1080/21505594.2026.2678667",
+      "title": "Pathogenicity and virulence of the blast fungus &lt;i&gt;Magnaporthe oryzae&lt;/i&gt;",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Molinari C",
       "source": "MED"
     },
     {
@@ -453,6 +323,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42200378",
+      "pmcid": "PMC13232882",
+      "doi": "10.1080/15476286.2026.2679829",
+      "title": "The role of miRNA in modulating oxidative stress in preeclampsia: current knowledge",
+      "year": "2026",
+      "journal": "RNA Biol",
+      "first_author": "Lin C",
+      "source": "MED"
+    },
+    {
       "pmid": "42203692",
       "pmcid": "PMC13217910",
       "doi": "10.1080/21505594.2026.2679253",
@@ -483,6 +363,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42213541",
+      "pmcid": "PMC13224691",
+      "doi": "10.1080/22221751.2026.2673649",
+      "title": "Replication and compartmentalization of Dobrava-Belgrade virus in the central nervous system",
+      "year": "2026",
+      "journal": "Emerg Microbes Infect",
+      "first_author": "Melchert J",
+      "source": "MED"
+    },
+    {
       "pmid": "42218768",
       "pmcid": "PMC13224698",
       "doi": "10.1080/15502783.2026.2679718",
@@ -493,6 +383,26 @@
       "source": "MED"
     },
     {
+      "pmid": "42219284",
+      "pmcid": "PMC13224705",
+      "doi": "10.1080/0886022x.2026.2667584",
+      "title": "Combining bioinformatics and machine learning to analyze and validate sepsis-related cell senescence genes and potential drugs",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Pei S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42219961",
+      "pmcid": "PMC13228183",
+      "doi": "10.1080/0886022x.2026.2671460",
+      "title": "Integrative multi-omics Mendelian randomization reveals key lipid metabolism genes as therapeutic targets for diabetic nephropathy pathogenesis",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Liu S",
+      "source": "MED"
+    },
+    {
       "pmid": "42221684",
       "pmcid": "PMC13217924",
       "doi": "10.1016/j.synbio.2026.04.022",
@@ -500,6 +410,96 @@
       "year": "2026",
       "journal": "Synth Syst Biotechnol",
       "first_author": "Tong S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42224656",
+      "pmcid": "PMC13228171",
+      "doi": "10.1080/13880209.2026.2675166",
+      "title": "CB001 bioactive compounds mitigate intestinal immune dysregulation induced by simulated microgravity and radiation via B cells modulation",
+      "year": "2026",
+      "journal": "Pharm Biol",
+      "first_author": "Liu J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42226383",
+      "pmcid": "PMC13231815",
+      "doi": "10.1080/0886022x.2026.2657102",
+      "title": "Association of atherogenic index of plasma with urine albumin-to-creatinine ratio in Chinese urban adults: a cross-sectional study",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Hou Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42226574",
+      "pmcid": "PMC13232878",
+      "doi": "10.1080/21505594.2026.2682573",
+      "title": "Repurposing the antispasmodic drug pinaverium bromide as a novel antifungal agent and synergist against &lt;i&gt;Candida albicans&lt;/i&gt;",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Yao J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42226577",
+      "pmcid": "PMC13232881",
+      "doi": "10.1080/19491034.2026.2675754",
+      "title": "High-resolution nuclear cell biology by cryo-electron tomography",
+      "year": "2026",
+      "journal": "Nucleus",
+      "first_author": "Kechagia Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42228003",
+      "pmcid": "PMC13232887",
+      "doi": "10.1080/2162402x.2026.2682649",
+      "title": "Dectin-1 signaling promotes Galectin-3 shedding and expansion of immunosuppressive CD71+ erythroid cells in breast cancer",
+      "year": "2026",
+      "journal": "Oncoimmunology",
+      "first_author": "Azimi A",
+      "source": "MED"
+    },
+    {
+      "pmid": "42228352",
+      "pmcid": "PMC13232883",
+      "doi": "10.1080/19490976.2026.2681720",
+      "title": "Sulfide dynamics at the gut-microbiota interface: diet, oxygen and redox interplay",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Kumar R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42228365",
+      "pmcid": "PMC13231813",
+      "doi": "10.1080/13510002.2026.2682043",
+      "title": "Albumin as a dynamic extracellular redox regulator: from Cys34 oxidation biomarkers to polysulfide-mediated homeostatic mechanisms and clinical applications",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Ishima Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42228407",
+      "pmcid": "PMC13231817",
+      "doi": "10.1080/15502783.2026.2675444",
+      "title": "Effects of exercise on metabolic risk, cardiovascular fitness, and body composition in elderly women of the past decade: a systematic review and meta-analysis",
+      "year": "2026",
+      "journal": "J Int Soc Sports Nutr",
+      "first_author": "Shen J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42228778",
+      "pmcid": "PMC13232876",
+      "doi": "10.1080/21505594.2026.2670787",
+      "title": "From gut microbiota metabolism to microvascular injury: Exploring the role and mechanisms of gut microbiota in obesity-induced coronary microcirculation dysfunction",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Liu Y",
       "source": "MED"
     }
   ]
