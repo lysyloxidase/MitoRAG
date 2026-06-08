@@ -3,76 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42135932",
-      "pmcid": "PMC13192126",
-      "doi": "10.1080/21505594.2026.2675087",
-      "title": "Single-cell spatial immune landscape of ASFV-infected porcine lung microenvironment",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Guo H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42135973",
-      "pmcid": "PMC13182180",
-      "doi": "10.1080/0886022x.2026.2667130",
-      "title": "Identification of pyroptosis-related hub genes and immune cell infiltration in IgA nephropathy via bioinformatics analysis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Li J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42139022",
-      "pmcid": "PMC13182160",
-      "doi": "10.1080/07853890.2026.2673184",
-      "title": "Exosome and biotherapeutic strategies for dermatological and oncological skin complications",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Tauseef H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42141930",
-      "pmcid": "PMC13182165",
-      "doi": "10.1080/15502783.2026.2668435",
-      "title": "Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis",
-      "year": "2026",
-      "journal": "J Int Soc Sports Nutr",
-      "first_author": "Naddafha S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42141998",
-      "pmcid": "PMC13182158",
-      "doi": "10.1080/13510002.2026.2673661",
-      "title": "PRX5 as a critical driver of colorectal cancer stemness and tumorigenicity",
-      "year": "2026",
-      "journal": "Redox Rep",
-      "first_author": "Lee SW",
-      "source": "MED"
-    },
-    {
-      "pmid": "42143209",
-      "pmcid": "PMC13182154",
-      "doi": "10.1080/07853890.2026.2668756",
-      "title": "The plasma metabolome and clinical features of patients with coeliac disease in Northwest China",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Zhang W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42144020",
-      "pmcid": "PMC13182153",
-      "doi": "10.1080/0886022x.2026.2664318",
-      "title": "MEF2A nuclear translocation mediated by ROCK phosphorylation promotes EZH2 expression and peritoneal fibrosis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Chen D",
-      "source": "MED"
-    },
-    {
       "pmid": "42148544",
       "pmcid": "PMC13217513",
       "doi": "10.1080/07853890.2026.2654287",
@@ -160,6 +90,26 @@
       "year": "2026",
       "journal": "Virulence",
       "first_author": "Molinari C",
+      "source": "MED"
+    },
+    {
+      "pmid": "42166546",
+      "pmcid": "PMC13240956",
+      "doi": "10.1080/21505594.2026.2678043",
+      "title": "Grass carp catalase inhibits GCRV replication through ROS scavenging-mediated immune suppression and autophagy",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Wang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42167936",
+      "pmcid": "PMC13232886",
+      "doi": "10.1080/15476286.2026.2678028",
+      "title": "Identification of proteins interacting with the N-terminal half of endoribonuclease RNase E in &lt;i&gt;Escherichia coli&lt;/i&gt;",
+      "year": "2026",
+      "journal": "RNA Biol",
+      "first_author": "Göpel Y",
       "source": "MED"
     },
     {
@@ -500,6 +450,56 @@
       "year": "2026",
       "journal": "Virulence",
       "first_author": "Liu Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42231717",
+      "pmcid": "PMC13235233",
+      "doi": "10.1080/07853890.2026.2671594",
+      "title": "Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Saeed S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42233523",
+      "pmcid": "PMC13235239",
+      "doi": "10.1080/07853890.2026.2677288",
+      "title": "Leucine-rich repeat kinase 2 (LRRK2): balancing cellular homeostasis and Parkinson's disease (PD) pathogenesis",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Aolymat I",
+      "source": "MED"
+    },
+    {
+      "pmid": "42237456",
+      "pmcid": "PMC13240957",
+      "doi": "10.1080/21505594.2026.2679238",
+      "title": "Integrated transcriptome and metabolome reveal &lt;i&gt;Mycoplasma hyopneumoniae&lt;/i&gt; -induced lipid accumulation, inflammation, oxidative stress, and energy imbalance in the liver of pigs",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Xue X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42240055",
+      "pmcid": "PMC13240942",
+      "doi": "10.1080/15384047.2026.2683171",
+      "title": "Leveraging the bacteria for enhanced cancer immunotherapy: from a perspective of synthetic biology",
+      "year": "2026",
+      "journal": "Cancer Biol Ther",
+      "first_author": "Liu X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42241031",
+      "pmcid": "PMC13237794",
+      "doi": "10.1080/13510002.2026.2668238",
+      "title": "Uric acid alleviates the inflammatory response in LPS-induced BV2 cells and MPTP-induced PD mice by resisting ferroptosis through the Nrf2 signalling pathway",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Zhou D",
       "source": "MED"
     }
   ]
