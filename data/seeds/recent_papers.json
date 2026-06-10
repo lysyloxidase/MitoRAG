@@ -3,26 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42148544",
-      "pmcid": "PMC13217513",
-      "doi": "10.1080/07853890.2026.2654287",
-      "title": "A cohort study on inflammatory response and coagulation function changes in women with silver clip or silk ligation sterilisation",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Wang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42148588",
-      "pmcid": "PMC13185464",
-      "doi": "10.1080/19491034.2026.2672818",
-      "title": "Olivetol induces a non-genotoxic nucleolar DNA damage response via membrane-dependent stress signaling",
-      "year": "2026",
-      "journal": "Nucleus",
-      "first_author": "Deriglazov DA",
-      "source": "MED"
-    },
-    {
       "pmid": "42153180",
       "pmcid": "PMC13180301",
       "doi": "10.5812/ijpr-164903",
@@ -30,36 +10,6 @@
       "year": "2027",
       "journal": "Iran J Pharm Res",
       "first_author": "Berenjian K",
-      "source": "MED"
-    },
-    {
-      "pmid": "42157597",
-      "pmcid": "PMC13195704",
-      "doi": "10.1080/0886022x.2026.2646411",
-      "title": "Machine learning-based risk prediction model for postoperative acute kidney injury in surgical patients with chronic kidney disease (CKD): development, validation, and SHAP-based explainability",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Wu M",
-      "source": "MED"
-    },
-    {
-      "pmid": "42159294",
-      "pmcid": "PMC13192090",
-      "doi": "10.1080/13510002.2026.2674473",
-      "title": "Protective effects of &lt;i&gt;Angelica dahurica&lt;/i&gt; polysaccharide on oxidative stress and liver injury induced by ovariectomized/D-galactose in rats",
-      "year": "2026",
-      "journal": "Redox Rep",
-      "first_author": "He XQ",
-      "source": "MED"
-    },
-    {
-      "pmid": "42161877",
-      "pmcid": "PMC13195712",
-      "doi": "10.1080/0886022x.2026.2672189",
-      "title": "Serum fibrinogen-like protein 2 is associated with diabetic nephropathy severity and modulates high glucose-induced tubular dysfunction via Akt-FoxO1 signaling",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Lu XG",
       "source": "MED"
     },
     {
@@ -500,6 +450,56 @@
       "year": "2026",
       "journal": "Redox Rep",
       "first_author": "Zhou D",
+      "source": "MED"
+    },
+    {
+      "pmid": "42246934",
+      "pmcid": "PMC13244509",
+      "doi": "10.1080/13510002.2026.2684348",
+      "title": "The cysteine metabolic regulation through CSE-transsulfuration pathway is essential in iron-induced oxidative damage of heart",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Zhang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42247214",
+      "pmcid": "PMC13244508",
+      "doi": "10.1080/07853890.2026.2677997",
+      "title": "Outcomes of concomitant &lt;i&gt;Pneumocystis jirovecii&lt;/i&gt; pneumonia and cytomegalovirus co-infection in non-HIV, mechanically ventilated critically ill patients",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Hung WS",
+      "source": "MED"
+    },
+    {
+      "pmid": "42247321",
+      "pmcid": "PMC13245064",
+      "doi": "10.1080/15384047.2026.2684140",
+      "title": "Neoplastic CD3⁺ B cells remodel the DLBCL tumor microenvironment via single-cell and spatial transcriptomics",
+      "year": "2026",
+      "journal": "Cancer Biol Ther",
+      "first_author": "Lang M",
+      "source": "MED"
+    },
+    {
+      "pmid": "42247481",
+      "pmcid": "PMC13245102",
+      "doi": "10.1080/15384047.2026.2683942",
+      "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants",
+      "year": "2026",
+      "journal": "Cancer Biol Ther",
+      "first_author": "Illindala R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42256552",
+      "pmcid": "PMC13234246",
+      "doi": "10.1016/j.pscia.2026.100125",
+      "title": "Therapeutic potential of the sphingosine kinase 2 inhibitor opaganib",
+      "year": "2026",
+      "journal": "Pharm Sci Adv",
+      "first_author": "Huang F",
       "source": "MED"
     }
   ]
