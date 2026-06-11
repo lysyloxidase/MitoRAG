@@ -13,16 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42161895",
-      "pmcid": "PMC13195708",
-      "doi": "10.1080/0886022x.2026.2671466",
-      "title": "Metabolic memory in the kidney: how lactate and lactylation drive the path from acute injury to chronic disease",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Zhang X",
-      "source": "MED"
-    },
-    {
       "pmid": "42165632",
       "pmcid": "PMC13195707",
       "doi": "10.1080/13880209.2026.2668138",
@@ -490,6 +480,16 @@
       "year": "2026",
       "journal": "Cancer Biol Ther",
       "first_author": "Illindala R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42253188",
+      "pmcid": "PMC13248503",
+      "doi": "10.1080/14756366.2026.2678755",
+      "title": "Lidocaine enhances antitumor effects of sorafenib and GW5074 in colorectal cancer cells",
+      "year": "2026",
+      "journal": "J Enzyme Inhib Med Chem",
+      "first_author": "Lin TC",
       "source": "MED"
     },
     {
