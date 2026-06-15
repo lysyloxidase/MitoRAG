@@ -13,86 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42165632",
-      "pmcid": "PMC13195707",
-      "doi": "10.1080/13880209.2026.2668138",
-      "title": "Sauchinone attenuates UVB-induced photoaging by suppressing oxidative stress and ferroptosis through activation of the Keap1-Nrf2 pathway in dermal fibroblasts",
-      "year": "2026",
-      "journal": "Pharm Biol",
-      "first_author": "Zhang X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42166451",
-      "pmcid": "PMC13224767",
-      "doi": "10.1080/21505594.2026.2678667",
-      "title": "Pathogenicity and virulence of the blast fungus &lt;i&gt;Magnaporthe oryzae&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Molinari C",
-      "source": "MED"
-    },
-    {
-      "pmid": "42166546",
-      "pmcid": "PMC13240956",
-      "doi": "10.1080/21505594.2026.2678043",
-      "title": "Grass carp catalase inhibits GCRV replication through ROS scavenging-mediated immune suppression and autophagy",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Wang X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42167936",
-      "pmcid": "PMC13232886",
-      "doi": "10.1080/15476286.2026.2678028",
-      "title": "Identification of proteins interacting with the N-terminal half of endoribonuclease RNase E in &lt;i&gt;Escherichia coli&lt;/i&gt;",
-      "year": "2026",
-      "journal": "RNA Biol",
-      "first_author": "Göpel Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42169673",
-      "pmcid": "PMC13202700",
-      "doi": "10.1080/14756366.2026.2662446",
-      "title": "Mechanisms of traditional Chinese medicine in enhancing the efficacy and reducing the toxicity of immune checkpoint inhibitors &lt;i&gt;via&lt;/i&gt; regulation of the tumor microenvironment and gut microbiota",
-      "year": "2026",
-      "journal": "J Enzyme Inhib Med Chem",
-      "first_author": "Pan J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42171628",
-      "pmcid": "PMC13203027",
-      "doi": "10.1080/21505594.2026.2677346",
-      "title": "FGF8-mediated TRIM16 regulation promotes K48-linked ubiquitination and degradation of RIG-I to facilitate Influenza a virus immune evasion",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Wei R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42171633",
-      "pmcid": "PMC13203023",
-      "doi": "10.1080/19490976.2026.2675093",
-      "title": "The gut-bone axis: microbial metabolism and nutritional interventions for bone health",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Rodriguez-Bryant A",
-      "source": "MED"
-    },
-    {
-      "pmid": "42178167",
-      "pmcid": "PMC13202663",
-      "doi": "10.1080/0886022x.2026.2663248",
-      "title": "Potential circadian rhythm-related pathogenic genes in diabetic nephropathy: a multi-omics Mendelian randomization study",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Mao Y",
-      "source": "MED"
-    },
-    {
       "pmid": "42178725",
       "pmcid": "PMC13203056",
       "doi": "10.1080/19490976.2026.2675089",
@@ -500,6 +420,86 @@
       "year": "2026",
       "journal": "Pharm Sci Adv",
       "first_author": "Huang F",
+      "source": "MED"
+    },
+    {
+      "pmid": "42261249",
+      "pmcid": "PMC13250864",
+      "doi": "10.1080/07853890.2026.2678042",
+      "title": "Clinical associations during the year before Parkinson's disease diagnosis in Taiwan: a nationwide claims-based case-control study",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Lin KJ",
+      "source": "MED"
+    },
+    {
+      "pmid": "42261755",
+      "pmcid": "PMC13251524",
+      "doi": "10.1080/15476286.2026.2682066",
+      "title": "Enhancer RNAs: similarities with both lncRNAs and mRNAs reveal novel functions",
+      "year": "2026",
+      "journal": "RNA Biol",
+      "first_author": "Vlasov PA",
+      "source": "MED"
+    },
+    {
+      "pmid": "42261783",
+      "pmcid": "PMC13250883",
+      "doi": "10.1080/13510002.2026.2663628",
+      "title": "Rhaponticin alleviates pancreatic acinar cell necrosis by attenuating oxidative stress via modulation of the HIF-1α signaling pathway",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Xie X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42262337",
+      "pmcid": "PMC13251521",
+      "doi": "10.1080/19490976.2026.2684074",
+      "title": "Maternal diet shapes neonatal microbiome ontogenesis and neurometabolic resilience",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Kadyan S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42262932",
+      "pmcid": "PMC13250884",
+      "doi": "10.1080/07853890.2026.2672785",
+      "title": "The regulatory roles of non-coding RNAs in aerobic glycolysis and therapeutic potential in pancreatic ductal adenocarcinoma",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Fan Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42275020",
+      "pmcid": "PMC13262103",
+      "doi": "10.1080/13510002.2026.2682046",
+      "title": "Enzymatic and non-enzymatic oxidation of fibrillar collagen",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Mathias-Netto FC",
+      "source": "MED"
+    },
+    {
+      "pmid": "42275298",
+      "pmcid": "PMC13262104",
+      "doi": "10.1080/13510002.2026.2687238",
+      "title": "Significance of GSH and H&lt;sub&gt;2&lt;/sub&gt;S regulation for cancer: an intricate interplay between diet, microbiota, metabolic reprogramming, and immune health",
+      "year": "2026",
+      "journal": "Redox Rep",
+      "first_author": "Majumder A",
+      "source": "MED"
+    },
+    {
+      "pmid": "42281949",
+      "pmcid": "PMC13251701",
+      "doi": "10.1016/j.ibneur.2026.05.008",
+      "title": "Antiepileptic and antiepileptogenic effects of &lt;i&gt;Lagenaria siceraria&lt;/i&gt; aqueous extract (Curcubitaceae) in PTZ-induced kindling in rats",
+      "year": "2026",
+      "journal": "IBRO Neurosci Rep",
+      "first_author": "Gnoupa KK",
       "source": "MED"
     }
   ]
