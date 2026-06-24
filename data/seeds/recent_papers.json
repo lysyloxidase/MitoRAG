@@ -13,46 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42178725",
-      "pmcid": "PMC13203056",
-      "doi": "10.1080/19490976.2026.2675089",
-      "title": "Soil-derived microbiota induces T regulatory cells and protect against mouse colitis, metabolic disease, and sepsis",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Szurek EA",
-      "source": "MED"
-    },
-    {
-      "pmid": "42178794",
-      "pmcid": "PMC13202646",
-      "doi": "10.1080/0886022x.2026.2677252",
-      "title": "The mediating effect role of methylmalonic acid on the association between oxidative balance score and diabetic kidney disease: a cross-sectional study from NHANES 2011-2014",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Yang H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42178799",
-      "pmcid": "PMC13202638",
-      "doi": "10.1080/0886022x.2026.2668270",
-      "title": "Unveiling the role of air pollution in diabetic kidney disease: an integrated study combining network toxicology, machine learning, and Mendelian randomization",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Kang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42178825",
-      "pmcid": "PMC13202647",
-      "doi": "10.1080/0886022x.2026.2673608",
-      "title": "Nanotechnology-mediated podocyte injury repair: mechanistic exploration and therapeutic prospects",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Zhu H",
-      "source": "MED"
-    },
-    {
       "pmid": "42178977",
       "pmcid": "PMC13203071",
       "doi": "10.1080/21505594.2026.2677315",
@@ -313,6 +273,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42228926",
+      "pmcid": "PMC13271349",
+      "doi": "10.1080/21505594.2026.2682654",
+      "title": "Pathogenicity and Virulence of &lt;i&gt;Fusarium oxysporum&lt;/i&gt; f. sp. &lt;i&gt;vasinfectum&lt;/i&gt; Race 4: Understanding an Emerging Threat to Cotton from Field to Genome",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Zhou Y",
+      "source": "MED"
+    },
+    {
       "pmid": "42231717",
       "pmcid": "PMC13235233",
       "doi": "10.1080/07853890.2026.2671594",
@@ -473,6 +443,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42265935",
+      "pmcid": "PMC13271355",
+      "doi": "10.1080/2162402x.2026.2684116",
+      "title": "CXCL13-expressing CD4&lt;sup&gt;+&lt;/sup&gt; T cells coordinate the lymphocytes triad to promote the anti-tumor immunity in NSCLC",
+      "year": "2026",
+      "journal": "Oncoimmunology",
+      "first_author": "Liu D",
+      "source": "MED"
+    },
+    {
       "pmid": "42275020",
       "pmcid": "PMC13262103",
       "doi": "10.1080/13510002.2026.2682046",
@@ -480,6 +460,16 @@
       "year": "2026",
       "journal": "Redox Rep",
       "first_author": "Mathias-Netto FC",
+      "source": "MED"
+    },
+    {
+      "pmid": "42275228",
+      "pmcid": "PMC13271342",
+      "doi": "10.1080/15592324.2026.2687952",
+      "title": "Endophyte function in climate-stressed crops: integrating molecular regulation, metabolic trade-offs, and ecological constraints",
+      "year": "2026",
+      "journal": "Plant Signal Behav",
+      "first_author": "Harsonowati W",
       "source": "MED"
     },
     {
@@ -500,6 +490,16 @@
       "year": "2026",
       "journal": "IBRO Neurosci Rep",
       "first_author": "Gnoupa KK",
+      "source": "MED"
+    },
+    {
+      "pmid": "42295078",
+      "pmcid": "PMC13270872",
+      "doi": "10.1080/14756366.2026.2674446",
+      "title": "Shikonin suppresses diffuse large B-cell lymphoma progression by inducing ferritinophagy and ferroptosis &lt;i&gt;via&lt;/i&gt; lncRNA ADPGK-AS1 downregulation",
+      "year": "2026",
+      "journal": "J Enzyme Inhib Med Chem",
+      "first_author": "Chen C",
       "source": "MED"
     }
   ]
