@@ -13,96 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42219284",
-      "pmcid": "PMC13224705",
-      "doi": "10.1080/0886022x.2026.2667584",
-      "title": "Combining bioinformatics and machine learning to analyze and validate sepsis-related cell senescence genes and potential drugs",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Pei S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42219961",
-      "pmcid": "PMC13228183",
-      "doi": "10.1080/0886022x.2026.2671460",
-      "title": "Integrative multi-omics Mendelian randomization reveals key lipid metabolism genes as therapeutic targets for diabetic nephropathy pathogenesis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Liu S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42221684",
-      "pmcid": "PMC13217924",
-      "doi": "10.1016/j.synbio.2026.04.022",
-      "title": "Eukaryotic cell-free protein synthesis: Chassis diversification, system engineering, and emerging applications",
-      "year": "2026",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Tong S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42224656",
-      "pmcid": "PMC13228171",
-      "doi": "10.1080/13880209.2026.2675166",
-      "title": "CB001 bioactive compounds mitigate intestinal immune dysregulation induced by simulated microgravity and radiation via B cells modulation",
-      "year": "2026",
-      "journal": "Pharm Biol",
-      "first_author": "Liu J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42226383",
-      "pmcid": "PMC13231815",
-      "doi": "10.1080/0886022x.2026.2657102",
-      "title": "Association of atherogenic index of plasma with urine albumin-to-creatinine ratio in Chinese urban adults: a cross-sectional study",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Hou Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42226574",
-      "pmcid": "PMC13232878",
-      "doi": "10.1080/21505594.2026.2682573",
-      "title": "Repurposing the antispasmodic drug pinaverium bromide as a novel antifungal agent and synergist against &lt;i&gt;Candida albicans&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Yao J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42226577",
-      "pmcid": "PMC13232881",
-      "doi": "10.1080/19491034.2026.2675754",
-      "title": "High-resolution nuclear cell biology by cryo-electron tomography",
-      "year": "2026",
-      "journal": "Nucleus",
-      "first_author": "Kechagia Z",
-      "source": "MED"
-    },
-    {
-      "pmid": "42228003",
-      "pmcid": "PMC13232887",
-      "doi": "10.1080/2162402x.2026.2682649",
-      "title": "Dectin-1 signaling promotes Galectin-3 shedding and expansion of immunosuppressive CD71+ erythroid cells in breast cancer",
-      "year": "2026",
-      "journal": "Oncoimmunology",
-      "first_author": "Azimi A",
-      "source": "MED"
-    },
-    {
-      "pmid": "42228352",
-      "pmcid": "PMC13232883",
-      "doi": "10.1080/19490976.2026.2681720",
-      "title": "Sulfide dynamics at the gut-microbiota interface: diet, oxygen and redox interplay",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Kumar R",
-      "source": "MED"
-    },
-    {
       "pmid": "42228365",
       "pmcid": "PMC13231813",
       "doi": "10.1080/13510002.2026.2682043",
@@ -293,6 +203,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42262762",
+      "pmcid": "PMC13285573",
+      "doi": "10.1080/21505594.2026.2687251",
+      "title": "The 3'Untranslated region is a critical determinant of Getah virus replication, pathogenesis, and vector competence",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Ren T",
+      "source": "MED"
+    },
+    {
       "pmid": "42262932",
       "pmcid": "PMC13250884",
       "doi": "10.1080/07853890.2026.2672785",
@@ -403,6 +323,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42289383",
+      "pmcid": "PMC13267046",
+      "doi": "10.1080/0886022x.2026.2680375",
+      "title": "AMD1-mediated polyamine metabolism governs tubular repair fate by restraining senescence after kidney injury",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Mao B",
+      "source": "MED"
+    },
+    {
       "pmid": "42290218",
       "pmcid": "PMC13274136",
       "doi": "10.1080/15384101.2026.2684937",
@@ -420,6 +350,16 @@
       "year": "2026",
       "journal": "IBRO Neurosci Rep",
       "first_author": "Kurmashev R.",
+      "source": "MED"
+    },
+    {
+      "pmid": "42293987",
+      "pmcid": "PMC13264237",
+      "doi": "10.1016/j.reth.2026.101145",
+      "title": "Extracellular vesicles subpopulation derived of clonal mesenchymal stem cells protected retinal ganglion cells in mouse model with optic nerve crush",
+      "year": "2026",
+      "journal": "Regen Ther",
+      "first_author": "Satarian L",
       "source": "MED"
     },
     {
@@ -463,6 +403,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42299131",
+      "pmcid": "PMC13285962",
+      "doi": "10.1080/0886022x.2026.2664285",
+      "title": "Proteomic Mendelian randomization and machine learning reveal causal plasma biomarkers in cardiorenal comorbidity",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Huang H",
+      "source": "MED"
+    },
+    {
       "pmid": "42305018",
       "pmcid": "PMC13276816",
       "doi": "10.1080/07853890.2026.2685416",
@@ -483,6 +433,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42305662",
+      "pmcid": "PMC13266238",
+      "doi": "10.1016/j.fochms.2026.100427",
+      "title": "Enhanced lactose utilization from milk enriched in Uridine-5'-monophosphate drives hepatic energy storage in young mammals",
+      "year": "2026",
+      "journal": "Food Chem (Oxf)",
+      "first_author": "Gao LM",
+      "source": "MED"
+    },
+    {
       "pmid": "42306850",
       "pmcid": "PMC13276812",
       "doi": "10.1080/14756366.2026.2686919",
@@ -500,6 +460,46 @@
       "year": "2026",
       "journal": "Ren Fail",
       "first_author": "Zheng Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42316962",
+      "pmcid": "PMC13285602",
+      "doi": "10.1080/19491034.2026.2688584",
+      "title": "The nucleus as a mechanobiological hub in muscle aging",
+      "year": "2026",
+      "journal": "Nucleus",
+      "first_author": "Esen O",
+      "source": "MED"
+    },
+    {
+      "pmid": "42326394",
+      "pmcid": "PMC13279761",
+      "doi": "10.1016/j.fsisyn.2026.100705",
+      "title": "INTERPOL Review of Forensic Biology and DNA, 2023-2025",
+      "year": "2026",
+      "journal": "Forensic Sci Int Synerg",
+      "first_author": "Butler JM.",
+      "source": "MED"
+    },
+    {
+      "pmid": "42328658",
+      "pmcid": "PMC13276425",
+      "doi": "10.1016/j.ibneur.2026.06.003",
+      "title": "Metabolic profile association with white matter hyperintensity in patients with mild cognitive impairment",
+      "year": "2026",
+      "journal": "IBRO Neurosci Rep",
+      "first_author": "Ariaei A",
+      "source": "MED"
+    },
+    {
+      "pmid": "42338460",
+      "pmcid": "PMC13284435",
+      "doi": "10.1016/j.reth.2026.101127",
+      "title": "Menstrual blood-derived stromal cells exhibit superior protection against lung injury in myocardial Infarction-Induced heart failure in rats compared to bone marrow-derived stromal cells",
+      "year": "2026",
+      "journal": "Regen Ther",
+      "first_author": "Manshori M",
       "source": "MED"
     }
   ]
