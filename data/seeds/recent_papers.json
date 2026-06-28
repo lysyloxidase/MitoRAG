@@ -13,16 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42261249",
-      "pmcid": "PMC13250864",
-      "doi": "10.1080/07853890.2026.2678042",
-      "title": "Clinical associations during the year before Parkinson's disease diagnosis in Taiwan: a nationwide claims-based case-control study",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Lin KJ",
-      "source": "MED"
-    },
-    {
       "pmid": "42261755",
       "pmcid": "PMC13251524",
       "doi": "10.1080/15476286.2026.2682066",
@@ -370,6 +360,16 @@
       "year": "2026",
       "journal": "Ann Med",
       "first_author": "Xie M",
+      "source": "MED"
+    },
+    {
+      "pmid": "42318705",
+      "pmcid": "PMC13285565",
+      "doi": "10.1080/15384047.2026.2683273",
+      "title": "Opsonization and timing as key determinants of MBTA immunotherapy efficacy in pancreatic adenocarcinoma and recurrence treatment",
+      "year": "2026",
+      "journal": "Cancer Biol Ther",
+      "first_author": "Frejlachova A",
       "source": "MED"
     },
     {
