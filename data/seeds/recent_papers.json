@@ -13,16 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42261755",
-      "pmcid": "PMC13251524",
-      "doi": "10.1080/15476286.2026.2682066",
-      "title": "Enhancer RNAs: similarities with both lncRNAs and mRNAs reveal novel functions",
-      "year": "2026",
-      "journal": "RNA Biol",
-      "first_author": "Vlasov PA",
-      "source": "MED"
-    },
-    {
       "pmid": "42261783",
       "pmcid": "PMC13250883",
       "doi": "10.1080/13510002.2026.2663628",
@@ -500,6 +490,16 @@
       "year": "2026",
       "journal": "Regen Ther",
       "first_author": "Manshori M",
+      "source": "MED"
+    },
+    {
+      "pmid": "42359165",
+      "pmcid": "PMC13292465",
+      "doi": "10.1016/j.reth.2026.101150",
+      "title": "Therapeutic frontiers in ALS: iPSC-based drug discovery, cell therapy, and gene therapy-Advances through 2026",
+      "year": "2026",
+      "journal": "Regen Ther",
+      "first_author": "Morimoto S",
       "source": "MED"
     }
   ]
