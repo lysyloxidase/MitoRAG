@@ -13,46 +13,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42332854",
-      "pmcid": "PMC13313235",
-      "doi": "10.1080/19336934.2026.2690767",
-      "title": "New cell lines derived from larvae of the neotropical fruit fly &lt;i&gt;Drosophila willistoni&lt;/i&gt; persistently infected with &lt;i&gt;Wolbachia&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Fly (Austin)",
-      "first_author": "Bell-Sakyi L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42332952",
-      "pmcid": "PMC13292316",
-      "doi": "10.1080/14756366.2026.2690829",
-      "title": "Nanozymes: bridging nanoscale characteristics and catalytic mechanisms for advanced biomedical applications",
-      "year": "2026",
-      "journal": "J Enzyme Inhib Med Chem",
-      "first_author": "Sun Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42333513",
-      "pmcid": "PMC13313254",
-      "doi": "10.1080/15384101.2026.2687836",
-      "title": "OTUD5 promotes AML progression by stabilizing SLC7A11 to suppress ferroptosis",
-      "year": "2026",
-      "journal": "Cell Cycle",
-      "first_author": "Chen X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42335104",
-      "pmcid": "PMC13313223",
-      "doi": "10.1080/15384047.2026.2692168",
-      "title": "The dual role of leukotrienes in the tumor microenvironment: balancing pro-tumorigenic and anti-tumor immunity",
-      "year": "2026",
-      "journal": "Cancer Biol Ther",
-      "first_author": "Thake A",
-      "source": "MED"
-    },
-    {
       "pmid": "42336394",
       "pmcid": "PMC13292309",
       "doi": "10.1080/0886022x.2026.2687230",
@@ -500,6 +460,46 @@
       "year": "2026",
       "journal": "IBRO Neurosci Rep",
       "first_author": "Yousefi R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42403425",
+      "pmcid": "PMC13330544",
+      "doi": "10.1016/j.jtauto.2026.100376",
+      "title": "Environmental shaping of tolerance failure in autoimmune liver diseases: a phenotype-specific framework with primary biliary cholangitis as the strongest model",
+      "year": "2026",
+      "journal": "J Transl Autoimmun",
+      "first_author": "Mirowski K",
+      "source": "MED"
+    },
+    {
+      "pmid": "42404492",
+      "pmcid": "PMC13330510",
+      "doi": "10.1016/j.toxrep.2026.102306",
+      "title": "Acute and chronic toxicity of potassium bromate (KBrO₃) in zebrafish (&lt;i&gt;Danio rerio&lt;/i&gt;): Behavioural and hepatic effects",
+      "year": "2026",
+      "journal": "Toxicol Rep",
+      "first_author": "Reddy SR",
+      "source": "MED"
+    },
+    {
+      "pmid": "42404727",
+      "pmcid": "PMC13330663",
+      "doi": "10.1016/j.ijpx.2026.100591",
+      "title": "pH-responsive injectable hydrogel dressing integrating antibacteria, antioxidation, anti-inflammation, and angiogenesis for infected wound healing",
+      "year": "2026",
+      "journal": "Int J Pharm X",
+      "first_author": "Wang Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42404734",
+      "pmcid": "PMC13330652",
+      "doi": "10.1016/j.ijnsa.2026.100597",
+      "title": "Self-care in children and young people with complex chronic conditions instrument: development and content validation",
+      "year": "2026",
+      "journal": "Int J Nurs Stud Adv",
+      "first_author": "Manzi G",
       "source": "MED"
     }
   ]
