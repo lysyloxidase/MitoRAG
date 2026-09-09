@@ -43,16 +43,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42502435",
-      "pmcid": "PMC13400965",
-      "doi": "10.1016/j.ijpx.2026.100612",
-      "title": "Biomimetic membrane-coated metal nanoplatforms for enhanced BBB penetration and targeted glioblastoma therapy",
-      "year": "2026",
-      "journal": "Int J Pharm X",
-      "first_author": "Yun D",
-      "source": "MED"
-    },
-    {
       "pmid": "42502840",
       "pmcid": "PMC13400428",
       "doi": "10.1016/j.synbio.2026.06.004",
@@ -60,176 +50,6 @@
       "year": "2027",
       "journal": "Synth Syst Biotechnol",
       "first_author": "Zhang L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42503223",
-      "pmcid": "PMC13418705",
-      "doi": "10.1080/19336950.2026.2709185",
-      "title": "Research progress on the role and mechanism of STIM and Orai protein-mediated store-operated calcium entry in cardiovascular diseases",
-      "year": "2026",
-      "journal": "Channels (Austin)",
-      "first_author": "Liao X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42503425",
-      "pmcid": "PMC13403530",
-      "doi": "10.1080/0886022x.2026.2697409",
-      "title": "Peroxiredoxins in the kidney: a Jekyll and Hyde existence in disease pathogenesis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Jia LH",
-      "source": "MED"
-    },
-    {
-      "pmid": "42503644",
-      "pmcid": "PMC13418702",
-      "doi": "10.1080/2162402x.2026.2707808",
-      "title": "Characterization of persistent HPV-specific activated T cells in head and neck squamous cell carcinoma",
-      "year": "2026",
-      "journal": "Oncoimmunology",
-      "first_author": "Ishihara H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42506980",
-      "pmcid": "PMC13410553",
-      "doi": "10.1080/22221751.2026.2706321",
-      "title": "Viral entry defines the hepatitis E virus species barrier in murine hepatocytes",
-      "year": "2026",
-      "journal": "Emerg Microbes Infect",
-      "first_author": "Frericks N",
-      "source": "MED"
-    },
-    {
-      "pmid": "42507757",
-      "pmcid": "PMC13418467",
-      "doi": "10.1080/15384047.2026.2710413",
-      "title": "Stress-specific 14-3-3-client modules in digestive cancers: an evidence-graded review of adaptive survival and therapy resistance",
-      "year": "2026",
-      "journal": "Cancer Biol Ther",
-      "first_author": "Li R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42516088",
-      "pmcid": "PMC13417647",
-      "doi": "10.1080/07853890.2026.2706208",
-      "title": "Generalized osteoporosis but not axial osteopenia is associated with cognitive impairment in Parkinson's disease",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Wang JY",
-      "source": "MED"
-    },
-    {
-      "pmid": "42516090",
-      "pmcid": "PMC13418717",
-      "doi": "10.1080/21623945.2026.2705620",
-      "title": "Role of adiponectin in gestational diabetes mellitus: advances in mechanistic insights and early predictive potential",
-      "year": "2026",
-      "journal": "Adipocyte",
-      "first_author": "Chen Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42517342",
-      "pmcid": "PMC13418484",
-      "doi": "10.1080/19491034.2026.2707719",
-      "title": "XPO1-dependent nuclear export regulates NS3 localization and promotes DENV-2 replication through mitochondrial remodeling and interferon suppression",
-      "year": "2026",
-      "journal": "Nucleus",
-      "first_author": "Palacios-Rápalo SN",
-      "source": "MED"
-    },
-    {
-      "pmid": "42517695",
-      "pmcid": "PMC13418706",
-      "doi": "10.1080/21505594.2026.2697095",
-      "title": "Pathogenicity and virulence of &lt;i&gt;Streptococcus suis&lt;/i&gt; serotype 2: Emerging insights and persistent knowledge gaps",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Fang L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518529",
-      "pmcid": "PMC13382275",
-      "doi": "10.1016/j.fochms.2026.100437",
-      "title": "Structure-function insights into the digestive fate of angiotensin-converting enzyme-inhibitory peptides from microwave-treated corn gluten meal",
-      "year": "2026",
-      "journal": "Food Chem (Oxf)",
-      "first_author": "Hamzeh A",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518555",
-      "pmcid": "PMC13382274",
-      "doi": "10.1016/j.pscia.2026.100132",
-      "title": "A visualizable mitochondrial-targeted Chlorambucil prodrug for enhancing anti-hepatoma efficacy",
-      "year": "2026",
-      "journal": "Pharm Sci Adv",
-      "first_author": "Lin L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518654",
-      "pmcid": "PMC13382288",
-      "doi": "10.1016/j.bioactmat.2026.07.015",
-      "title": "Chitosan-based nerve guidance conduits functionalized with fibroblast-derived extracellular vesicles promote peripheral nerve regeneration via miR-143-3p delivery",
-      "year": "2026",
-      "journal": "Bioact Mater",
-      "first_author": "Shen D",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518655",
-      "pmcid": "PMC13382412",
-      "doi": "10.1016/j.bioactmat.2026.07.008",
-      "title": "Biomaterials at the interface of bone-derived factors and inter-organ communication: Current evidence and future perspectives",
-      "year": "2026",
-      "journal": "Bioact Mater",
-      "first_author": "Ji L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518658",
-      "pmcid": "PMC13382928",
-      "doi": "10.1016/j.bioactmat.2026.07.016",
-      "title": "A mild photothermal-mediated neuroimmunomodulatory composite hydrogel reverses the inflammatory osteoclast precursor phenotype to promote osteoporotic bone defect healing",
-      "year": "2026",
-      "journal": "Bioact Mater",
-      "first_author": "Yu J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42518659",
-      "pmcid": "PMC13382097",
-      "doi": "10.1016/j.bioactmat.2026.06.047",
-      "title": "Targeting ROAM1 with UDP-GlcNAc nanosheets selective activates lysosomal AMPK to resolve metabolic dysfunction-associated steatotic liver disease",
-      "year": "2026",
-      "journal": "Bioact Mater",
-      "first_author": "Zhu J",
-      "source": "MED"
-    },
-    {
-      "pmid": "42519115",
-      "pmcid": "PMC13382595",
-      "doi": "10.1016/j.ijpx.2026.100603",
-      "title": "ZIF-8 nanoplatform coordinating Zn&lt;sup&gt;2+&lt;/sup&gt; overload and STING activation for enhanced prostate cancer immunotherapy",
-      "year": "2026",
-      "journal": "Int J Pharm X",
-      "first_author": "Wang X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42519118",
-      "pmcid": "PMC13382424",
-      "doi": "10.1016/j.ijpx.2026.100608",
-      "title": "Emerging copper-based hollow nanoplatforms for cancer treatment",
-      "year": "2026",
-      "journal": "Int J Pharm X",
-      "first_author": "Liang S",
       "source": "MED"
     },
     {
@@ -473,6 +293,46 @@
       "source": "MED"
     },
     {
+      "pmid": "42555410",
+      "pmcid": "PMC13449730",
+      "doi": "10.1080/21645515.2026.2714657",
+      "title": "Comparative innate immune responses across major RNA and DNA viral infections: Mechanisms, immunopathology, and therapeutic perspectives",
+      "year": "2026",
+      "journal": "Hum Vaccin Immunother",
+      "first_author": "Mashhadi Abolghasem Shirazi M.",
+      "source": "MED"
+    },
+    {
+      "pmid": "42555543",
+      "pmcid": "PMC13449827",
+      "doi": "10.1080/21505594.2026.2709250",
+      "title": "Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Aida-Ficken V",
+      "source": "MED"
+    },
+    {
+      "pmid": "42559863",
+      "pmcid": "PMC13449720",
+      "doi": "10.1080/20565623.2026.2712209",
+      "title": "Drug-Induced liver injury with adebrelimab: how to assess causality using the updated RUCAM?",
+      "year": "2026",
+      "journal": "Future Sci OA",
+      "first_author": "Min J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42563361",
+      "pmcid": "PMC13455701",
+      "doi": "10.1080/0886022x.2026.2707003",
+      "title": "Integrative multi-omics analysis identifies VCAN and ESM1 as candidate cell-type-associated biomarkers of NET-related glomerular injury in diabetic kidney disease",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "first_author": "Liang Y",
+      "source": "MED"
+    },
+    {
       "pmid": "42564698",
       "pmcid": "PMC13445970",
       "doi": "10.1016/j.abiote.2026.100079",
@@ -500,6 +360,146 @@
       "year": "2026",
       "journal": "Bioact Mater",
       "first_author": "Zhao J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42568895",
+      "pmcid": "PMC13448466",
+      "doi": "10.1016/j.vas.2026.100787",
+      "title": "The effect of increasing dietary Vitamin E and D doses on the performance of broilers and &lt;i&gt;CLDN2&lt;/i&gt; gene expression during experimental heat stress",
+      "year": "2026",
+      "journal": "Vet Anim Sci",
+      "first_author": "Soufiabadi SS",
+      "source": "MED"
+    },
+    {
+      "pmid": "42569198",
+      "pmcid": "PMC13448951",
+      "doi": "10.1016/j.bioactmat.2026.06.008",
+      "title": "TLR2 inhibition attenuates NET-driven inflammation and restenosis during poly-lactic acid bioresorbable scaffold degradation",
+      "year": "2026",
+      "journal": "Bioact Mater",
+      "first_author": "Zhou C",
+      "source": "MED"
+    },
+    {
+      "pmid": "42569353",
+      "pmcid": "PMC13449793",
+      "doi": "10.1016/j.ijpx.2026.100621",
+      "title": "Nanozyme-based therapeutic strategies for traumatic brain injury",
+      "year": "2026",
+      "journal": "Int J Pharm X",
+      "first_author": "Ma Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42569414",
+      "pmcid": "PMC13450024",
+      "doi": "10.1016/j.bioactmat.2026.07.030",
+      "title": "Eradicating &lt;i&gt;Helicobacter pylori&lt;/i&gt; and reversing precancerous intestinal metaplasia by gastric epithelial cells-localizable oral nanomedicines",
+      "year": "2026",
+      "journal": "Bioact Mater",
+      "first_author": "Ma S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42569484",
+      "pmcid": "PMC13450443",
+      "doi": "10.1016/j.bioactmat.2026.07.018",
+      "title": "A theranostic wearable laser-induced graphene-hydrogel dressing for synergistic treatment and real-time monitoring of dermatophytosis",
+      "year": "2026",
+      "journal": "Bioact Mater",
+      "first_author": "Chen L",
+      "source": "MED"
+    },
+    {
+      "pmid": "42571346",
+      "pmcid": "PMC13451854",
+      "doi": "10.1016/j.synbio.2026.07.004",
+      "title": "Transfer of chloroplast &lt;i&gt;rbcL&lt;/i&gt; and &lt;i&gt;atpB&lt;/i&gt; genes to nucleus enables partial rescue of photoautotrophic growth of Chlamydomonas",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Shi W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42571396",
+      "pmcid": "PMC13452283",
+      "doi": "10.1016/j.bioactmat.2026.07.051",
+      "title": "Dual-modal antioxidant and epigenetic synergy attenuates the self-perpetuating senescence cycle in osteoarthritis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "An X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42571430",
+      "pmcid": "PMC13452241",
+      "doi": "10.1016/j.fochms.2026.100440",
+      "title": "Guanidinoacetic acid enhances Tibetan sheep-meat quality through the gut-muscle axis: insights from metabolome-microbiome integration",
+      "year": "2026",
+      "journal": "Food Chem (Oxf)",
+      "first_author": "Sa R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42571439",
+      "pmcid": "PMC13452235",
+      "doi": "10.1016/j.vas.2026.100790",
+      "title": "Heat-stress-induced DNA methylation remodeling in cattle: a systematic evidence synthesis and meta-analytic feasibility assessment",
+      "year": "2026",
+      "journal": "Vet Anim Sci",
+      "first_author": "Bejaoui S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42571573",
+      "pmcid": "PMC13452385",
+      "doi": "10.1016/j.bioactmat.2026.07.046",
+      "title": "Engineering functional vasculatures to reconstruct sympathetic-parasympathetic circuits for bladder function after spinal cord injury",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Weng H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42572407",
+      "pmcid": "PMC13459304",
+      "doi": "10.1080/07853890.2026.2705692",
+      "title": "Occupationally relevant vibrations and the brain: frequency-dependent proteomics signatures in a rat model",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Chao D",
+      "source": "MED"
+    },
+    {
+      "pmid": "42573605",
+      "pmcid": "PMC13459302",
+      "doi": "10.1080/07853890.2026.2712061",
+      "title": "Association of transglutaminase-2 with contrast-induced acute kidney injury in Chinese patients with acute coronary syndrome: a prospective cohort study",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Yao R",
+      "source": "MED"
+    },
+    {
+      "pmid": "42576936",
+      "pmcid": "PMC13453500",
+      "doi": "10.1016/j.ibneur.2026.07.005",
+      "title": "Mitochondrial targeting strategies for mitigating oxidative damage and enhancing neuroprotection in ischemic stroke: A Review",
+      "year": "2026",
+      "journal": "IBRO Neurosci Rep",
+      "first_author": "Trujillo-Rangel WÁ",
+      "source": "MED"
+    },
+    {
+      "pmid": "42576952",
+      "pmcid": "PMC13453477",
+      "doi": "10.1016/j.ibneur.2026.07.012",
+      "title": "Protective effect of Glycyrrhizin on cuprizone-induced model of multiple sclerosis in male C57BL/6 mice",
+      "year": "2026",
+      "journal": "IBRO Neurosci Rep",
+      "first_author": "Morakkabi AS",
       "source": "MED"
     }
   ]
