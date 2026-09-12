@@ -53,6 +53,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42529264",
+      "pmcid": "PMC13416829",
+      "doi": "10.1016/j.synbio.2026.06.008",
+      "title": "Mining and engineering of active &lt;i&gt;PB&lt;/i&gt; transposons in &lt;i&gt;Hymenoptera&lt;/i&gt;",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Wang B",
+      "source": "MED"
+    },
+    {
       "pmid": "42529265",
       "pmcid": "PMC13416837",
       "doi": "10.1016/j.synbio.2026.06.006",
@@ -200,96 +210,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Chen H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42635375",
-      "pmcid": "PMC13508497",
-      "doi": "10.1080/07853890.2026.2717823",
-      "title": "Development and validation of a nomogram to predict 28-day all-cause mortality in sepsis patients complicated by acute kidney injury",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Jiang L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42635425",
-      "pmcid": "PMC13508488",
-      "doi": "10.1080/14756366.2026.2719719",
-      "title": "Identification of a candidate PRODH allosteric inhibitor MBTP-15324: modulation of proline metabolite profiles and ECM-associated gene-expression changes in lung cancer cells",
-      "year": "2026",
-      "journal": "J Enzyme Inhib Med Chem",
-      "first_author": "Zhou Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42637575",
-      "pmcid": "PMC13508540",
-      "doi": "10.1080/0886022x.2026.2703925",
-      "title": "Natural products against renal fibrosis: molecular mechanisms, safety concerns, and translational perspectives",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Liu Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42637672",
-      "pmcid": "PMC13508492",
-      "doi": "10.1080/0886022x.2026.2711462",
-      "title": "Epigallocatechin-3-gallate attenuates oxidative stress and apoptosis in podocytes of focal segmental glomerulosclerosis",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Wang X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42638385",
-      "pmcid": "PMC13532028",
-      "doi": "10.1080/21505594.2026.2723577",
-      "title": "The roles and mechanisms of natural compounds in preventing and treating viral reproductive disorders in major economic livestock",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Su Q",
-      "source": "MED"
-    },
-    {
-      "pmid": "42640005",
-      "pmcid": "PMC13523946",
-      "doi": "10.1080/21505594.2026.2723631",
-      "title": "Identification of novel sepsis-related neutrophil subsets and surface markers for clinical diagnosis and outcome",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Chen S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42640100",
-      "pmcid": "PMC13524007",
-      "doi": "10.1080/19490976.2026.2722486",
-      "title": "Revisiting gut microbiota-driven ammonia metabolism: from disease burden to physiological adaptation",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Chen H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42640955",
-      "pmcid": "PMC13520864",
-      "doi": "10.1080/22221751.2026.2717857",
-      "title": "Ferroptosis: significance to zoonotic diseases and therapeutic prospects",
-      "year": "2026",
-      "journal": "Emerg Microbes Infect",
-      "first_author": "Tian L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42643049",
-      "pmcid": "PMC13523970",
-      "doi": "10.1080/15592294.2026.2670885",
-      "title": "Association of prenatal exposure to opioids, cannabis, and polysubstance use with cord blood DNA methylation patterns in a multiancestry cohort",
-      "year": "2026",
-      "journal": "Epigenetics",
-      "first_author": "Garrison-Desany H",
       "source": "MED"
     },
     {
@@ -500,6 +420,86 @@
       "year": "2026",
       "journal": "Hum Vaccin Immunother",
       "first_author": "Wang T",
+      "source": "MED"
+    },
+    {
+      "pmid": "42675914",
+      "pmcid": "PMC13537062",
+      "doi": "10.1080/07853890.2026.2724762",
+      "title": "Single-cell RNA sequencing uncovers an immunosuppressive program in PDAC mast cells: tumour-driven activation, proliferation, and association with Treg recruitment",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Wu M",
+      "source": "MED"
+    },
+    {
+      "pmid": "42677827",
+      "pmcid": "PMC13540161",
+      "doi": "10.1080/19490976.2026.2725392",
+      "title": "&lt;i&gt;Bacteroides cellulosilyticus&lt;/i&gt;-derived 2-hydroxyphenylacetic acid rectifies hepatic lipid homeostasis in MASLD by targeting the PPARγ-CD36 axis",
+      "year": "2026",
+      "journal": "Gut Microbes",
+      "first_author": "Chen K",
+      "source": "MED"
+    },
+    {
+      "pmid": "42677992",
+      "pmcid": "PMC13537054",
+      "doi": "10.1080/01652176.2026.2695104",
+      "title": "Structural characterization of PAMK and its protective effect against thymic necroptosis in goslings",
+      "year": "2026",
+      "journal": "Vet Q",
+      "first_author": "Li W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42678062",
+      "pmcid": "PMC13540177",
+      "doi": "10.1080/21505594.2026.2721828",
+      "title": "GPNMB promotes double-membrane vesicle accumulation and facilitates structural protein transport during PEDV infection",
+      "year": "2026",
+      "journal": "Virulence",
+      "first_author": "Li Q",
+      "source": "MED"
+    },
+    {
+      "pmid": "42679097",
+      "pmcid": "PMC13537052",
+      "doi": "10.1080/15502783.2026.2721836",
+      "title": "Mechanism-based nutritional strategies for performance and recovery in soccer players: a qualitative research synthesis",
+      "year": "2026",
+      "journal": "J Int Soc Sports Nutr",
+      "first_author": "Azizi Ammarati AH",
+      "source": "MED"
+    },
+    {
+      "pmid": "42683508",
+      "pmcid": "PMC13539790",
+      "doi": "10.1080/15502783.2026.2724102",
+      "title": "Effects of cinnamon supplementation combined with exercise training on anthropometric indices and reproductive hormones in overweight and obese women",
+      "year": "2026",
+      "journal": "J Int Soc Sports Nutr",
+      "first_author": "Ahmadi F",
+      "source": "MED"
+    },
+    {
+      "pmid": "42683544",
+      "pmcid": "PMC13539789",
+      "doi": "10.1080/20008066.2026.2711481",
+      "title": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults",
+      "year": "2026",
+      "journal": "Eur J Psychotraumatol",
+      "first_author": "Von Wendorff C",
+      "source": "MED"
+    },
+    {
+      "pmid": "42685253",
+      "pmcid": "PMC13539785",
+      "doi": "10.1080/07853890.2026.2723681",
+      "title": "The multiple composite risk index estimates the risks of sarcopenia and comorbidities: unveiling the role of oxidative balance score",
+      "year": "2026",
+      "journal": "Ann Med",
+      "first_author": "Liu M",
       "source": "MED"
     }
   ]
