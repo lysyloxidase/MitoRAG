@@ -203,6 +203,16 @@
       "source": "MED"
     },
     {
+      "pmid": "42633310",
+      "pmcid": "PMC13499415",
+      "doi": "10.1016/j.bioactmat.2026.07.006",
+      "title": "Interpretable AI-driven materiomics to decode microenvironmental cues for stem cell immunomodulation",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Pan C",
+      "source": "MED"
+    },
+    {
       "pmid": "42633398",
       "pmcid": "PMC13499491",
       "doi": "10.1016/j.bioactmat.2026.08.008",
@@ -273,23 +283,13 @@
       "source": "MED"
     },
     {
-      "pmid": "42704785",
-      "pmcid": "PMC13552295",
-      "doi": "10.1080/15502783.2026.2728356",
-      "title": "Natural products alleviate exercise-induced fatigue by modulating gut microbiota: a systematic review",
-      "year": "2026",
-      "journal": "J Int Soc Sports Nutr",
-      "first_author": "Yan D",
-      "source": "MED"
-    },
-    {
-      "pmid": "42709540",
-      "pmcid": "PMC13556941",
-      "doi": "10.1080/15384047.2026.2724630",
-      "title": "Thioredoxin reductase-1 facilitates cellular plasticity and stemness mediated by TGF-β1 in non-small cell lung cancer",
-      "year": "2026",
-      "journal": "Cancer Biol Ther",
-      "first_author": "Lang YD",
+      "pmid": "42701464",
+      "pmcid": "PMC13545395",
+      "doi": "10.1016/j.synbio.2026.08.009",
+      "title": "Ribosome engineering enhances genetic code expansion in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Chen X",
       "source": "MED"
     },
     {
