@@ -293,66 +293,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42711121",
-      "pmcid": "PMC13554480",
-      "doi": "10.26508/lsa.202603709",
-      "title": "MAFF is a transcription factor that regulates contraction-induced skeletal muscle transcription",
-      "year": "2026",
-      "journal": "Life Sci Alliance",
-      "first_author": "Fukushima T",
-      "source": "MED"
-    },
-    {
-      "pmid": "42711660",
-      "pmcid": "PMC13556956",
-      "doi": "10.1080/21505594.2026.2728436",
-      "title": "Repurposing SKQ1 as a meropenem potentiator against NDM-1-producing &lt;i&gt;Escherichia coli&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Li X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42711665",
-      "pmcid": "PMC13556937",
-      "doi": "10.1080/21505594.2026.2723678",
-      "title": "EspF acts as a molecular scaffold to facilitate TRIM25-mediated NLRP3 inflammasome activation during mycobacterial infection",
-      "year": "2026",
-      "journal": "Virulence",
-      "first_author": "Yang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42712126",
-      "pmcid": "PMC13568577",
-      "doi": "10.1080/19490976.2026.2728828",
-      "title": "Towards optimizing the host response to biotics: a report of an International Scientific Association for Probiotics and Prebiotics working group",
-      "year": "2026",
-      "journal": "Gut Microbes",
-      "first_author": "Preidis GA",
-      "source": "MED"
-    },
-    {
-      "pmid": "42712128",
-      "pmcid": "PMC13568571",
-      "doi": "10.1080/15384047.2026.2728335",
-      "title": "DNA-PKcs and PARP1 at the interface between DNA damage responses and cGAS-STING signaling: context-dependent roles and therapeutic implications",
-      "year": "2026",
-      "journal": "Cancer Biol Ther",
-      "first_author": "Miao T",
-      "source": "MED"
-    },
-    {
-      "pmid": "42713249",
-      "pmcid": "PMC13551874",
-      "doi": "10.1016/j.ijpx.2026.100653",
-      "title": "A photothermal ablation strategy for orthotopic ovarian cancer &lt;i&gt;via&lt;/i&gt; mitochondria-dependent apoptosis",
-      "year": "2026",
-      "journal": "Int J Pharm X",
-      "first_author": "Zhou L",
-      "source": "MED"
-    },
-    {
       "pmid": "42713317",
       "pmcid": "PMC13551886",
       "doi": "10.1016/j.bioactmat.2026.07.029",
@@ -360,36 +300,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Yin H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42714219",
-      "pmcid": "PMC13560418",
-      "doi": "10.1080/07853890.2026.2726611",
-      "title": "Clinical characteristics and prognosis of IgA nephropathy and comorbid diabetic kidney disease",
-      "year": "2026",
-      "journal": "Ann Med",
-      "first_author": "Wang A",
-      "source": "MED"
-    },
-    {
-      "pmid": "42717575",
-      "pmcid": "PMC13564171",
-      "doi": "10.1080/22221751.2026.2671469",
-      "title": "AXL mediates influenza A virus entry and drives virus-induced inflammation",
-      "year": "2026",
-      "journal": "Emerg Microbes Infect",
-      "first_author": "Zuo W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42717825",
-      "pmcid": "PMC13564166",
-      "doi": "10.1080/0886022x.2026.2727298",
-      "title": "Mitochondrial extracellular vesicles in cardiorenal syndrome: emerging mediators of mitochondrial signaling and inter-organ crosstalk",
-      "year": "2026",
-      "journal": "Ren Fail",
-      "first_author": "Hou J",
       "source": "MED"
     },
     {
@@ -500,6 +410,96 @@
       "year": "2026",
       "journal": "IBRO Neurosci Rep",
       "first_author": "Monti DA",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733543",
+      "pmcid": "PMC13571514",
+      "doi": "10.1016/j.bioactmat.2026.08.059",
+      "title": "Gas-propelled microneedles for precision transdermal therapeutics",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Xiao Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733589",
+      "pmcid": "PMC13571528",
+      "doi": "10.1016/j.bioactmat.2026.08.039",
+      "title": "An oral coral-like resveratrol nanocomplex protects against dry eye disease through ocular and systemic redox homeostasis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Cui Q",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733706",
+      "pmcid": "PMC13571470",
+      "doi": "10.1016/j.bbrep.2026.102765",
+      "title": "Physical exercise as a therapeutic strategy in animal models of Alzheimer's disease: Molecular, behavioral, and histopathological evidence",
+      "year": "2026",
+      "journal": "Biochem Biophys Rep",
+      "first_author": "Behrouzfar H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733728",
+      "pmcid": "PMC13571513",
+      "doi": "10.1016/j.bioactmat.2026.08.051",
+      "title": "A logic-gated nanoplatform spatiotemporally orchestrates immunometabolic reprogramming and osteogenesis for diabetic periodontal regeneration",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Jiang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733772",
+      "pmcid": "PMC13571536",
+      "doi": "10.1016/j.bioactmat.2026.08.019",
+      "title": "Biomaterials for intervertebral disc regeneration: Niche reprogramming, precision therapeutics, and structural reconstruction",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Jiang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733785",
+      "pmcid": "PMC13571535",
+      "doi": "10.1016/j.bioactmat.2026.05.047",
+      "title": "Harnessing gasotransmitters for orthopaedic infection therapy: Mechanisms and advanced delivery platforms",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Zhang JY",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733788",
+      "pmcid": "PMC13571533",
+      "doi": "10.1016/j.bioactmat.2026.08.061",
+      "title": "The immune-microbe-metal triad: a vicious cycle driving biomaterial corrosion in the oral inflammatory microenvironment",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Wu H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733832",
+      "pmcid": "PMC13571657",
+      "doi": "10.1016/j.ijppaw.2026.101272",
+      "title": "\"Not flying solo\": phylogenetic identification and life-cycle insights of larval cestodes in the European flying squid &lt;i&gt;Todarodes sagittatus&lt;/i&gt; (Cephalopoda: Ommastrephidae)",
+      "year": "2026",
+      "journal": "Int J Parasitol Parasites Wildl",
+      "first_author": "Benyahia N",
+      "source": "MED"
+    },
+    {
+      "pmid": "42733922",
+      "pmcid": "PMC13571926",
+      "doi": "10.1016/j.bbrep.2026.102776",
+      "title": "Deletion of the T1D risk gene &lt;i&gt;Ormdl3&lt;/i&gt; in β-cells does not impact disease progression",
+      "year": "2026",
+      "journal": "Biochem Biophys Rep",
+      "first_author": "Ou Q",
       "source": "MED"
     }
   ]
