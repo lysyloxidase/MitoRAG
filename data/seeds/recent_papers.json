@@ -383,36 +383,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42735207",
-      "pmcid": "PMC13577256",
-      "doi": "10.1080/15502783.2026.2720742",
-      "title": "Resistance versus concurrent training with three assigned protein targets in middle-aged and older women: a randomized 2 × 3 factorial trial",
-      "year": "2026",
-      "journal": "J Int Soc Sports Nutr",
-      "first_author": "Bagheri R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42740974",
-      "pmcid": "PMC13572016",
-      "doi": "10.1016/j.fochms.2026.100449",
-      "title": "Multi-omics reveals that dietary arachidonic acid reshapes hepatopancreatic lipid remodeling and modulates steroidogenesis-related pathways in mud crab",
-      "year": "2026",
-      "journal": "Food Chem (Oxf)",
-      "first_author": "Fang F",
-      "source": "MED"
-    },
-    {
-      "pmid": "42740988",
-      "pmcid": "PMC13572015",
-      "doi": "10.1016/j.fochms.2026.100451",
-      "title": "Breed-specific meat quality and flavor characteristics of Wannan and Chinese Simmental cattle revealed by whole transcriptome and metabolome analysis",
-      "year": "2026",
-      "journal": "Food Chem (Oxf)",
-      "first_author": "Song N",
-      "source": "MED"
-    },
-    {
       "pmid": "42741210",
       "pmcid": "PMC13572315",
       "doi": "10.1016/j.aninu.2026.04.004",
@@ -500,6 +470,36 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Yang Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42751060",
+      "pmcid": "PMC13579450",
+      "doi": "10.1016/j.ijpx.2026.100658",
+      "title": "Protective mechanisms and therapeutic promise of nanomaterials in radiation-induced diseases",
+      "year": "2026",
+      "journal": "Int J Pharm X",
+      "first_author": "Ge Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42751120",
+      "pmcid": "PMC13579153",
+      "doi": "10.1016/j.gendis.2026.102054",
+      "title": "Metabolic reprogramming in colorectal cancer: Mechanisms and therapeutic insights",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Xiao W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42751511",
+      "pmcid": "PMC13580051",
+      "doi": "10.1016/j.toxrep.2026.102339",
+      "title": "Protective effects of sodium dodecyl sulfate-modified chitosan against subchronic mercury-induced hepatorenal toxicity in male swiss albino mice",
+      "year": "2026",
+      "journal": "Toxicol Rep",
+      "first_author": "Safari S",
       "source": "MED"
     }
   ]
