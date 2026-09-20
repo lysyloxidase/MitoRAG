@@ -383,26 +383,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42741210",
-      "pmcid": "PMC13572315",
-      "doi": "10.1016/j.aninu.2026.04.004",
-      "title": "Phloretin as a functional feed bioactive in livestock: Biological role, biosynthesis, and practical applications",
-      "year": "2026",
-      "journal": "Anim Nutr",
-      "first_author": "Areb E",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741256",
-      "pmcid": "PMC13573001",
-      "doi": "10.1016/j.bbrep.2026.102782",
-      "title": "Selective under-representation of transcripts encoding membrane-integrated architectures following neural tissue vitrification",
-      "year": "2026",
-      "journal": "Biochem Biophys Rep",
-      "first_author": "Wilczok D",
-      "source": "MED"
-    },
-    {
       "pmid": "42741379",
       "pmcid": "PMC13573684",
       "doi": "10.1016/j.bioactmat.2026.09.004",
@@ -410,36 +390,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Zheng N",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741484",
-      "pmcid": "PMC13572764",
-      "doi": "10.1016/j.aninu.2026.03.011",
-      "title": "Integrated transcriptomics and metabolomics reveal suppression of the PPAR α/γ pathway linking purine metabolism disorder to high-protein diet-induced hyperuricemia in goslings",
-      "year": "2026",
-      "journal": "Anim Nutr",
-      "first_author": "Li X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741570",
-      "pmcid": "PMC13573003",
-      "doi": "10.1016/j.bbrep.2026.102767",
-      "title": "Piezo1-mediated mechanotransduction in bone formation and fracture repair",
-      "year": "2026",
-      "journal": "Biochem Biophys Rep",
-      "first_author": "Wu R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741571",
-      "pmcid": "PMC13573006",
-      "doi": "10.1016/j.bbrep.2026.102773",
-      "title": "Time-series analysis of gene expression identifies of FKBP4 as a novel protective factor in severe acute pancreatitis-associated myocardial injury",
-      "year": "2026",
-      "journal": "Biochem Biophys Rep",
-      "first_author": "Zhuang XJ",
       "source": "MED"
     },
     {
@@ -473,16 +423,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42751060",
-      "pmcid": "PMC13579450",
-      "doi": "10.1016/j.ijpx.2026.100658",
-      "title": "Protective mechanisms and therapeutic promise of nanomaterials in radiation-induced diseases",
-      "year": "2026",
-      "journal": "Int J Pharm X",
-      "first_author": "Ge Y",
-      "source": "MED"
-    },
-    {
       "pmid": "42751120",
       "pmcid": "PMC13579153",
       "doi": "10.1016/j.gendis.2026.102054",
@@ -493,13 +433,73 @@
       "source": "MED"
     },
     {
-      "pmid": "42751511",
-      "pmcid": "PMC13580051",
-      "doi": "10.1016/j.toxrep.2026.102339",
-      "title": "Protective effects of sodium dodecyl sulfate-modified chitosan against subchronic mercury-induced hepatorenal toxicity in male swiss albino mice",
+      "pmid": "42756546",
+      "pmcid": "PMC13583718",
+      "doi": "10.1016/j.aninu.2026.04.003",
+      "title": "Effects of dietary 5-hydroxytryptophan on growth characteristic, hepatopancreas health, antioxidant defenses, immune status, and reproductive potential of &lt;i&gt;Macrobrachium rosenbergii&lt;/i&gt; broodstock",
       "year": "2026",
-      "journal": "Toxicol Rep",
-      "first_author": "Safari S",
+      "journal": "Anim Nutr",
+      "first_author": "Wang L",
+      "source": "MED"
+    },
+    {
+      "pmid": "42756574",
+      "pmcid": "PMC13583763",
+      "doi": "10.1016/j.aninu.2026.02.011",
+      "title": "Dietary taurine supplementation ameliorates growth performance, intestinal health, and environmental stress tolerance in summer-reared &lt;i&gt;Megalobrama amblycephala&lt;/i&gt;",
+      "year": "2026",
+      "journal": "Anim Nutr",
+      "first_author": "Chen K",
+      "source": "MED"
+    },
+    {
+      "pmid": "42756648",
+      "pmcid": "PMC13584062",
+      "doi": "10.1016/j.bbrep.2026.102787",
+      "title": "Hepatocyte SLC31A1-dependent copper accumulation contributes to hepatic glucose and lipid metabolic disturbances through AMPKα1 inactivation",
+      "year": "2026",
+      "journal": "Biochem Biophys Rep",
+      "first_author": "Cheng YQ",
+      "source": "MED"
+    },
+    {
+      "pmid": "42756859",
+      "pmcid": "PMC13583733",
+      "doi": "10.1016/j.jatmed.2026.08.001",
+      "title": "CD36 is associated with myocardial ischemia-reperfusion-induced renal injury in diabetic rats, accompanied by alterations in the PI3K/Akt/eNOS pathway",
+      "year": "2026",
+      "journal": "J Anesth Transl Med",
+      "first_author": "Wang K",
+      "source": "MED"
+    },
+    {
+      "pmid": "42756970",
+      "pmcid": "PMC13583770",
+      "doi": "10.1016/j.ctro.2026.101279",
+      "title": "Tumour hypoxia in clinical oncology: imaging, therapeutic strategies, and translational challenges",
+      "year": "2027",
+      "journal": "Clin Transl Radiat Oncol",
+      "first_author": "Lin X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42756972",
+      "pmcid": "PMC13583744",
+      "doi": "10.1016/j.ocarto.2026.100873",
+      "title": "Acute TGFα drives OA-associated transcriptional and metabolic remodelling in primary chondrocytes",
+      "year": "2026",
+      "journal": "Osteoarthr Cartil Open",
+      "first_author": "White EL",
+      "source": "MED"
+    },
+    {
+      "pmid": "42757095",
+      "pmcid": "PMC13584132",
+      "doi": "10.1016/j.jmccpl.2026.100866",
+      "title": "Evidence for a role of adverse sarcomere signaling in atrial fibrillation induction",
+      "year": "2026",
+      "journal": "J Mol Cell Cardiol Plus",
+      "first_author": "McCauley MD",
       "source": "MED"
     }
   ]
