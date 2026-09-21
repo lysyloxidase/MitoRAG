@@ -433,46 +433,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42756546",
-      "pmcid": "PMC13583718",
-      "doi": "10.1016/j.aninu.2026.04.003",
-      "title": "Effects of dietary 5-hydroxytryptophan on growth characteristic, hepatopancreas health, antioxidant defenses, immune status, and reproductive potential of &lt;i&gt;Macrobrachium rosenbergii&lt;/i&gt; broodstock",
-      "year": "2026",
-      "journal": "Anim Nutr",
-      "first_author": "Wang L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42756574",
-      "pmcid": "PMC13583763",
-      "doi": "10.1016/j.aninu.2026.02.011",
-      "title": "Dietary taurine supplementation ameliorates growth performance, intestinal health, and environmental stress tolerance in summer-reared &lt;i&gt;Megalobrama amblycephala&lt;/i&gt;",
-      "year": "2026",
-      "journal": "Anim Nutr",
-      "first_author": "Chen K",
-      "source": "MED"
-    },
-    {
-      "pmid": "42756648",
-      "pmcid": "PMC13584062",
-      "doi": "10.1016/j.bbrep.2026.102787",
-      "title": "Hepatocyte SLC31A1-dependent copper accumulation contributes to hepatic glucose and lipid metabolic disturbances through AMPKα1 inactivation",
-      "year": "2026",
-      "journal": "Biochem Biophys Rep",
-      "first_author": "Cheng YQ",
-      "source": "MED"
-    },
-    {
-      "pmid": "42756859",
-      "pmcid": "PMC13583733",
-      "doi": "10.1016/j.jatmed.2026.08.001",
-      "title": "CD36 is associated with myocardial ischemia-reperfusion-induced renal injury in diabetic rats, accompanied by alterations in the PI3K/Akt/eNOS pathway",
-      "year": "2026",
-      "journal": "J Anesth Transl Med",
-      "first_author": "Wang K",
-      "source": "MED"
-    },
-    {
       "pmid": "42756970",
       "pmcid": "PMC13583770",
       "doi": "10.1016/j.ctro.2026.101279",
@@ -483,23 +443,63 @@
       "source": "MED"
     },
     {
-      "pmid": "42756972",
-      "pmcid": "PMC13583744",
-      "doi": "10.1016/j.ocarto.2026.100873",
-      "title": "Acute TGFα drives OA-associated transcriptional and metabolic remodelling in primary chondrocytes",
-      "year": "2026",
-      "journal": "Osteoarthr Cartil Open",
-      "first_author": "White EL",
+      "pmid": "42761305",
+      "pmcid": "PMC13586833",
+      "doi": "10.1016/j.bioactmat.2026.08.055",
+      "title": "Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Liu S",
       "source": "MED"
     },
     {
-      "pmid": "42757095",
-      "pmcid": "PMC13584132",
-      "doi": "10.1016/j.jmccpl.2026.100866",
-      "title": "Evidence for a role of adverse sarcomere signaling in atrial fibrillation induction",
+      "pmid": "42761718",
+      "pmcid": "PMC13587062",
+      "doi": "10.1016/j.bioactmat.2026.08.026",
+      "title": "Nanoadjuvant-based membrane poration boosts antitumor immunity via modulating mitochondrial metabolism to downregulate PD-L1 and upregulate STING",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "You W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42761880",
+      "pmcid": "PMC13587739",
+      "doi": "10.1016/j.ijregi.2026.100987",
+      "title": "Discordance between initial procalcitonin and Sequential Organ Failure Assessment score predicts in-hospital mortality in culture-positive bacterial sepsis: a retrospective cohort from an Indonesian tertiary hospital",
       "year": "2026",
-      "journal": "J Mol Cell Cardiol Plus",
-      "first_author": "McCauley MD",
+      "journal": "IJID Reg",
+      "first_author": "Sartika SD",
+      "source": "MED"
+    },
+    {
+      "pmid": "42763497",
+      "pmcid": "PMC13589076",
+      "doi": "10.1016/j.gendis.2026.102232",
+      "title": "Autosomal dominant gain-of-function mutations in LCP1 cause a syndromic neutropenia and immunodeficiency",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Yu L",
+      "source": "MED"
+    },
+    {
+      "pmid": "42763524",
+      "pmcid": "PMC13589088",
+      "doi": "10.1016/j.gendis.2026.102167",
+      "title": "Single-cell sequencing-guided discovery of narciclasine as a dual VCAM-1/ICAM-1 inhibitor for atherosclerosis management",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Wang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42763546",
+      "pmcid": "PMC13589091",
+      "doi": "10.1016/j.gendis.2026.102301",
+      "title": "&lt;i&gt;LAMA5&lt;/i&gt; pathogenic variant uncovers a novel autoantigen in membranous nephropathy",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Xiao H",
       "source": "MED"
     }
   ]
