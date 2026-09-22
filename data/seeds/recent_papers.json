@@ -3,16 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42153180",
-      "pmcid": "PMC13180301",
-      "doi": "10.5812/ijpr-164903",
-      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation",
-      "year": "2027",
-      "journal": "Iran J Pharm Res",
-      "first_author": "Berenjian K",
-      "source": "MED"
-    },
-    {
       "pmid": "42376007",
       "pmcid": "PMC13312025",
       "doi": "10.1016/j.synbio.2026.03.021",
@@ -463,13 +453,13 @@
       "source": "MED"
     },
     {
-      "pmid": "42761880",
-      "pmcid": "PMC13587739",
-      "doi": "10.1016/j.ijregi.2026.100987",
-      "title": "Discordance between initial procalcitonin and Sequential Organ Failure Assessment score predicts in-hospital mortality in culture-positive bacterial sepsis: a retrospective cohort from an Indonesian tertiary hospital",
-      "year": "2026",
-      "journal": "IJID Reg",
-      "first_author": "Sartika SD",
+      "pmid": "42763477",
+      "pmcid": "PMC13589071",
+      "doi": "10.1016/j.gendis.2026.102290",
+      "title": "ZO-2 blocks the localization of PGAM5 protein to the mitochondrial membrane and suppresses pancreatic cancer malignancy through metabolic reprogramming",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Yu S",
       "source": "MED"
     },
     {
@@ -490,6 +480,16 @@
       "year": "2027",
       "journal": "Genes Dis",
       "first_author": "Wang Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42763537",
+      "pmcid": "PMC13589082",
+      "doi": "10.1016/j.gendis.2026.102163",
+      "title": "PINK1 deficiency exacerbates age-related bone loss in association with enhanced inflammatory adipocyte differentiation",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Sung MJ",
       "source": "MED"
     },
     {
