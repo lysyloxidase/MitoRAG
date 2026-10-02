@@ -63,26 +63,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42630814",
-      "pmcid": "PMC13495601",
-      "doi": "10.1016/j.bioactmat.2026.08.005",
-      "title": "Trojan horse-inspired vaccine-like nanoparticle with enhanced lubrication and active-passive synergistic anti-inflammation for post-traumatic osteoarthritis treatment",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42633281",
-      "pmcid": "PMC13499492",
-      "doi": "10.1016/j.bioactmat.2026.06.010",
-      "title": "Mitochondria-derived peptide hydrogel augments mitochondrial transplantation for promoting cardiac repair via macrophage metabolic reprogramming",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Li H",
-      "source": "MED"
-    },
-    {
       "pmid": "42633310",
       "pmcid": "PMC13499415",
       "doi": "10.1016/j.bioactmat.2026.07.006",
@@ -500,6 +480,26 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Zhou Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42807762",
+      "pmcid": "PMC13617453",
+      "doi": "10.5812/ijem-171383",
+      "title": "Association Between Serum Amylin, Irisin, and Sirtuin 1 in Male Patients with Type 2 Diabetes and Diabetic Nephropathy",
+      "year": "2027",
+      "journal": "Int J Endocrinol Metab",
+      "first_author": "Sabih Wajdi S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42807785",
+      "pmcid": "PMC13617454",
+      "doi": "10.5812/ijem-167083",
+      "title": "Disturbed Spatial Learning and Hippocampal Molecular and Histological Alterations in Middle-Aged Rats with a History of Polycystic Ovary Syndrome",
+      "year": "2027",
+      "journal": "Int J Endocrinol Metab",
+      "first_author": "Noroozzadeh M",
       "source": "MED"
     }
   ]
