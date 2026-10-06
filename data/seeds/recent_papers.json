@@ -63,36 +63,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42633310",
-      "pmcid": "PMC13499415",
-      "doi": "10.1016/j.bioactmat.2026.07.006",
-      "title": "Interpretable AI-driven materiomics to decode microenvironmental cues for stem cell immunomodulation",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Pan C",
-      "source": "MED"
-    },
-    {
-      "pmid": "42633398",
-      "pmcid": "PMC13499491",
-      "doi": "10.1016/j.bioactmat.2026.08.008",
-      "title": "Therapeutic potential and underlying mechanisms of engineered young plasma-derived exosomes in Alzheimer's disease",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Chen H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42662799",
-      "pmcid": "PMC13520909",
-      "doi": "10.1016/j.bioactmat.2026.08.011",
-      "title": "A universal consuming endogenous H&lt;sub&gt;2&lt;/sub&gt;S strategy using bismuth-metal-organic nanocapsule networks for overcoming osteosarcoma cisplatin resistance",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Lin Y",
-      "source": "MED"
-    },
-    {
       "pmid": "42666364",
       "pmcid": "PMC13522245",
       "doi": "10.1016/j.bioactmat.2026.08.022",
@@ -290,6 +260,16 @@
       "year": "2027",
       "journal": "Genes Dis",
       "first_author": "Xiao W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42751161",
+      "pmcid": "PMC13579149",
+      "doi": "10.1016/j.gendis.2026.102335",
+      "title": "ONC201/dordaviprone for H3 K27M-mutant tumors: Discovery, mechanisms, therapeutic potential, and future directions",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Pimentel JM",
       "source": "MED"
     },
     {
@@ -500,6 +480,26 @@
       "year": "2027",
       "journal": "Int J Endocrinol Metab",
       "first_author": "Noroozzadeh M",
+      "source": "MED"
+    },
+    {
+      "pmid": "42828102",
+      "pmcid": "PMC13631622",
+      "doi": "10.1016/j.bioactmat.2026.09.021",
+      "title": "Engineered probiotics couple photothermal cuproptosis with biomechanical disruption and immune activation",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Zhang X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42828281",
+      "pmcid": "PMC13632224",
+      "doi": "10.1016/j.bioactmat.2026.08.040",
+      "title": "In situ bioactive nanocoating enables transocular delivery of permeable drug for dual-location intervention of ocular surface and fundus disorders",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Wang Z",
       "source": "MED"
     }
   ]
