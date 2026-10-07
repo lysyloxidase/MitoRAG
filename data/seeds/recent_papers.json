@@ -63,16 +63,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42666364",
-      "pmcid": "PMC13522245",
-      "doi": "10.1016/j.bioactmat.2026.08.022",
-      "title": "Transmetallic biomimetic Hydrogel implants restore osteogenesis-angiogenesis coupling via Fe/Co ionic microenvironment remodeling for enhancing osteoporotic fracture healing",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Wei H",
-      "source": "MED"
-    },
-    {
       "pmid": "42667070",
       "pmcid": "PMC13524491",
       "doi": "10.1016/j.bioactmat.2026.08.017",
@@ -500,6 +490,16 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Wang Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42831006",
+      "pmcid": "PMC13634291",
+      "doi": "10.1016/j.synbio.2026.09.006",
+      "title": "Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Xu J",
       "source": "MED"
     }
   ]
