@@ -73,16 +73,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42668497",
-      "pmcid": "PMC13524627",
-      "doi": "10.1016/j.bioactmat.2026.07.037",
-      "title": "Reversing zinc dyshomeostasis and oxidative stress: A metallothionein 1-activating MXene/Zn&lt;sup&gt;2+&lt;/sup&gt; triple-action nanotherapeutic strategy for chronic non-bacterial prostatitis",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Liu K",
-      "source": "MED"
-    },
-    {
       "pmid": "42699228",
       "pmcid": "PMC13544083",
       "doi": "10.1016/j.bioactmat.2026.08.031",
@@ -500,6 +490,16 @@
       "year": "2027",
       "journal": "Synth Syst Biotechnol",
       "first_author": "Xu J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42839367",
+      "pmcid": "PMC13652057",
+      "doi": "10.1080/21505594.2026.2739074",
+      "title": "Enterovirus 2B protein: From viroporin to membrane stress sensor, mechanistic principles of multi-pathway regulation",
+      "year": "2027",
+      "journal": "Virulence",
+      "first_author": "Ji Z",
       "source": "MED"
     }
   ]
