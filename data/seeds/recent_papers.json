@@ -73,26 +73,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42699228",
-      "pmcid": "PMC13544083",
-      "doi": "10.1016/j.bioactmat.2026.08.031",
-      "title": "Tissue-derived extracellular matrix hydrogels instruct epigenetic adaptation in metastatic colonization",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yoon H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42699681",
-      "pmcid": "PMC13544112",
-      "doi": "10.1016/j.bioactmat.2026.08.042",
-      "title": "BMP-2-driven osteo-organoid formation retains key osteogenic-support features and promotes bone repair following total-body irradiation",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhu F",
-      "source": "MED"
-    },
-    {
       "pmid": "42701464",
       "pmcid": "PMC13545395",
       "doi": "10.1016/j.synbio.2026.08.009",
@@ -120,16 +100,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Liu SC",
-      "source": "MED"
-    },
-    {
-      "pmid": "42729938",
-      "pmcid": "PMC13563251",
-      "doi": "10.1016/j.bioactmat.2026.08.044",
-      "title": "A hydrogel ionic circuit electrical stimulation system to restore denervated muscle following long-gap peripheral nerve injury",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Alimi OA",
       "source": "MED"
     },
     {
@@ -190,6 +160,36 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Wu H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42734462",
+      "pmcid": "PMC13667357",
+      "doi": "10.4103/mgr.medgasres-d-26-00014",
+      "title": "Medical gases and hypertensive disorders of pregnancy: therapeutic mechanisms and research advances",
+      "year": "2027",
+      "journal": "Med Gas Res",
+      "first_author": "Xu Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42734463",
+      "pmcid": "PMC13667356",
+      "doi": "10.4103/mgr.medgasres-d-26-00051",
+      "title": "Application of medical gases in prevention and treatment of electromagnetic radiation injury",
+      "year": "2027",
+      "journal": "Med Gas Res",
+      "first_author": "Xing Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42734465",
+      "pmcid": "PMC13667376",
+      "doi": "10.4103/mgr.medgasres-d-25-00318",
+      "title": "Perioperative hyperbaric oxygen therapy: mechanisms, evidence, and clinical application",
+      "year": "2027",
+      "journal": "Med Gas Res",
+      "first_author": "Gavaza T",
       "source": "MED"
     },
     {
