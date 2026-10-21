@@ -163,36 +163,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42734462",
-      "pmcid": "PMC13667357",
-      "doi": "10.4103/mgr.medgasres-d-26-00014",
-      "title": "Medical gases and hypertensive disorders of pregnancy: therapeutic mechanisms and research advances",
-      "year": "2027",
-      "journal": "Med Gas Res",
-      "first_author": "Xu Z",
-      "source": "MED"
-    },
-    {
-      "pmid": "42734463",
-      "pmcid": "PMC13667356",
-      "doi": "10.4103/mgr.medgasres-d-26-00051",
-      "title": "Application of medical gases in prevention and treatment of electromagnetic radiation injury",
-      "year": "2027",
-      "journal": "Med Gas Res",
-      "first_author": "Xing Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42734465",
-      "pmcid": "PMC13667376",
-      "doi": "10.4103/mgr.medgasres-d-25-00318",
-      "title": "Perioperative hyperbaric oxygen therapy: mechanisms, evidence, and clinical application",
-      "year": "2027",
-      "journal": "Med Gas Res",
-      "first_author": "Gavaza T",
-      "source": "MED"
-    },
-    {
       "pmid": "42741379",
       "pmcid": "PMC13573684",
       "doi": "10.1016/j.bioactmat.2026.09.004",
@@ -253,6 +223,26 @@
       "source": "MED"
     },
     {
+      "pmid": "42751510",
+      "pmcid": "PMC13580067",
+      "doi": "10.1016/j.gendis.2026.102228",
+      "title": "Rewiring redox defense: Nrf2-driven antioxidant signaling as a gateway to programmed cell death activation in colorectal cancer",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Yu Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42751552",
+      "pmcid": "PMC13580056",
+      "doi": "10.1016/j.bioactmat.2026.09.001",
+      "title": "Acoustoelectric nanoregulator for modulating the endoplasmic reticulum and mitochondria in cell fate regulation",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Feng G",
+      "source": "MED"
+    },
+    {
       "pmid": "42756970",
       "pmcid": "PMC13583770",
       "doi": "10.1016/j.ctro.2026.101279",
@@ -270,6 +260,16 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Liu S",
+      "source": "MED"
+    },
+    {
+      "pmid": "42761476",
+      "pmcid": "PMC13586694",
+      "doi": "10.1016/j.bioactmat.2026.08.062",
+      "title": "Electron-rearranged CuMg@ZIF nanoplatform for pH-Responsive sequential therapy: From infection eradication to neuroangiogenesis in diabetic wounds",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Xie H",
       "source": "MED"
     },
     {
