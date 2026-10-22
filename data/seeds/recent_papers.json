@@ -203,36 +203,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42751120",
-      "pmcid": "PMC13579153",
-      "doi": "10.1016/j.gendis.2026.102054",
-      "title": "Metabolic reprogramming in colorectal cancer: Mechanisms and therapeutic insights",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Xiao W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42751161",
-      "pmcid": "PMC13579149",
-      "doi": "10.1016/j.gendis.2026.102335",
-      "title": "ONC201/dordaviprone for H3 K27M-mutant tumors: Discovery, mechanisms, therapeutic potential, and future directions",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Pimentel JM",
-      "source": "MED"
-    },
-    {
-      "pmid": "42751510",
-      "pmcid": "PMC13580067",
-      "doi": "10.1016/j.gendis.2026.102228",
-      "title": "Rewiring redox defense: Nrf2-driven antioxidant signaling as a gateway to programmed cell death activation in colorectal cancer",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Yu Y",
-      "source": "MED"
-    },
-    {
       "pmid": "42751552",
       "pmcid": "PMC13580056",
       "doi": "10.1016/j.bioactmat.2026.09.001",
@@ -240,16 +210,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Feng G",
-      "source": "MED"
-    },
-    {
-      "pmid": "42756970",
-      "pmcid": "PMC13583770",
-      "doi": "10.1016/j.ctro.2026.101279",
-      "title": "Tumour hypoxia in clinical oncology: imaging, therapeutic strategies, and translational challenges",
-      "year": "2027",
-      "journal": "Clin Transl Radiat Oncol",
-      "first_author": "Lin X",
       "source": "MED"
     },
     {
@@ -270,56 +230,6 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Xie H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42761718",
-      "pmcid": "PMC13587062",
-      "doi": "10.1016/j.bioactmat.2026.08.026",
-      "title": "Nanoadjuvant-based membrane poration boosts antitumor immunity via modulating mitochondrial metabolism to downregulate PD-L1 and upregulate STING",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "You W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42763477",
-      "pmcid": "PMC13589071",
-      "doi": "10.1016/j.gendis.2026.102290",
-      "title": "ZO-2 blocks the localization of PGAM5 protein to the mitochondrial membrane and suppresses pancreatic cancer malignancy through metabolic reprogramming",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Yu S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42763497",
-      "pmcid": "PMC13589076",
-      "doi": "10.1016/j.gendis.2026.102232",
-      "title": "Autosomal dominant gain-of-function mutations in LCP1 cause a syndromic neutropenia and immunodeficiency",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Yu L",
-      "source": "MED"
-    },
-    {
-      "pmid": "42763524",
-      "pmcid": "PMC13589088",
-      "doi": "10.1016/j.gendis.2026.102167",
-      "title": "Single-cell sequencing-guided discovery of narciclasine as a dual VCAM-1/ICAM-1 inhibitor for atherosclerosis management",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Wang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42763537",
-      "pmcid": "PMC13589082",
-      "doi": "10.1016/j.gendis.2026.102163",
-      "title": "PINK1 deficiency exacerbates age-related bone loss in association with enhanced inflammatory adipocyte differentiation",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Sung MJ",
       "source": "MED"
     },
     {
@@ -500,6 +410,96 @@
       "year": "2027",
       "journal": "Virulence",
       "first_author": "Ji Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898399",
+      "pmcid": "PMC13677966",
+      "doi": "10.1016/j.bioactmat.2026.09.022",
+      "title": "Theranostic peptide-selenium hydrogel targeting NETs-mitochondrial dysfunction-pyroptosis axis for chronic diabetic wound repair",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Dan X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898451",
+      "pmcid": "PMC13678013",
+      "doi": "10.1016/j.bioactmat.2026.10.002",
+      "title": "Advanced cell-instructive bio-inks: Engineering multiscale niches for functional tissue formation",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Ng WL",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898456",
+      "pmcid": "PMC13677775",
+      "doi": "10.1016/j.gendis.2026.102148",
+      "title": "Echinocystic acid inhibits the growth of human bladder cancer cells by suppressing AKT1/GSKβ/β-Catenin signaling and synergizes with gemcitabine",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Han X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898573",
+      "pmcid": "PMC13677967",
+      "doi": "10.1016/j.bioactmat.2026.09.035",
+      "title": "Reprogramming pathological secretory phenotype of chondrocytes inhibits neurovascular invasion for osteoarthritis treatment",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Yuan X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898639",
+      "pmcid": "PMC13677969",
+      "doi": "10.1016/j.bioactmat.2026.10.003",
+      "title": "Cytotoxic T lymphocyte-inspired nanotherapeutics chaperoning granzyme B for tumor immune remodeling",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Chen Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898715",
+      "pmcid": "PMC13678048",
+      "doi": "10.1016/j.gendis.2026.102382",
+      "title": "Glis1 regulates metabolic programming by promoting H3K18 lactylation to alleviate neuronal senescence following spinal cord injury",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Li D",
+      "source": "MED"
+    },
+    {
+      "pmid": "42898828",
+      "pmcid": "PMC13679287",
+      "doi": "10.1016/j.jhsg.2026.101161",
+      "title": "Human-Derived Motor Neuron Progenitor Cell Implantation Rescues Motor Endplates Following Peripheral Nerve Injury",
+      "year": "2027",
+      "journal": "J Hand Surg Glob Online",
+      "first_author": "Gonzales LP",
+      "source": "MED"
+    },
+    {
+      "pmid": "42899164",
+      "pmcid": "PMC13679308",
+      "doi": "10.1016/j.gendis.2026.102444",
+      "title": "Betaine alleviates renal osteodystrophy by stabilizing ABCG1 mRNA to inhibit HMOX1-mediated ferroptosis in BMSCs",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Li X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42899179",
+      "pmcid": "PMC13679311",
+      "doi": "10.1016/j.bioactmat.2026.09.043",
+      "title": "DNA-adsorbing nanozyme hydrogel reprograms the immuno-oxidative microenvironment to support stem cell-based cartilage repair in osteoarthritis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Yu H",
       "source": "MED"
     }
   ]
