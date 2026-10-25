@@ -233,36 +233,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42763546",
-      "pmcid": "PMC13589091",
-      "doi": "10.1016/j.gendis.2026.102301",
-      "title": "&lt;i&gt;LAMA5&lt;/i&gt; pathogenic variant uncovers a novel autoantigen in membranous nephropathy",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Xiao H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42775102",
-      "pmcid": "PMC13595150",
-      "doi": "10.1016/j.bioactmat.2026.07.052",
-      "title": "Zinc silicate microspheres-mediated bacterial metabolic interference and microenvironment remodeling for chronic wound repair",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Deng F",
-      "source": "MED"
-    },
-    {
-      "pmid": "42780392",
-      "pmcid": "PMC13597912",
-      "doi": "10.1016/j.gendis.2025.102005",
-      "title": "Steatotic liver-derived extracellular vesicles deliver ACSL4 to potentiate hepatic ischemia-reperfusion injury by orchestrating a ferroptosis-mitochondrial apoptosis cascade",
-      "year": "2027",
-      "journal": "Genes Dis",
-      "first_author": "Zhao H",
-      "source": "MED"
-    },
-    {
       "pmid": "42780631",
       "pmcid": "PMC13598528",
       "doi": "10.1016/j.bioactmat.2026.08.035",
@@ -353,23 +323,13 @@
       "source": "MED"
     },
     {
-      "pmid": "42807762",
-      "pmcid": "PMC13617453",
-      "doi": "10.5812/ijem-171383",
-      "title": "Association Between Serum Amylin, Irisin, and Sirtuin 1 in Male Patients with Type 2 Diabetes and Diabetic Nephropathy",
+      "pmid": "42787620",
+      "pmcid": "PMC13602404",
+      "doi": "10.1016/j.bioactmat.2026.09.015",
+      "title": "An endoplasmic reticulum-enriched nanogel couples ferroptotic tumor damage with macrophage reprogramming for triple-negative breast cancer immunotherapy",
       "year": "2027",
-      "journal": "Int J Endocrinol Metab",
-      "first_author": "Sabih Wajdi S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42807785",
-      "pmcid": "PMC13617454",
-      "doi": "10.5812/ijem-167083",
-      "title": "Disturbed Spatial Learning and Hippocampal Molecular and Histological Alterations in Middle-Aged Rats with a History of Polycystic Ovary Syndrome",
-      "year": "2027",
-      "journal": "Int J Endocrinol Metab",
-      "first_author": "Noroozzadeh M",
+      "journal": "Bioact Mater",
+      "first_author": "Chen H",
       "source": "MED"
     },
     {
@@ -500,6 +460,46 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Yu H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42903901",
+      "pmcid": "PMC13682491",
+      "doi": "10.1016/j.bioactmat.2026.10.004",
+      "title": "Surface-modified 3D-printed sphene scaffolds for photothermal osteosarcoma therapy and osteogenic stimulation",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Bigham A",
+      "source": "MED"
+    },
+    {
+      "pmid": "42904193",
+      "pmcid": "PMC13682475",
+      "doi": "10.1016/j.bioactmat.2026.09.048",
+      "title": "Guanidine-quaternary ammonium polymer-derived carbon dots differentially modulate bacterial respiration and osteoblast mitochondria to resolve infection and foster osteointegration",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Bai X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42909393",
+      "pmcid": "PMC13685005",
+      "doi": "10.1016/j.bioactmat.2026.09.044",
+      "title": "A spatiotemporally programmed bioactive scaffold for orbital reconstruction",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Shen W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42910095",
+      "pmcid": "PMC13685003",
+      "doi": "10.1016/j.bioactmat.2026.09.020",
+      "title": "Microenvironmental barriers to healing in osteoradionecrosis and opportunities for regenerative intervention",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "La Croix AE",
       "source": "MED"
     }
   ]
