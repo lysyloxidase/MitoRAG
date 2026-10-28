@@ -3,16 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42502840",
-      "pmcid": "PMC13400428",
-      "doi": "10.1016/j.synbio.2026.06.004",
-      "title": "Engineering nonconventional yeasts to produce carboxylic acids: Advances and Prospects",
-      "year": "2027",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Zhang L",
-      "source": "MED"
-    },
-    {
       "pmid": "42529264",
       "pmcid": "PMC13416829",
       "doi": "10.1016/j.synbio.2026.06.008",
@@ -433,16 +423,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42898828",
-      "pmcid": "PMC13679287",
-      "doi": "10.1016/j.jhsg.2026.101161",
-      "title": "Human-Derived Motor Neuron Progenitor Cell Implantation Rescues Motor Endplates Following Peripheral Nerve Injury",
-      "year": "2027",
-      "journal": "J Hand Surg Glob Online",
-      "first_author": "Gonzales LP",
-      "source": "MED"
-    },
-    {
       "pmid": "42899164",
       "pmcid": "PMC13679308",
       "doi": "10.1016/j.gendis.2026.102444",
@@ -500,6 +480,26 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "La Croix AE",
+      "source": "MED"
+    },
+    {
+      "pmid": "42921389",
+      "pmcid": "PMC13693071",
+      "doi": "10.1016/j.synbio.2026.10.003",
+      "title": "Screening a thermotolerant &lt;i&gt;Komagataella phaffii&lt;/i&gt; strain with methanol cross-tolerance and the associated physiological and transcriptional responses",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Li C",
+      "source": "MED"
+    },
+    {
+      "pmid": "42927122",
+      "pmcid": "PMC13694767",
+      "doi": "10.1016/j.bioactmat.2026.10.006",
+      "title": "Targeting the lactate/P300/H3K18la epigenetic pathway with a mechanoadaptive biomimetic hydrogel to suppress traumatic tendon heterotopic ossification",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Feng H",
       "source": "MED"
     }
   ]
