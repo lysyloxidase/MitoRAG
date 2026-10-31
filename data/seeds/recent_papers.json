@@ -3,36 +3,6 @@
   "count": 50,
   "papers": [
     {
-      "pmid": "42529264",
-      "pmcid": "PMC13416829",
-      "doi": "10.1016/j.synbio.2026.06.008",
-      "title": "Mining and engineering of active &lt;i&gt;PB&lt;/i&gt; transposons in &lt;i&gt;Hymenoptera&lt;/i&gt;",
-      "year": "2027",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Wang B",
-      "source": "MED"
-    },
-    {
-      "pmid": "42529265",
-      "pmcid": "PMC13416837",
-      "doi": "10.1016/j.synbio.2026.06.006",
-      "title": "Characterization of &lt;i&gt;OsNrx3i1&lt;/i&gt;, the first intron of rice &lt;i&gt;OsNrx3&lt;/i&gt; gene, as a candidate intron-mediated enhancement element for synthetic promoter engineering",
-      "year": "2027",
-      "journal": "Synth Syst Biotechnol",
-      "first_author": "Liu M",
-      "source": "MED"
-    },
-    {
-      "pmid": "42546586",
-      "pmcid": "PMC13640435",
-      "doi": "10.1016/j.biomaterials.2026.124465",
-      "title": "Transient culture of adult human hepatocytes as organoids improves engineered liver engraftment",
-      "year": "2027",
-      "journal": "Biomaterials",
-      "first_author": "Saxton SH",
-      "source": "MED"
-    },
-    {
       "pmid": "42571346",
       "pmcid": "PMC13451854",
       "doi": "10.1016/j.synbio.2026.07.004",
@@ -500,6 +470,36 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Feng H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42936108",
+      "pmcid": "PMC13696767",
+      "doi": "10.1016/j.bioactmat.2026.09.036",
+      "title": "Mitochondria-rich cytochalasomes as an intravenously deliverable vesicle platform for ischemic heart disease",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Gao X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42953337",
+      "pmcid": "PMC13715423",
+      "doi": "10.1016/j.bioactmat.2026.10.020",
+      "title": "Heterojunction nanozyme achieve highly efficient antibacterial by cuproptosis-like death and ferroptosis-like death",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Wang W",
+      "source": "MED"
+    },
+    {
+      "pmid": "42953726",
+      "pmcid": "PMC13715420",
+      "doi": "10.1016/j.bioactmat.2026.10.022",
+      "title": "Microglia-targeted delivery of MCC950 suppresses NLRP3-IL-18-mediated neuroinflammation and retinal injury in retinal vein occlusion",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Xue X",
       "source": "MED"
     }
   ]
