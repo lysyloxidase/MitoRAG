@@ -23,16 +23,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42604037",
-      "pmcid": "PMC13476631",
-      "doi": "10.1016/j.mrl.2026.200306",
-      "title": "Going high-throughput: Dynamic conformations and interactions &lt;i&gt;in vivo&lt;/i&gt;",
-      "year": "2027",
-      "journal": "Magn Reson Lett",
-      "first_author": "Gong Z",
-      "source": "MED"
-    },
-    {
       "pmid": "42701464",
       "pmcid": "PMC13545395",
       "doi": "10.1016/j.synbio.2026.08.009",
@@ -40,56 +30,6 @@
       "year": "2027",
       "journal": "Synth Syst Biotechnol",
       "first_author": "Chen X",
-      "source": "MED"
-    },
-    {
-      "pmid": "42713317",
-      "pmcid": "PMC13551886",
-      "doi": "10.1016/j.bioactmat.2026.07.029",
-      "title": "Quercetin-derived carbon dots-modified ZIF-8 and M2 macrophage-derived migrasomes-functionalized microenvironment-responsive nanocomposite hydrogel for osteoporotic bone defects regeneration",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yin H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42729454",
-      "pmcid": "PMC13562405",
-      "doi": "10.1016/j.bioactmat.2026.08.028",
-      "title": "Bioactive glasses-mediated ion therapy ameliorates hepatic osteodystrophy by reprogramming the liver-bone axis",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Liu SC",
-      "source": "MED"
-    },
-    {
-      "pmid": "42733543",
-      "pmcid": "PMC13571514",
-      "doi": "10.1016/j.bioactmat.2026.08.059",
-      "title": "Gas-propelled microneedles for precision transdermal therapeutics",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Xiao Z",
-      "source": "MED"
-    },
-    {
-      "pmid": "42733589",
-      "pmcid": "PMC13571528",
-      "doi": "10.1016/j.bioactmat.2026.08.039",
-      "title": "An oral coral-like resveratrol nanocomplex protects against dry eye disease through ocular and systemic redox homeostasis",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Cui Q",
-      "source": "MED"
-    },
-    {
-      "pmid": "42733728",
-      "pmcid": "PMC13571513",
-      "doi": "10.1016/j.bioactmat.2026.08.051",
-      "title": "A logic-gated nanoplatform spatiotemporally orchestrates immunometabolic reprogramming and osteogenesis for diabetic periodontal regeneration",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Jiang Y",
       "source": "MED"
     },
     {
@@ -500,6 +440,66 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Xue X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42959279",
+      "pmcid": "PMC13717038",
+      "doi": "10.1016/j.bioactmat.2026.09.039",
+      "title": "Trans-endplate delivery of arginine-based poly (ester amide) for structure-preserving therapy of intervertebral disc degeneration",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Ling Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42959301",
+      "pmcid": "PMC13717041",
+      "doi": "10.1016/j.bioactmat.2026.10.023",
+      "title": "Coacervate protocells-mediated mitochondrial transplantation restores gut epithelial energetic homeostasis in ulcerative colitis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Ding B",
+      "source": "MED"
+    },
+    {
+      "pmid": "42959456",
+      "pmcid": "PMC13717047",
+      "doi": "10.1016/j.bioactmat.2026.10.024",
+      "title": "A topologically engineered hydrogel platform targeting IL11 promotes renal repair after partial nephrectomy",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Yu Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42959484",
+      "pmcid": "PMC13717037",
+      "doi": "10.1016/j.bioactmat.2026.09.045",
+      "title": "Inhaled nanogels ameliorate vascular remodeling in pulmonary arterial hypertension &lt;i&gt;via&lt;/i&gt; normalization of endothelia-smooth muscle cell crosstalk",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Shi Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "42959986",
+      "pmcid": "PMC13718892",
+      "doi": "10.1016/j.bioactmat.2026.08.057",
+      "title": "Injectable bioactive glass hydrogels orchestrate metalloimmunotherapy by depleting pathogenic B cells and rescuing bone in rheumatoid arthritis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Yan Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "42960302",
+      "pmcid": "PMC13718865",
+      "doi": "10.1016/j.bioactmat.2026.10.009",
+      "title": "Recent advances in functionalized electrospun nanofibers for biomedical and therapeutic applications: A comprehensive review",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Deshmukh K",
       "source": "MED"
     }
   ]
