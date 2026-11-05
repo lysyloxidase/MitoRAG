@@ -33,26 +33,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42733772",
-      "pmcid": "PMC13571536",
-      "doi": "10.1016/j.bioactmat.2026.08.019",
-      "title": "Biomaterials for intervertebral disc regeneration: Niche reprogramming, precision therapeutics, and structural reconstruction",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Jiang Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42733785",
-      "pmcid": "PMC13571535",
-      "doi": "10.1016/j.bioactmat.2026.05.047",
-      "title": "Harnessing gasotransmitters for orthopaedic infection therapy: Mechanisms and advanced delivery platforms",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhang JY",
-      "source": "MED"
-    },
-    {
       "pmid": "42733788",
       "pmcid": "PMC13571533",
       "doi": "10.1016/j.bioactmat.2026.08.061",
@@ -500,6 +480,26 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Deshmukh K",
+      "source": "MED"
+    },
+    {
+      "pmid": "42964622",
+      "pmcid": "PMC13721008",
+      "doi": "10.1016/j.bioactmat.2026.10.026",
+      "title": "Breaking the degenerative triad: Microenvironment reprogramming biomaterials for intervertebral disc regeneration",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Zhao X",
+      "source": "MED"
+    },
+    {
+      "pmid": "42965052",
+      "pmcid": "PMC13721106",
+      "doi": "10.1016/j.bioactmat.2026.10.011",
+      "title": "3D culture-derived MSC EV facilitate repair by activating microglial autophagy in spinal cord injury",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Liu H",
       "source": "MED"
     }
   ]
