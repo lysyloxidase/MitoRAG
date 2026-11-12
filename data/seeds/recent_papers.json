@@ -33,26 +33,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42733788",
-      "pmcid": "PMC13571533",
-      "doi": "10.1016/j.bioactmat.2026.08.061",
-      "title": "The immune-microbe-metal triad: a vicious cycle driving biomaterial corrosion in the oral inflammatory microenvironment",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Wu H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741379",
-      "pmcid": "PMC13573684",
-      "doi": "10.1016/j.bioactmat.2026.09.004",
-      "title": "Functionalized biomaterial platforms for interventional embolization therapy of hepatocellular carcinoma",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zheng N",
-      "source": "MED"
-    },
-    {
       "pmid": "42741660",
       "pmcid": "PMC13573649",
       "doi": "10.1016/j.bioactmat.2026.08.015",
@@ -500,6 +480,26 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Liu H",
+      "source": "MED"
+    },
+    {
+      "pmid": "42991010",
+      "pmcid": "PMC13734972",
+      "doi": "10.1016/j.bioactmat.2026.09.025",
+      "title": "Disrupting the cholesterol-mechanics axis enables ferroptosis and deep drug delivery in hepatocellular carcinoma",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Zhu J",
+      "source": "MED"
+    },
+    {
+      "pmid": "42999541",
+      "pmcid": "PMC13743902",
+      "doi": "10.1016/j.bioactmat.2026.10.030",
+      "title": "Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1α/FNDC5 axis",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Ai Y",
       "source": "MED"
     }
   ]
