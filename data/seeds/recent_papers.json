@@ -33,16 +33,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42741660",
-      "pmcid": "PMC13573649",
-      "doi": "10.1016/j.bioactmat.2026.08.015",
-      "title": "Engineering bioactive citrate-based hydrogels for wound repair: From structure-function design to microenvironmental regulation",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhang L",
-      "source": "MED"
-    },
-    {
       "pmid": "42741683",
       "pmcid": "PMC13573703",
       "doi": "10.1016/j.bioactmat.2026.08.060",
@@ -500,6 +490,16 @@
       "year": "2027",
       "journal": "Bioact Mater",
       "first_author": "Ai Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "43012745",
+      "pmcid": "PMC13753874",
+      "doi": "10.1083/jcb.202604185",
+      "title": "The Cxcl14 chemokine defines pioneer axon guidance and early circuit assembly in the inner ear",
+      "year": "2027",
+      "journal": "J Cell Biol",
+      "first_author": "Rumbo M",
       "source": "MED"
     }
   ]
