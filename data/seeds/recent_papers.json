@@ -33,36 +33,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42741683",
-      "pmcid": "PMC13573703",
-      "doi": "10.1016/j.bioactmat.2026.08.060",
-      "title": "Artificial intelligence-guided nanozyme engineering for chronic wound healing: from rational design to precision therapeutics",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yang D",
-      "source": "MED"
-    },
-    {
-      "pmid": "42741701",
-      "pmcid": "PMC13573681",
-      "doi": "10.1016/j.bioactmat.2026.09.005",
-      "title": "From pathogenic to reparative: Context-Dependent function of extracellular vesicles in osteoarthritis",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yang Z",
-      "source": "MED"
-    },
-    {
-      "pmid": "42751552",
-      "pmcid": "PMC13580056",
-      "doi": "10.1016/j.bioactmat.2026.09.001",
-      "title": "Acoustoelectric nanoregulator for modulating the endoplasmic reticulum and mitochondria in cell fate regulation",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Feng G",
-      "source": "MED"
-    },
-    {
       "pmid": "42761305",
       "pmcid": "PMC13586833",
       "doi": "10.1016/j.bioactmat.2026.08.055",
@@ -500,6 +470,36 @@
       "year": "2027",
       "journal": "J Cell Biol",
       "first_author": "Rumbo M",
+      "source": "MED"
+    },
+    {
+      "pmid": "43022420",
+      "pmcid": "PMC13755589",
+      "doi": "10.1016/j.synbio.2026.10.007",
+      "title": "Systematic metabolic engineering for trans-aconitic acid production in &lt;i&gt;Aspergillus niger&lt;/i&gt;",
+      "year": "2027",
+      "journal": "Synth Syst Biotechnol",
+      "first_author": "Wang S",
+      "source": "MED"
+    },
+    {
+      "pmid": "43022615",
+      "pmcid": "PMC13755946",
+      "doi": "10.1016/j.gendis.2026.102182",
+      "title": "Critical roles of phosphorylation in multiple signaling pathways during the progression of osteoarthritis",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Li J",
+      "source": "MED"
+    },
+    {
+      "pmid": "43022616",
+      "pmcid": "PMC13755939",
+      "doi": "10.1016/j.gendis.2026.102194",
+      "title": "Novel post-translational modifications in fibrosis: The mechanisms and implications",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Wu Q",
       "source": "MED"
     }
   ]
