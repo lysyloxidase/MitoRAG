@@ -33,136 +33,6 @@
       "source": "MED"
     },
     {
-      "pmid": "42761305",
-      "pmcid": "PMC13586833",
-      "doi": "10.1016/j.bioactmat.2026.08.055",
-      "title": "Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Liu S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42761476",
-      "pmcid": "PMC13586694",
-      "doi": "10.1016/j.bioactmat.2026.08.062",
-      "title": "Electron-rearranged CuMg@ZIF nanoplatform for pH-Responsive sequential therapy: From infection eradication to neuroangiogenesis in diabetic wounds",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Xie H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42780631",
-      "pmcid": "PMC13598528",
-      "doi": "10.1016/j.bioactmat.2026.08.035",
-      "title": "Ultrasound-activated piezoelectric patch enhances mitophagy and synergistic anti-inflammation to promote neurological repair after TBI",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Li W",
-      "source": "MED"
-    },
-    {
-      "pmid": "42780667",
-      "pmcid": "PMC13598597",
-      "doi": "10.1016/j.bioactmat.2026.09.014",
-      "title": "Multienzymatic hybrid bio-heterojunction for synergistic microenvironment reprogramming and selenoprotein-activated mitochondrial bioenergetics in diabetic osseointegration",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhang M",
-      "source": "MED"
-    },
-    {
-      "pmid": "42780908",
-      "pmcid": "PMC13599575",
-      "doi": "10.1016/j.bioactmat.2026.08.016",
-      "title": "Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Lee D",
-      "source": "MED"
-    },
-    {
-      "pmid": "42780992",
-      "pmcid": "PMC13599583",
-      "doi": "10.1016/j.bioactmat.2026.08.021",
-      "title": "A transferrin receptor-targeted liposome for iron metabolism regulation-augmented photodynamic therapy in glioblastoma",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Wen R",
-      "source": "MED"
-    },
-    {
-      "pmid": "42781229",
-      "pmcid": "PMC13598532",
-      "doi": "10.1016/j.bioactmat.2026.08.024",
-      "title": "A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Wang Z",
-      "source": "MED"
-    },
-    {
-      "pmid": "42781235",
-      "pmcid": "PMC13598538",
-      "doi": "10.1016/j.bioactmat.2026.08.049",
-      "title": "Dismantling the eDNA-mediated H&lt;sub&gt;2&lt;/sub&gt;S barrier with biohybrids against refractory biofilm infections",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yin M",
-      "source": "MED"
-    },
-    {
-      "pmid": "42781259",
-      "pmcid": "PMC13598521",
-      "doi": "10.1016/j.bioactmat.2026.09.007",
-      "title": "A bladder microenvironment-adaptive ceria nanozyme hydrogel enables urea-responsive intravesical chemo-immunotherapy",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Yuan Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42781429",
-      "pmcid": "PMC13599580",
-      "doi": "10.1016/j.bioactmat.2026.09.019",
-      "title": "Antifibrotic hydrogel strategies for scarless tissue regeneration: mechanisms, design, and application",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhu S",
-      "source": "MED"
-    },
-    {
-      "pmid": "42781445",
-      "pmcid": "PMC13599570",
-      "doi": "10.1016/j.bioactmat.2026.09.008",
-      "title": "Dynamic coordination engineering of gallium biomaterials: A biological accessibility framework for therapeutic biofunction",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhou Y",
-      "source": "MED"
-    },
-    {
-      "pmid": "42787620",
-      "pmcid": "PMC13602404",
-      "doi": "10.1016/j.bioactmat.2026.09.015",
-      "title": "An endoplasmic reticulum-enriched nanogel couples ferroptotic tumor damage with macrophage reprogramming for triple-negative breast cancer immunotherapy",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Chen H",
-      "source": "MED"
-    },
-    {
-      "pmid": "42828102",
-      "pmcid": "PMC13631622",
-      "doi": "10.1016/j.bioactmat.2026.09.021",
-      "title": "Engineered probiotics couple photothermal cuproptosis with biomechanical disruption and immune activation",
-      "year": "2027",
-      "journal": "Bioact Mater",
-      "first_author": "Zhang X",
-      "source": "MED"
-    },
-    {
       "pmid": "42828281",
       "pmcid": "PMC13632224",
       "doi": "10.1016/j.bioactmat.2026.08.040",
@@ -500,6 +370,136 @@
       "year": "2027",
       "journal": "Genes Dis",
       "first_author": "Wu Q",
+      "source": "MED"
+    },
+    {
+      "pmid": "43023980",
+      "pmcid": "PMC13762749",
+      "doi": "10.1083/jcb.202601076",
+      "title": "ESCRT-III assembly restores membrane tension in micron-scale plasma membrane repair",
+      "year": "2027",
+      "journal": "J Cell Biol",
+      "first_author": "Meng X",
+      "source": "MED"
+    },
+    {
+      "pmid": "43032397",
+      "pmcid": "PMC13762451",
+      "doi": "10.1016/j.gendis.2026.102069",
+      "title": "Effects of bile acids and gut microbiota interactions on neurological and psychiatric disorders",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Pei X",
+      "source": "MED"
+    },
+    {
+      "pmid": "43032399",
+      "pmcid": "PMC13762453",
+      "doi": "10.1016/j.gendis.2026.102270",
+      "title": "Charting the landscape of microbiota in bladder cancer: Molecular mechanisms and therapeutic implications",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Luo Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "43032719",
+      "pmcid": "PMC13762454",
+      "doi": "10.1016/j.gendis.2026.102118",
+      "title": "Molecular insights into fatty acid metabolism reprogramming: Targeting metabolic vulnerabilities in hematological malignancies",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Li Y",
+      "source": "MED"
+    },
+    {
+      "pmid": "43034570",
+      "pmcid": "PMC13769084",
+      "doi": "10.1016/j.bioactmat.2026.09.047",
+      "title": "Engineering copper homeostasis for microenvironment-adaptive therapy in inflammation-driven disorders",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Ding F",
+      "source": "MED"
+    },
+    {
+      "pmid": "43034664",
+      "pmcid": "PMC13769081",
+      "doi": "10.1016/j.gendis.2026.102271",
+      "title": "Post-translational modifications of influenza virus proteins",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Cui M",
+      "source": "MED"
+    },
+    {
+      "pmid": "43036720",
+      "pmcid": "PMC13770623",
+      "doi": "10.1016/j.gendis.2026.102255",
+      "title": "Skin secretion of Andrias davidianus aqueous extract delays skin aging by suppressing the MAPK pathway",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Zhou R",
+      "source": "MED"
+    },
+    {
+      "pmid": "43039660",
+      "pmcid": "PMC13773824",
+      "doi": "10.26508/lsa.202603861",
+      "title": "Label-free multi-metric pipeline for reproducible clustering of single-cell RNA-seq cell types",
+      "year": "2027",
+      "journal": "Life Sci Alliance",
+      "first_author": "Yousef Z",
+      "source": "MED"
+    },
+    {
+      "pmid": "43041590",
+      "pmcid": "PMC13771462",
+      "doi": "10.1016/j.bioactmat.2026.10.031",
+      "title": "Genetically engineered extracellular vesicles with chimeric antigen receptors of human stem cell-derived neutrophils targeting fibroblast activation protein to modulate tumor microenvironment",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Esmonde C",
+      "source": "MED"
+    },
+    {
+      "pmid": "43041594",
+      "pmcid": "PMC13771445",
+      "doi": "10.1016/j.gendis.2026.102164",
+      "title": "The NEIL DNA glycosylase family: Molecular mechanisms, disease relevance, and therapeutic potential",
+      "year": "2027",
+      "journal": "Genes Dis",
+      "first_author": "Ma C",
+      "source": "MED"
+    },
+    {
+      "pmid": "43041607",
+      "pmcid": "PMC13771463",
+      "doi": "10.1016/j.bioactmat.2026.10.033",
+      "title": "PSMA-targeted nanoparticles delivering ATR and Src/Bcr-Abl inhibitors to stimulate STING and reprogram senescence-associated secretory phenotype for enhancing immunotherapy in prostate cancer",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Wang W",
+      "source": "MED"
+    },
+    {
+      "pmid": "43041618",
+      "pmcid": "PMC13771444",
+      "doi": "10.1016/j.bioactmat.2026.11.007",
+      "title": "Constructing functionalized cartilage organoids by preserving mitochondrial homeostasis to accelerate cartilage repair",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Li X",
+      "source": "MED"
+    },
+    {
+      "pmid": "43041721",
+      "pmcid": "PMC13771435",
+      "doi": "10.1016/j.bioactmat.2026.10.037",
+      "title": "Atomically dispersed nanoactivators drive innate mitochondrial biogenesis for active neuroprotection in ischemic stroke",
+      "year": "2027",
+      "journal": "Bioact Mater",
+      "first_author": "Liu M",
       "source": "MED"
     }
   ]
